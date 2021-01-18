@@ -1,0 +1,33 @@
+name: VuePress Build & FTP Deploy
+
+on: push
+
+jobs:
+  build:
+    name: install dependencies
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+
+    - name: Download
+      run: npm install
+
+    - name: Create ENV file with commit message
+      run: |
+        echo VUE_APP_COMMIT_MESSAGE = \""$(git log --format=%B -n 1 ${{ github.event.after }})"\" > .env.local
+        echo VUE_APP_RELEASE_DATE = \"$(git log --date=format:"%e. %m .%Y %H:%M:%S" --pretty=format:%ad -n 1 ${{ github.event.after }})\" >> .env.local
+    - name: Build
+      run: npm run build
+
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: public/
+        server-dir: ./
+        protocol: ftps
