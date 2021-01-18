@@ -110,13 +110,7 @@ export default {
       const initBgImageStyle = {
         textAlign: "center",
         overflow: "hidden",
-        background: `
-          url(${
-            this.$frontmatter.bgImage
-              ? this.$withBase(this.$frontmatter.bgImage)
-              : require("vuepress-theme-reco/images/bg.svg")
-          }) center/cover no-repeat
-        `,
+        background: "url(images/background.JPG) center/cover no-repeat",
       };
       const { bgImageStyle } = this.$frontmatter;
 
@@ -133,14 +127,12 @@ export default {
     this._setPage(this._getStoragePage());
   },
   methods: {
-    // 获取当前页码
     getCurrentPage(page) {
       this._setPage(page);
       setTimeout(() => {
         window.scrollTo(0, this.heroHeight);
       }, 100);
     },
-    // 根据分类获取页面数据
     getPages() {
       let pages = this.$site.pages;
       pages = pages.filter((item) => {
@@ -177,6 +169,8 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
+    color: white
+    text-shadow: 2px 8px 6px rgba(0,0,0,0.5), 0px 0px 3px rgba(0,0,0,0.9), 0px -5px 35px rgba(255,255,255,0.3)
 
     .hero-img {
       max-width: 300px;
