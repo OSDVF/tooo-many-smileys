@@ -6,7 +6,8 @@
   "repository": "https://github.com/OSDVF/tooo-many-smileys",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "upload": "wsl -- ./uploadSmileys.sh"
   },
   "devDependencies": {
     "@vuepress/plugin-medium-zoom": "^1.8.0",
