@@ -1,0 +1,16 @@
+{
+  "name": "tooo-many-smileys",
+  "version": "0.0.1",
+  "description": "Taková polička pro odkládání věcí, které mě nebo někoho jiného jednou napadly, nebo je někdo zažil",
+  "author": "O.S.DV.F",
+  "repository": "https://github.com/OSDVF/tooo-many-smileys",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.8.0",
+    "vuepress": "1.7.1",
+    "vuepress-theme-reco": "1.6.1"
+  }
+}
