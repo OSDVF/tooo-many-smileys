@@ -1,6 +1,6 @@
 ---
-title: Kdo to tady splácal 🧐
-date: 2020-01-18
+title: Kdo to tu splácal 🧐
+date: 2021-01-18
 ---
 Jmenuju se Ondra Sabela a nedokážu vyjádřit jednouduchou myšlenku jednoduchou větou, takže to bude delší 😀.
 

@@ -1,39 +1,30 @@
 <template>
-  <section class="theme-container" v-if="!noFoundPageByTencent">
+  <section class="theme-container">
     <article class="content">
-      <h1>404</h1>
-      <blockquote>{{ getMsg() }}</blockquote>
-      <router-link to="/">Toš raději na hlavní stránku.</router-link>
+      <h1>Nenale<span class="text-success">zeleno</span></h1>
+      <p>Tuto stránku vám smajlíky (PrAvDěpOdOBnĚ) neposkytnou 🙄. Pokud chcete prozkoumat, co jiného umí, podívejte se na <router-link to='/'>🏠 hlavní stránku</router-link>
+        V některých vesmírech 🌠 mají tyto chyby různé zajímavé stavové kódy. Naštěstí zde máme zařízení 😺⌨ které vám pomůže zjsitit, co znamenají.
+      </p>
+      <div class="inputBox">
+        <input type="text" class="inputBox" v-model='code' /><button class="btn" @click='submitedCode=code'>Co to znamená?</button>
+      </div>
+      <img :src='"https://http.cat/"+submitedCode' class='w-100 rounded' />
     </article>
   </section>
 </template>
 
 <script>
-const msgs = [
-  `There's nothing here.`,
-  `How did we get here?`,
-  `That's a Four-Oh-Four.`,
-  `Looks like we've got some broken links.`
-]
-
 export default {
-  computed: {
-    noFoundPageByTencent () {
-      return this.$themeConfig.noFoundPageByTencent !== false
-    }
+  data() {
+    return {
+      code: "404",
+      submitedCode: "404",
+    };
   },
-  mounted () {
-  },
-  methods: {
-    getMsg () {
-      return msgs[Math.floor(Math.random() * msgs.length)]
-    }
-  }
-}
+};
 </script>
 
 <style src="../styles/theme.styl" lang="stylus"></style>
-
 <style lang="stylus">
 .content
   margin 4rem auto 0
@@ -57,5 +48,25 @@ export default {
     .wrapper
       margin 0!important
       padding-top 20px
+</style>
+<style>
+.text-success
+{
+  color: green
+}
+input[type="text"].inputBox, button.btn {
+  width: 10rem;
+  color: #4e6e8e;
+  display: inline-block;
+  border: 1px solid;
+  border-radius: 0.25rem;
+  font-size: 0.9rem;
+  line-height: 2rem;
+  padding: 0 0.5rem 0 0.5rem;
+  outline: none;
+  transition: all 0.2s ease;
+  background-size: 1rem;
+  margin-bottom: 1rem;
+}
 </style>
 

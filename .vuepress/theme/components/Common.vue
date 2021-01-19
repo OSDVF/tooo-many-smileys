@@ -6,7 +6,7 @@
       </transition>
 
       <transition name="fade">
-        <Password v-show="!isHasKey" class="password-wrapper-out" key="out" />
+        <Password v-if="!isHasKey" class="password-wrapper-out" key="out" />
       </transition>
 
       <div :class="{ 'hide': firstLoad || !isHasKey }">
@@ -19,7 +19,7 @@
           <slot name="sidebar-bottom" slot="bottom"/>
         </Sidebar>
 
-        <Password v-show="!isHasPageKey" :isPage="true" class="password-wrapper-in" key="in"></Password>
+        <Password v-if="!isHasPageKey" :isPage="true" class="password-wrapper-in" key="in"></Password>
         <div :class="{ 'hide': !isHasPageKey }">
           <slot></slot>
         </div>

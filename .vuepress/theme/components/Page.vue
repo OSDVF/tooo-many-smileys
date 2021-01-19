@@ -1,7 +1,7 @@
 <template>
   <main class="page" :style="pageStyle">
     <ModuleTransition>
-      <div v-if="recoShowModule && $page.title" class="page-title">
+      <div class="page-title">
         <h1 class="title">{{$page.title}}</h1>
         <PageInfo :pageInfo="$page" :showAccessNumber="showAccessNumber"></PageInfo>
       </div>

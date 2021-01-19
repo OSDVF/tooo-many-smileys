@@ -50,25 +50,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Naposledy aktualizováno",
-    startYear: "2020",
-    locales: {
-      '/': {
-        recoLocales: {
-          homeBlog: {
-            article: 'Články',
-            tag: 'Nálepky',
-            category: 'Kategorie',
-            friendLink: 'Když se budete hodně nudit'
-          },
-          pagation: {
-            prev: 'Předchozí',
-            next: 'Následující',
-            go: 'Otevřít',
-            jump: 'Ukázat'
-          }
-        }
-      }
-    }
+    startYear: "2021",
   },
   markdown: {
     "lineNumbers": true
