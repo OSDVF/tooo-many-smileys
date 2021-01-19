@@ -66,9 +66,7 @@ export default {
   },
   filters: {
     formatDateValue (value) {
-      let localDate = new Date(value).toLocaleString()
-      if (value.split(' ').length === 1) localDate = localDate.split(' ')[0]
-      return localDate
+      return new Date(value).toLocaleString()
     }
   },
   methods: {

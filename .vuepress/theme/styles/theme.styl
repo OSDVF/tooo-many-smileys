@@ -62,7 +62,7 @@ body
     border-radius 4px
   img
     max-width 100%
-  *:first-child
+  p:first-child
     margin-top 0
 
 .content__default.custom
@@ -117,15 +117,6 @@ h1, h2, h3, h4, h5, h6
     &:first-child
       margin-top -3.5rem
 
-h1
-  font-size 1.6rem
-
-h2
-  font-size 1.4rem
-
-h3
-  font-size 1.2rem
-
 a.header-anchor
   font-size 0.85em
   float left
@@ -133,8 +124,20 @@ a.header-anchor
   padding-right 0.23em
   margin-top 0.125em
   opacity 0
-  &:hover
-    text-decoration none
+  text-decoration none
+
+
+h1
+  font-size 1.6rem
+h2
+  font-size 1.4rem
+
+h3
+  font-size 1.2rem
+
+h1, h2, h3, h4, h5, h6
+  &:hover .header-anchor
+    opacity: .9
 
 code, kbd, .line-number
   font-family source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace

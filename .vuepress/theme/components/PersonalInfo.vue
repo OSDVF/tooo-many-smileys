@@ -1,17 +1,6 @@
 <template>
 <div class="personal-info-wrapper">
-  <img
-    class="personal-img"
-    v-if="$themeConfig.authorAvatar"
-    :src="$withBase($themeConfig.authorAvatar)"
-    alt="author-avatar"
-  >
-  <h3
-    class="name"
-    v-if="$themeConfig.author || $site.title"
-  >
-    {{ $themeConfig.author || $site.title }}
-  </h3>
+  <h3 class="name">Jaké máme staty 📚</h3>
   <div class="num">
     <div>
       <h3>{{$recoPosts.length}}</h3>
@@ -58,6 +47,7 @@ export default defineComponent({
 
 <style lang="stylus" scoped>
 .personal-info-wrapper {
+  margin-top 2rem
   .personal-img {
     display block
     margin 2rem auto 1rem
