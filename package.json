@@ -22,7 +22,7 @@
     "@vuepress-reco/vuepress-plugin-pagation": "^1.6.0",
     "@vuepress/plugin-blog": "1.9.2",
     "docsearch.js": "2.6.3",
-    "md5": "2.2.1",
+    "md5": "2.3.0",
     "vue-click-outside": "1.1.0",
     "vue-demi": "^0.5.3",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
