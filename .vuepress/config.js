@@ -61,22 +61,22 @@ module.exports = {
     [
       "meta",
       {
-        "name":"msapplication-TileColor",
-        "content":"#3e51af"
+        "name": "msapplication-TileColor",
+        "content": "#3e51af"
       }
     ],
     [
       "meta",
       {
-        "name":"msapplication-config",
-        "content":"/ikony/browserconfig.xml"
+        "name": "msapplication-config",
+        "content": "/ikony/browserconfig.xml"
       }
     ],
     [
       "meta",
       {
-        "name":"theme-color",
-        "content":"#3e51af"
+        "name": "theme-color",
+        "content": "#3e51af"
       }
     ]
   ],
@@ -105,9 +105,38 @@ module.exports = {
     friendLink: [
       {
         "title": "Poetické jelito",
-        "desc": "Kreativní výbuchy",
+        "desc": "Kreativní výbuchy 😋",
         "link": "https://poeticke-jelito.webnode.cz/"
       },
+      {
+        "title": "Budiž ještě více smajlů!",
+        "desc": "Pokud se najde někdo tak moc šílený, že by chtěl 🤚➕ přiložit tuku k dílu... určitě jo! 😀",
+        "link": "https://github.com/OSDVF/tooo-many-smileys",
+        "logo": "https://github.githubassets.com/favicons/favicon.png"
+      },
+      {
+        "title": "D&O Softwares",
+        "desc": "Ňáké ozvěny minulosti...",
+        "link": "http://dosoftwares.8u.cz"
+      },
+      {
+        "title": "ss11mik",
+        "desc": "Kvalita softwaru zaručena 😉",
+        "link": "http://ss11mik.webz.cz",
+        "logo": "http://ss11mik.webz.cz/img/favicon.ico"
+      },
+      {
+        "title": "Dorost & Mládež Na Rozvoji",
+        "desc": "Křesťanská mládež - jako moje boty 😊",
+        "link": "https://dorostmladez.cz",
+        "logo": "https://site-898728.mozfiles.com/files/898728/banners/21302084/hmmmm.jpg?1286306"
+      },
+      {
+        "title": "Mourina doporučuje",
+        "desc": "🐈😹🐱‍👤",
+        "logo": "https://http.cat/favicon.png",
+        "link": "https://http.cat/"
+      }
     ],
     search: true,
     searchMaxSuggestions: 10,

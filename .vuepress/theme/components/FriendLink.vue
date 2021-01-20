@@ -2,8 +2,10 @@
   <div class="friend-link-wrapper">
     <div
       class="friend-link-item"
+      tabindex="0"
       v-for="(item, index) in dataAddColor"
       :key="index"
+      @keypress="keyboardControl"
       @mouseenter="showDetail($event)"
       @mouseleave="hideDetail($event)"
       target="_blank">
@@ -23,12 +25,13 @@
             </div>
             <div class="info">
               <div class="title">
-                <h4>{{ item.title }}</h4>
+                <h3>{{ item.title }}</h3>
                 <a
                   class="btn-go"
+                  @keydown="linkKeyboardControl"
                   :style="{ 'backgroundColor': item.color }"
                   :href="item.link"
-                  target="_blank">GO</a>
+                  target="_blank">👀 Prozkoumat</a>
               </div>
               <p v-if="item.desc">{{ item.desc }}</p>
             </div>
@@ -74,6 +77,21 @@ export default {
   methods: {
     getMd5 (str) {
       return md5(str)
+    },
+    linkKeyboardControl(event){
+      var e = {
+        key: event.key,
+        target: event.target.parentElement.parentElement.parentElement.parentElement.parentElement,
+        code: event.code
+      }
+      this.keyboardControl(e)
+    },
+    keyboardControl (event)
+    {
+      if(event.key=='Enter')
+        this.showDetail(event)
+      else
+        this.hideDetail(event)
     },
     showDetail (e) {
       const currentDom = e.target
@@ -124,7 +142,7 @@ export default {
       const { logo, email } = info
       if (logo && /^http/.test(logo)) return logo
       if (logo && !/^http/.test(logo)) return this.$withBase(logo)
-      return `//1.gravatar.com/avatar/${this.getMd5(email || '')}?s=50&amp;d=mm&amp;r=x`
+      return "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Smile2.svg/45px-Smile2.svg.png"
     },
     _adjustPosition (dom) {
       const { offsetWidth } = document.body
@@ -172,15 +190,15 @@ export default {
       content ''
     .popup-window-wrapper
       display none
+      position absolute
       .popup-window
-        position absolute
+        position relative
         display flex
         background var(--background-color)
         box-shadow var(--box-shadow)
         border-radius $borderRadius
         box-sizing border-box
         padding .8rem 1rem
-        width 280px
         .logo
           margin-right .4rem
           width 2rem
@@ -199,22 +217,21 @@ export default {
             align-items center
             justify-content space-between
             height 2rem
-            h4
-              margin .2rem 0
-              flex 0 0 86%
-              overflow: hidden;
+            h3
+              margin .2rem .5rem
               white-space: nowrap;
               text-overflow: ellipsis;
             .btn-go
-              width 1.4rem
-              height 1.2rem
+              position relative
+              right 0
+              padding 3px
               border-radius $borderRadius
               font-size 12px
               color #ffffff
               text-align center
               line-height 1.2rem
               cursor pointer
-              transition all .5s
+              transition transform .5s
               &:hover
                 transform scale(1.1)
 
