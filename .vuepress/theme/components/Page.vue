@@ -18,6 +18,7 @@
           v-if="editLink"
         >
           <a
+            :title="editLinkTitle"
             :href="editLink"
             target="_blank"
             rel="noopener noreferrer"
@@ -169,6 +170,11 @@ export default {
     editLinkText () {
       return (
         this.$themeLocaleConfig.editLinkText || this.$themeConfig.editLinkText || `Edit this page`
+      )
+    },
+    editLinkTitle () {
+      return (
+        this.$themeLocaleConfig.editLinkTitle || this.$themeConfig.editLinkTitle || `Edit on GitHub`
       )
     },
     pageStyle () {

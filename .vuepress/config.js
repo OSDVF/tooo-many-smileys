@@ -82,6 +82,13 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
+    nextLinks: true,
+    prevLinks: true,
+    //Nastavení pro editační odkazy
+    docsRepo: 'OSDVF/tooo-many-smileys',
+    editLinks: true,
+    editLinkText: '✨🙌 Ať je tu ještě více smajlů!',
+    editLinkTitle: 'Otevře vám místo, kde budete mít naprostou kontrolu nad těmito stránkami, muhahahahaha',
     nav: [
       {
         "text": "Všecky srandy",
