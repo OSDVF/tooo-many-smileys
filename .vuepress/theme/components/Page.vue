@@ -261,17 +261,6 @@ function flatten (items, res) {
     margin: 0 auto;
     padding: 1rem 2.5rem;
     color var(--text-color)
-  .theme-reco-content h2
-    position relative
-    padding-left 0.8rem
-    &::before
-      position absolute
-      left 0
-      bottom 0
-      display block
-      height 1.8rem
-      content ''
-      border-left 5px solid $accentColor
   .page-edit
     @extend $wrapper
     padding-top 1rem
@@ -293,6 +282,10 @@ function flatten (items, res) {
         color #aaa
   .comments-wrapper
     @extend $wrapper
+  img[src^="/images"]
+    margin-top 1rem
+    border-radius: 4px
+    box-shadow: 1px 1px 2px #00000050, 0 0 25px #00000020
 
 .page-nav
   @extend $wrapper
