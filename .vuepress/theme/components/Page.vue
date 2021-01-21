@@ -288,10 +288,24 @@ function flatten (items, res) {
         color #aaa
   .comments-wrapper
     @extend $wrapper
-  img[src^="/images"]
-    margin-top 1rem
-    border-radius: 4px
-    box-shadow: 1px 1px 2px #00000050, 0 0 25px #00000020
+  img
+    &[src^="/images"], &.round
+      margin-top 1rem
+      border-radius: 4px
+      box-shadow: 1px 1px 2px #00000050, 0 0 25px #00000020
+  a.download
+    display inline-block
+    clear both
+    padding .5rem .7rem
+    border 2px solid gray
+    border-radius 4px
+    color var(--text-color)
+    &::before
+      content "📂⬇️"
+      margin-right .5rem
+    &:hover
+      text-decoration none !important
+      background #cccccc55
 
 .page-nav
   @extend $wrapper
