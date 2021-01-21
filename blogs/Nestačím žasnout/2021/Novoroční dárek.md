@@ -8,10 +8,9 @@ tags:
 categories:
  - Nestačím žasnout 😎
 ---
-
 Nečekal jsem, že dostanu v tak velkém časovém rozmezí tolik dárků. Dostal jsem od kémoše takovou first person tower defense v Unity.
 Dokonce je tam i postavička 💡 Little Helper od Šikuly z Disneyho kačerovské ságy.
-
+<!-- more -->
 O multiplayer se nepokoušejte, není implementovaný.
 
 # Jak to vypadá

@@ -15,6 +15,6 @@ bgImageStyle: { height: "300px", text-align: start }
 isShowTitleInHome: false
 ---
 
-Skládka kreativních i nekreativích 🌼 projektů, 🚿 sprchové i 🤔 dlouho vymýšlené nápady.
+Skládka kreativních i nekreativích 🌼 projektů, 🚿 sprchové i 🤔 dlouho vymýšlené nápady. Taky květnatý Christian content ✝️, takže buď můžete objevit nový pohled nebo prostě zdrhejte 😜. I to sem patří.
 
 Doufám, že se jich neleknete už teď a pokud budete mít nějaký názor, tak ho můžete vyjádřit (až bude jak 😅), nebo pokud máte nějaký příspěvek, rád ho sem přidám, ať je to tady ještě všehochutnější 😉

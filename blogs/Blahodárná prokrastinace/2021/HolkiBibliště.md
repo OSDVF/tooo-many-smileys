@@ -7,6 +7,8 @@ tags:
 categories:
  - Blahodárná prokrastinace
 ---
+Jednou jsem napsal takovou ukvapenou reakci na nějaký meme, který jsem si přečetl na Discordu. Fakt rád vyvracím stereotypy, které se v české společnosti o Bohu tradují, a tak vzniklo tohle zamyšlení.
+<!-- more -->
 
 Tohle zamyšlení je už starší a některé informace v něm jsou _sice pěkné_ ale ne-úplně-dobře podané, protože od té doby se ke mně dostalo ňáké to nové info 😋. Třeba že bez čepky chodily na blízkém východě jen prostitutky.
 

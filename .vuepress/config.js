@@ -82,6 +82,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
+    sidebar: 'auto',
     nextLinks: true,
     prevLinks: true,
     //Nastavení pro editační odkazy
