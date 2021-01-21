@@ -1,0 +1,48 @@
+.tippy-box
+  background-color: #333;
+  color: #fff
+  display block
+  padding .4rem .6rem
+  border-radius 4px
+  line-height normal
+.tippy-arrow
+  bottom:0
+  width: 16px;
+  height: 16px;
+  color: #333;
+  &:before 
+    content: "";
+    position: absolute;
+    border-color: transparent;
+    border-style: solid;
+.tippy-box[data-placement^=top]>.tippy-arrow:before
+  bottom: -7px;
+  left: 0;
+  border-width: 8px 8px 0;
+  border-top-color: initial;
+  transform-origin: center top;
+
+.tippy-box[data-placement^="bottom"] > .tippy-arrow 
+  top: 0;
+  &:before 
+    top: -7px;
+    left: 0;
+    border-width: 0 8px 8px;
+    border-bottom-color: initial;
+    transform-origin: center bottom;
+
+.tippy-box[data-placement^="left"] > .tippy-arrow 
+  right: 0;
+  &:before 
+    border-width: 8px 0 8px 8px;
+    border-left-color: initial;
+    right: -7px;
+    transform-origin: center left;
+
+.tippy-box[data-placement^="right"] > .tippy-arrow 
+  left: 0;
+  &:before 
+    left: -7px;
+    border-width: 8px 8px 8px 0;
+    border-right-color: initial;
+    transform-origin: center right;

@@ -30,7 +30,7 @@ Když jsem to hrál, tak se mi hned chtělo tam něco vylepšit. Je libo nexus o
 ![Odrazyy](https://media.discordapp.net/attachments/610451563298816001/798280482021572608/unknown.png)
 
 A co třeba svítící nexus? Smažil jsem se to nějak udělat, ale nejdřív jsem to trochu přehnal.
-![Světloo](https://media.discordapp.net/attachments/610451563298816001/798295444517945424/unknown.png?width=500)
+![Světloo](https://media.discordapp.net/attachments/610451563298816001/798295444517945424/unknown.png)
 ![Lepšje světlo](https://cdn.discordapp.com/attachments/610451563298816001/798296072166047844/unknown.png)
 
 A jak to vypadá teď? Nebudu prozrazovat, vyzkoušejte to sami. Budete ale potřebovat Unity 😅

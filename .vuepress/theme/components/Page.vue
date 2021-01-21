@@ -85,6 +85,8 @@ import { resolvePage, outboundRE, endingSlashRE } from '@theme/helpers/utils'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
 import SubSidebar from '@theme/components/SubSidebar'
 
+import tippy from 'tippy.js';
+
 export default {
   components: { PageInfo, ModuleTransition, SubSidebar },
 
@@ -95,7 +97,18 @@ export default {
       isHasKey: true
     }
   },
-
+  updated()
+  {
+    tippy('.page [title],.page [alt]', {
+      content(reference) {
+        const title = reference.getAttribute('title') || reference.getAttribute('alt');
+        reference.removeAttribute('title')
+        reference.removeAttribute('alt')
+        return title;
+      },
+      appendTo:"parent"
+    });
+  },
   computed: {
     recoShowModule () {
       return this.$parent.recoShowModule

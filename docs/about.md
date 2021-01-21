@@ -2,6 +2,7 @@
 title: Kdo to tu splácal 🧐
 date: 2021-01-18
 ---
+<img src="http://shared.dorostmladez.cz/Shower.svg" alt="Jak bych popsal svůj myšlenkový tok" class="night-invert center medium-zoom-image" width="150"/>
 Jmenuju se Ondra Sabela a nedokážu vyjádřit jednouduchou myšlenku jednoduchou větou, takže to bude delší 😀.
 
 Mám rád **vymýšlení nových věcí**, vracení se k nedomyšleným věcem a vidět, když vymýšlejí ostatní. Jsem na FIT VUT v Brně a myslím, že člověk potřebuje k životu pořád něco vytvářet takže jsem nadšený, když potkám lidi, kteří doopravdy žijí, takže snad tady pak uvidíte i nějakou jejich věc. K tomu patří i redesign existujících věcí, třeba českého jazyka 🙃, který je nejlépe patrný v *Růžovém Panterovi (2006)*, ale vždycky se směju i když slyším *ponaszymu* nebo jiné nářečí. Neobejdu se bez čokolády, která je někdy účinnější, než kafe ☕.

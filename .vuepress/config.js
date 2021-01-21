@@ -156,6 +156,6 @@ module.exports = {
   plugins: {
     '@vuepress/plugin-medium-zoom': {
       selector: '.page img'
-    },
+    }
   },
 }
