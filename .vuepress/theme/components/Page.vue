@@ -217,7 +217,7 @@ export default {
         : `https://github.com/${docsRepo}`
       return (
         base.replace(endingSlashRE, '') +
-        `/edit` +
+        `/tree` +
         `/${docsBranch}/` +
         (docsDir ? docsDir.replace(endingSlashRE, '') + '/' : '') +
         path

@@ -88,7 +88,7 @@ module.exports = {
     //Nastavení pro editační odkazy
     docsRepo: 'OSDVF/tooo-many-smileys',
     editLinks: true,
-    editLinkText: '✨🙌 Ať je tu ještě více smajlů!',
+    editLinkText: '✨🐱‍💻 Hustokrutopřísný náhled do kódu stránky',
     editLinkTitle: 'Otevře vám místo, kde budete mít naprostou kontrolu nad těmito stránkami, muhahahahaha',
     nav: [
       {
