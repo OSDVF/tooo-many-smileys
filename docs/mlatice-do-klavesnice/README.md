@@ -1,7 +1,7 @@
 ---
 title: Srandy programátorské 👨‍💻🔨
 date: 2021-01-18
-sidebar: ["..", ""]
+sidebar: ["../", ""]
 ---
 Na tomto místě se povalují různé kusy archivního, nebo dokonce i běžícího kódu a podpůrných assetů... ✨
 ## Živé projekty
