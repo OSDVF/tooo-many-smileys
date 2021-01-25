@@ -8,8 +8,8 @@ export default {
   pagation: {
     prev: 'Předchozí',
     next: 'Následující',
-    go: 'Otevřít',
-    jump: 'Ukázat'
+    go: 'Listovat',
+    jump: 'Stránka'
   },
   tag: {
     all: 'Všechny'
