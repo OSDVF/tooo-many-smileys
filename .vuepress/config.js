@@ -104,6 +104,10 @@ module.exports = {
         "link": "/docs/about"
       },
       {
+        "text": "📦 Skladiště",
+        "link": "/docs/"
+      },
+      {
         "text": "💡 Kontakt",
         "link": "/docs/contact"
       }
@@ -129,7 +133,7 @@ module.exports = {
       },
       {
         "title": "ss11mik",
-        "desc": "Kvalita softwaru zaručena 😉",
+        "desc": "Dlaší Ondra. Kvalita softwaru zaručena 😉",
         "link": "http://ss11mik.webz.cz",
         "logo": "http://ss11mik.webz.cz/img/favicon.ico"
       },
@@ -156,7 +160,13 @@ module.exports = {
   },
   plugins: {
     '@vuepress/plugin-medium-zoom': {
-      selector: '.page img'
+      selector: '.page img',
+      options:{
+        background: "#000"
+      }
     }
   },
+  chainWebpack(config) {
+    config.devtool='inline-cheap-module-source-map'
+  }
 }

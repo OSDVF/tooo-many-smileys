@@ -30,9 +30,9 @@
       <div v-show="recoShowModule" class="home-blog-wrapper">
         <div class="blog-list">
           <!-- 博客列表 -->
-          <note-abstract
+          <post-list
             :data="$recoPosts"
-            :currentPage="currentPage"></note-abstract>
+            :currentPage="currentPage"></post-list>
           <!-- 分页 -->
           <pagation
             class="pagation"
@@ -69,7 +69,7 @@
 <script>
 import TagList from '@theme/components/TagList'
 import FriendLink from '@theme/components/FriendLink'
-import NoteAbstract from '@theme/components/NoteAbstract'
+import PostList from '@theme/components/PostList'
 import pagination from '@theme/mixins/pagination'
 import { ModuleTransition, RecoIcon } from '@vuepress-reco/core/lib/components'
 import PersonalInfo from '@theme/components/PersonalInfo'
@@ -77,7 +77,7 @@ import { getOneColor } from '@theme/helpers/other'
 
 export default {
   mixins: [pagination],
-  components: { NoteAbstract, TagList, FriendLink, ModuleTransition, PersonalInfo, RecoIcon },
+  components: { PostList, TagList, FriendLink, ModuleTransition, PersonalInfo, RecoIcon },
   data () {
     return {
       recoShow: false,

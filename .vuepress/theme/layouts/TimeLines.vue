@@ -11,7 +11,7 @@
         <li v-show="recoShowModule">
           <h3 class="year">{{item.year}}</h3>
           <ul class="year-wrapper">
-            <li v-for="(subItem, subIndex) in item.data" :key="subIndex">
+            <li v-for="(subItem, subIndex) in discardFuture(item.data)" :key="subIndex">
               <span class="date">{{subItem.frontmatter.date | dateFormat}}</span>
               <span class="title" @click="go(subItem.path)">{{subItem.title}}</span>
             </li>
@@ -47,6 +47,12 @@ export default {
   methods: {
     go (url) {
       this.$router.push({ path: url })
+    },
+    discardFuture(items)
+    {
+      if(process.env.NODE_ENV === 'development')//Dev mode
+        return items;
+      return items.filter(i => new Date() >= Date.parse(i.frontmatter.date))
     }
   }
 }

@@ -4,7 +4,6 @@
     <!-- 标签集合 -->
     <ModuleTransition>
       <TagList
-        v-show="recoShowModule"
         class="tags"
         :currentTag="$currentTags.key"
         @getCurrentTag="tagClick"></TagList>
@@ -12,12 +11,11 @@
 
     <!-- 博客列表 -->
     <ModuleTransition delay="0.08">
-      <note-abstract
-        v-show="recoShowModule"
+      <post-list
         class="list"
         :data="posts"
         :currentPage="currentPage"
-        @currentTag="$currentTags.key"></note-abstract>
+        @currentTag="$currentTags.key"></post-list>
     </ModuleTransition>
 
     <!-- 分页 -->
@@ -33,7 +31,7 @@
 
 <script>
 import Common from '@theme/components/Common'
-import NoteAbstract from '@theme/components/NoteAbstract'
+import PostList from '@theme/components/PostList'
 import TagList from '@theme/components/TagList'
 import pagination from '@theme/mixins/pagination'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
@@ -42,7 +40,7 @@ import moduleTransitonMixin from '@theme/mixins/moduleTransiton'
 
 export default {
   mixins: [pagination, moduleTransitonMixin],
-  components: { Common, NoteAbstract, TagList, ModuleTransition },
+  components: { Common, PostList, TagList, ModuleTransition },
 
   data () {
     return {

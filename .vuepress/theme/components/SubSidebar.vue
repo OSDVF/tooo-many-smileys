@@ -12,7 +12,7 @@ export default defineComponent({
 
     const isLinkActive = (header) => {
       const active = isActive(root.$route, root.$page.path + '#' + header.slug)
-      if (active) {
+      if (active && window.innerWidth > 719/* Not mobile */) {
         setTimeout(() => {
           document.querySelector(`.reco-side-${header.slug}`).scrollIntoView()
         }, 300)

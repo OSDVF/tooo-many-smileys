@@ -24,9 +24,9 @@
       <ModuleTransition delay="0.16">
         <div v-show="recoShowModule" class="home-blog-wrapper">
           <div class="blog-list">
-            <!-- 博客列表 -->
-            <note-abstract :data="$recoPosts" :currentPage="currentPage"></note-abstract>
-            <!-- 分页 -->
+            <!-- Seznam příspěvků -->
+            <post-list :data="$recoPosts" :currentPage="currentPage"></post-list>
+            <!-- Stránkování -->
             <pagation class="pagation" :total="$recoPosts.length" :currentPage="currentPage" @getCurrentPage="getCurrentPage" />
           </div>
           <div class="info-wrapper">
@@ -65,7 +65,7 @@
 <script>
 import TagList from "@theme/components/TagList";
 import FriendLink from "@theme/components/FriendLink";
-import NoteAbstract from "@theme/components/NoteAbstract";
+import PostList from "@theme/components/PostList";
 import pagination from "@theme/mixins/pagination";
 import { ModuleTransition, RecoIcon } from "@vuepress-reco/core/lib/components";
 import PersonalInfo from "@theme/components/PersonalInfo";
@@ -74,7 +74,7 @@ import { getOneColor } from "@theme/helpers/other";
 export default {
   mixins: [pagination],
   components: {
-    NoteAbstract,
+    PostList,
     TagList,
     FriendLink,
     ModuleTransition,

@@ -1,10 +1,14 @@
 <template>
-  <main class="page" :style="pageStyle">
+  <main class="page" :style="pageStyle" ref="mainElement">
     <ModuleTransition>
       <div class="page-title">
         <h1 class="title">{{$page.title}}</h1>
         <PageInfo :pageInfo="$page" :showAccessNumber="showAccessNumber"></PageInfo>
       </div>
+    </ModuleTransition>
+
+    <ModuleTransition delay="0.08">
+      <SubSidebar v-if="recoShowModule" class="side-bar" />
     </ModuleTransition>
 
     <ModuleTransition delay="0.08">
@@ -72,10 +76,6 @@
     <ModuleTransition delay="0.32">
       <Comments v-if="recoShowModule" :isShowComments="shouldShowComments"/>
     </ModuleTransition>
-
-    <ModuleTransition delay="0.08">
-      <SubSidebar v-if="recoShowModule" class="side-bar" />
-    </ModuleTransition>
   </main>
 </template>
 
@@ -106,7 +106,7 @@ export default {
         reference.removeAttribute('alt')
         return title;
       },
-      appendTo:"parent"
+      appendTo: this.$refs.mainElement
     });
   },
   computed: {
@@ -266,6 +266,49 @@ function flatten (items, res) {
   padding-bottom 2rem
   padding-right 14rem
   display block
+  font-size: 1.07rem
+  p
+    line-height 2.1
+  blockquote
+    box-sizing border-box
+    font-size: 1.2rem
+    font-weight: 500
+    letter-spacing: 0.02em
+    line-height: 1.4
+    border-left: 0.3125rem solid #0083d4
+    background linear-gradient(to right, var(--code-color), #dddddd00)
+    margin: .25rem 0 1rem
+    padding: 2rem 1.4rem 1.4rem
+    position relative
+    & > footer, & > em
+      font-size: 0.8rem;
+      font-weight: 400;
+      letter-spacing: 0;
+      line-height: 1.5;
+      display: block;
+      &:not(:first-child)
+        margin-top: 0.7rem;
+      &::before
+        content: "— "
+    &::before
+      color #a7a7a777
+      content "“"
+      font-size 4rem
+      font-family sans
+      position absolute
+      top -1.1rem
+      left .7rem
+    & > p
+      line-height 1.4
+      margin 0
+    &>:last-child::after
+      color #a7a7a777
+      content "„"
+      font-size 4rem
+      font-family sans
+      position absolute
+      bottom -.4rem
+      margin-left: .2rem
   .side-bar
     position fixed
     top 10rem
@@ -284,7 +327,7 @@ function flatten (items, res) {
     @extend $wrapper
     padding-top 1rem
     padding-bottom 1rem
-    overflow auto
+    overflow auto visible
     .edit-link
       display inline-block
       a
@@ -306,6 +349,8 @@ function flatten (items, res) {
       margin-top 1rem
       border-radius: 4px
       box-shadow: 1px 1px 2px #00000050, 0 0 25px #00000020
+    .middle
+      vertical-align middle
   a.download
     display inline-block
     clear both
@@ -337,9 +382,10 @@ function flatten (items, res) {
   .page
     padding-right 0
     .side-bar
-      display none
+      position static
+      margin 1rem 0 0 2rem
     .page-title
-      padding: 0 1rem;
+      padding: 0 1.9rem;
     .page-edit
       .edit-link
         margin-bottom .5rem

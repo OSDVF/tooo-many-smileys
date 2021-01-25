@@ -2,7 +2,7 @@
   <Common class="categories-wrapper" :sidebar="false">
     <!-- 分类集合 -->
     <ModuleTransition>
-      <ul v-show="recoShowModule" class="category-wrapper">
+      <ul class="category-wrapper">
         <li
           class="category-item"
           :class="title == item.name ? 'active': ''"
@@ -18,12 +18,11 @@
 
     <!-- 博客列表 -->
     <ModuleTransition delay="0.08">
-      <note-abstract
-        v-show="recoShowModule"
+      <post-list
         class="list"
         :data="posts"
         :currentPage="currentPage"
-        @currentTag="getCurrentTag"></note-abstract>
+        @currentTag="getCurrentTag"></post-list>
     </ModuleTransition>
 
     <!-- 分页 -->
@@ -39,7 +38,7 @@
 
 <script>
 import Common from '@theme/components/Common'
-import NoteAbstract from '@theme/components/NoteAbstract'
+import PostList from '@theme/components/PostList'
 import { ModuleTransition } from '@vuepress-reco/core/lib/components'
 import pagination from '@theme/mixins/pagination'
 import { sortPostsByStickyAndDate, filterPosts } from '@theme/helpers/postData'
@@ -48,7 +47,7 @@ import moduleTransitonMixin from '@theme/mixins/moduleTransiton'
 
 export default {
   mixins: [pagination, moduleTransitonMixin],
-  components: { Common, NoteAbstract, ModuleTransition },
+  components: { Common, PostList, ModuleTransition },
 
   data () {
     return {

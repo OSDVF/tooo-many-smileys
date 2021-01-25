@@ -15,4 +15,8 @@ V noci vypadá ještě děsivěji.
 
 ![Noční verze](/images/night-snowman.jpg)
 ## Člověk se musí občas nebát vytvořit něco většího, než je on sám
-Má se přece zítra oteplit ☀, takže dneska byl nejvyší čas ⏰. Díky týmové práci se to nakonec podařilo 🙌, i když jsme mysleli, že z někoho uděláme 🥞
+Má se přece zítra oteplit ❄️, takže dneska byl nejvyší čas ⏰. Díky týmové práci se to nakonec podařilo 🙌, i když jsme mysleli, že z někoho uděláme 🥞
+
+Dokonce to přežilo i do rána, uíííí!  
+![Denní verze](/images/day-snowman.jpg)
+

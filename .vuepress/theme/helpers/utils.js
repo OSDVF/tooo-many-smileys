@@ -122,9 +122,23 @@ export function resolveSidebarItems (page, regularPath, site, localePath) {
     ? themeConfig.locales[localePath] || themeConfig
     : themeConfig
 
-  const sidebarConfig = localeConfig.sidebar || themeConfig.sidebar
+  const pageSpecificSidebar = page.frontmatter.sidebar
+  var config
+  var base
+  if(pageSpecificSidebar)
+  {
+    config = pageSpecificSidebar
+    base = page.regularPath
+  }
+  else
+  {
+    const sidebarConfig = localeConfig.sidebar || themeConfig.sidebar
+    var resolved = resolveMatchingConfig(regularPath, sidebarConfig)
+    config = resolved.config
+    base = resolved.base
+  }
 
-  const { base, config } = resolveMatchingConfig(regularPath, sidebarConfig)
+  
   return config
     ? config.map(item => resolveItem(item, pages, base))
     : []
