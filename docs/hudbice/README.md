@@ -1,5 +1,5 @@
 ---
-title: Hudební matroš
+title: Hudební matroš 🎵
 date: 2021-01-18
 sidebar: ["../", "", "Balada"]
 ---

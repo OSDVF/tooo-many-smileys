@@ -3,6 +3,7 @@ title: "Balada o hardwaru"
 date: 2021-01-22
 tags:
  - Hudbice
+sidebar: ["../", "", "Balada"]
 ---
 
 Splácáno pro poslední zvonění 4.B na SPŠE, abych pro tu školu aaspoň něco udělal.
