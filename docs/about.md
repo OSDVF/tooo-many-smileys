@@ -20,4 +20,4 @@ Asi nejsem *křesťan*, protože křesťani jsou přece takoví ti 🐑, co pop�
 Nee, mě život moc baví a i když jsem si ho ničím nezasloužil, tak bych *Ondru* za nic nevyměnil 😀. Jo... to bude asi to, co jsem.
 
 ### Jaxem naprogramoval ty stránki
-Použil jsem VuePress, šablonu Reco remixovanou k nepoznání (kdybyste ji chtěli, tak napište), Medium Zoom plugin, tippy.js, klávesnici a myš a věci v tom stylu, je v tom guláš 🥣.
+Použil jsem VuePress, šablonu Reco remixovanou k nepoznání (kdybyste ji chtěli, tak napište), Medium Zoom plugin, tippy.js, Valine na komentáře, Leancloud, klávesnici a myš a věci v tom stylu, je v tom guláš 🥣.

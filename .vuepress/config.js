@@ -88,7 +88,7 @@ module.exports = {
     //Nastavení pro editační odkazy
     docsRepo: 'OSDVF/tooo-many-smileys',
     editLinks: true,
-    editLinkText: '✨🐱‍💻 Hustokrutopřísný náhled do kódu stránky',
+    editLinkText: '✨🐱‍💻 Hustokrutopřísný kód stránky',
     editLinkTitle: 'Otevře vám místo, kde budete mít naprostou kontrolu nad těmito stránkami, muhahahahaha',
     nav: [
       {
@@ -154,6 +154,14 @@ module.exports = {
     searchMaxSuggestions: 10,
     lastUpdated: "Naposledy aktualizováno",
     startYear: "2021",
+    valineConfig: {//Komentářový plugin
+      appId: 'k8vrwntDRlUBMnlX9YBLk813-MdYXbMMI',
+      appKey: '8IuNgg6cec570qpHI7JsMPkv',
+      avatar: 'robohash',
+      lang: 'cs',
+      langMode: require("./comments-cs"),
+      placeholder: 'Ňáký komentář, grammar nazi připomínky...?'
+    }
   },
   markdown: {
     "lineNumbers": true
@@ -161,12 +169,13 @@ module.exports = {
   plugins: {
     '@vuepress/plugin-medium-zoom': {
       selector: '.page img',
-      options:{
+      options: {
         background: "#000"
       }
     }
   },
-  chainWebpack(config) {
-    config.devtool='inline-cheap-module-source-map'
+  chainWebpack(config)
+  {
+    config.devtool = 'inline-cheap-module-source-map'
   }
 }

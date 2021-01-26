@@ -50,7 +50,7 @@ Nemám ale ve zvyku vařit lidem život 🍲 a tak jsem jim vyšel vstříc. Doz
 Převodník byl totiž součástí takového vojenského zařízení.
 
 Když jsem vešel do výrobní haly, tvářil jsem se maximálně znuděně a nepřekvapeně, protože jsem pomalu přiházel na gloub tomu, co se tady děje.  
-Byl to [nepotismus](https://cs.wikipedia.org/wiki/Nepotismus) na seriálové úrovni. Budu používat krycí jména. Do **velké zakázky** byli totiž zapojeni 3 firmy. Jedna to měla na starost, řekněme "Češi", druhá byla příbuzná, řekněme "Slováci" a pak tu byl 🤓, který se mezi ně smažil vetřít pomocí svého Kontaktu 😎 mezi "Čechy", aby mohl zaujmout místo "Slováků". Dozvěděl jsem se, teda, že ten degeš, který vymýšlel to strohé _zadání_, na které tu pořád nadávám, je právě "Slovák", takže se mě v podstatě smažil sabotovat 💣.
+Byl to [nepotismus](https://cs.wikipedia.org/wiki/Nepotismus) na seriálové úrovni. Budu používat krycí jména. Do **velké zakázky** byly totiž zapojeny 3 firmy. Jedna to měla na starost, řekněme "Češi", druhá byla příbuzná, řekněme "Slováci" a pak tu byl 🤓, který se mezi ně smažil vetřít pomocí svého Kontaktu 😎 mezi "Čechy", aby mohl zaujmout místo "Slováků". Dozvěděl jsem se, teda, že ten degeš, který vymýšlel to strohé _zadání_, na které tu pořád nadávám, je právě "Slovák" a že se mě v podstatě smažil sabotovat 💣.
 
 ## Místo činu
 Moje práce teda spočívala v tom, že jsem sedl na místo činu a zjišťoval, co by měl vlastně ten převodník reálně měla převádět.  

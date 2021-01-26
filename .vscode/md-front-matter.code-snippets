@@ -8,6 +8,7 @@
   // Example:
   "Front matter": {
     "prefix": "--",
+    "scope": "markdown",
     "body": [
       "---",
       "title: \"$1\"",
@@ -22,22 +23,27 @@
   },
   "Warning container": {
     "prefix": "::: warning",
-    "body": ["::: warning $1", "$2", ":::"]
+    "body": ["::: warning $1", "$2", ":::"],
+    "scope": "markdown",
   },
   "Tip container": {
     "prefix": "::: tip",
-    "body": ["::: tip $1", "$2", ":::"]
+    "body": ["::: tip $1", "$2", ":::"],
+    "scope": "markdown",
   },
   "Details container": {
     "prefix": "::: details",
-    "body": ["::: details $1", "$2", ":::"]
+    "body": ["::: details $1", "$2", ":::"],
+    "scope": "markdown",
   },
   "Danger container": {
     "prefix": "::: danger",
-    "body": ["::: danger $1", "$2", ":::"]
+    "body": ["::: danger $1", "$2", ":::"],
+    "scope": "markdown",
   },
   "More divider":{
     "prefix": "more",
-    "body": "<!-- more -->"
+    "body": "<!-- more -->",
+    "scope": "markdown",
   }
 }

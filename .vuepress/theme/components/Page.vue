@@ -268,7 +268,7 @@ function flatten (items, res) {
   display block
   font-size: 1.07rem
   p
-    line-height 2.1
+    line-height 2
   blockquote
     box-sizing border-box
     font-size: 1.2rem
@@ -344,6 +344,10 @@ function flatten (items, res) {
         color #aaa
   .comments-wrapper
     @extend $wrapper
+  .v[data-class=v]
+    .vinput, .veditor, p
+      color: var(--text-color)
+      font-size .95rem
   img
     &[src^="/images"], &.round
       margin-top 1rem
