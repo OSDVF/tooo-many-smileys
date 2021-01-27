@@ -9,12 +9,13 @@
               <input name="link" placeholder="Jste taky 🙃 a máte 🌐? (http://)" class="vlink vinput" type="text" v-model="web" style="width:32%">
             </div>
             <div class="vedit">
-              <textarea id="veditor" class="veditor vinput" style="min-height:200px" placeholder="Ňáký návrh, nápad, záviděníhodná věc k přidání...?" v-model="message"></textarea>
+              <textarea id="veditor" class="veditor vinput" style="min-height:200px" placeholder="Ňáký návrh, nápad, záviděníhodná věc k přidání...?" v-model="message" required></textarea>
               <div class="vrow">
                 <div class="vcol vcol-60 status-bar"></div>
               </div>
               <div class="vrow">
-                <input type="submit" value="Poslat 👉" class="vsubmit vbtn vcol" style="float:right" />
+                <progress class="vcol" v-show="loading" />
+                <input type="submit" v-show="!loading" value="Poslat 👉" class="vsubmit vbtn vcol" style="float:right" />
               </div>
             </div>
           </form>
@@ -45,6 +46,7 @@ export default {
       success: false,
       error: false,
       errStr: "Žádná chyba",
+      loading: false
     };
   },
   methods: {
@@ -65,6 +67,7 @@ export default {
 
       // Save the object to the cloud
       var _self = this;
+      _self.loading = true;
       mess.save().then(
         (savedMess) => {
           // Execute any logic that should take place after the object is saved
@@ -73,10 +76,11 @@ export default {
           _self.success = true;
           _self.id = mess.id;
 
-          this.name = "";
-          this.message = "";
-          this.email = "";
-          this.web = "";
+          _self.name = "";
+          _self.message = "";
+          _self.email = "";
+          _self.web = "";
+          _self.loading = false;
         },
         (error) => {
           // Execute any logic that should take place if the save fails
