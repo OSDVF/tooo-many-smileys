@@ -1,7 +1,11 @@
 ---
 title: Mlátice do klávesnice 👨‍💻🔨
 date: 2021-01-18
-sidebar: ["../", "", "Divnosti/", "Sdílené/"]
+sidebar: 
+- ../
+- ""
+- Sdílené
+- Divnosti
 ---
 Na tomto místě se povalují různé kusy archivního, nebo dokonce i běžícího kódu a podpůrných assetů... ✨
 
