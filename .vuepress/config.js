@@ -172,7 +172,10 @@ module.exports = {
       options: {
         background: "#000"
       }
-    }
+    },
+    'sitemap': {
+      hostname: 'http://prilismnohosmajliku.wz.cz'
+    },
   },
   chainWebpack(config)
   {
