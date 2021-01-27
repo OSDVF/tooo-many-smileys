@@ -58,6 +58,10 @@
       <ModuleTransition delay="0.24">
         <Content v-show="recoShowModule" class="home-center" custom />
       </ModuleTransition>
+      <div class="comments-wrapper"><small>Všechny komentáře jsou veřeně viditelné 👀. Pokud chcete něco říct v soukromí, <router-link to="/docs/contact.html">můžete tady.</router-link></small></div>
+      <ModuleTransition delay="0.32">
+        <Comments :isShowComments="true" />
+      </ModuleTransition>
     </div>
   </ClientOnly>
 </template>
@@ -156,11 +160,21 @@ export default {
 </script>
 
 <style lang="stylus">
-.home-blog {
+.home-blog
   padding: 0;
   margin: 0px auto;
 
-  .hero {
+  .comments-wrapper
+    max-width $contentWidth
+    margin: 0 auto;
+    padding: 1rem 2.5rem;
+    @media (max-width: $MQNarrow)
+      padding 2rem
+    @media (max-width: $MQMobileNarrow)
+      padding 1.5rem
+  
+
+  .hero
     margin: $navbarHeight auto 0;
     position: relative;
     box-sizing: border-box;
@@ -169,46 +183,46 @@ export default {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white
-    text-shadow: 2px 8px 6px rgba(0,0,0,0.5), 0px 0px 3px rgba(0,0,0,0.9), 0px -5px 35px rgba(255,255,255,0.3)
+    color: white;
+    text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.5), 0px 0px 3px rgba(0, 0, 0, 0.9), 0px -5px 35px rgba(255, 255, 255, 0.3);
 
-    .hero-img {
+    .hero-img
       max-width: 300px;
       margin: 0 auto 1.5rem;
-    }
+    
 
-    h1 {
+    h1
       display: block;
       margin: 0 auto 1.8rem;
       font-size: 1.8rem;
-    }
+    
 
-    .description {
+    .description
       margin: 1.8rem auto;
       font-size: 1rem;
       line-height: 1.3;
-    }
-  }
+    
+  
 
-  .home-blog-wrapper {
+  .home-blog-wrapper
     display: flex;
     align-items: flex-start;
     margin: 20px auto 0;
     padding: 0 20px;
     max-width: $homePageWidth;
 
-    .blog-list {
+    .blog-list
       flex: auto;
       width: 0;
 
-      .abstract-wrapper {
-        .abstract-item:last-child {
+      .abstract-wrapper
+        .abstract-item:last-child
           margin-bottom: 0px;
-        }
-      }
-    }
+        
+      
+    
 
-    .info-wrapper {
+    .info-wrapper
       position: -webkit-sticky;
       position: sticky;
       top: 70px;
@@ -223,19 +237,19 @@ export default {
       padding: 0 15px;
       background: var(--background-color);
 
-      &:hover {
+      &:hover
         box-shadow: var(--box-shadow-hover);
-      }
+      
 
-      h4 {
+      h4
         color: var(--text-color);
-      }
+      
 
-      .category-wrapper {
+      .category-wrapper
         list-style: none;
         padding-left: 0;
 
-        .category-item {
+        .category-item
           margin-bottom: 0.4rem;
           padding: 0.4rem 0.8rem;
           transition: all 0.5s;
@@ -243,21 +257,21 @@ export default {
           box-shadow: var(--box-shadow);
           background-color: var(--background-color);
 
-          &:hover {
+          &:hover
             transform: scale(1.04);
 
-            a {
+            a
               color: $accentColor;
-            }
-          }
+            
+          
 
-          a {
+          a
             display: flex;
             justify-content: space-between;
             align-items: center;
             color: var(--text-color);
 
-            .post-num {
+            .post-num
               width: 1.6rem;
               height: 1.6rem;
               text-align: center;
@@ -266,103 +280,86 @@ export default {
               background: #eee;
               font-size: 13px;
               color: #fff;
-            }
-          }
-        }
-      }
-    }
-  }
-}
 
-@media (max-width: $MQMobile) {
-  .home-blog {
-    .hero {
+@media (max-width: $MQMobile)
+  .home-blog
+    .hero
       height: 450px;
 
-      img {
+      img
         max-height: 210px;
         margin: 2rem auto 1.2rem;
-      }
+      
 
-      h1 {
+      h1
         margin: 0 auto 1.8rem;
         font-size: 2rem;
-      }
+      
 
-      .description {
+      .description
         font-size: 1.2rem;
-      }
+      
 
-      .action-button {
+      .action-button
         font-size: 1rem;
         padding: 0.6rem 1.2rem;
-      }
-    }
+      
+    
 
-    .home-blog-wrapper {
+    .home-blog-wrapper
       display: block !important;
 
-      .blog-list {
+      .blog-list
         width: auto;
-      }
+      
 
-      .info-wrapper {
+      .info-wrapper
         // display none!important
         margin-left: 0;
 
-        .personal-info-wrapper {
+        .personal-info-wrapper
           display: none;
-        }
-      }
-    }
-  }
-}
 
-@media (max-width: $MQMobileNarrow) {
-  .home-blog {
-    .hero {
+@media (max-width: $MQMobileNarrow)
+  .home-blog
+    .hero
       height: 450px;
 
-      img {
+      img
         max-height: 210px;
         margin: 2rem auto 1.2rem;
-      }
+      
 
-      h1 {
+      h1
         margin: 0 auto 1.8rem;
         font-size: 2rem;
-      }
+      
 
-      h1, .description, .action {
+      h1, .description, .action
         // margin: 1.2rem auto;
-      }
+      
 
-      .description {
+      .description
         font-size: 1.2rem;
-      }
+      
 
-      .action-button {
+      .action-button
         font-size: 1rem;
         padding: 0.6rem 1.2rem;
-      }
-    }
+      
+    
 
-    .home-blog-wrapper {
+    .home-blog-wrapper
       display: block !important;
 
-      .blog-list {
+      .blog-list
         width: auto;
-      }
+      
 
-      .info-wrapper {
+      .info-wrapper
         // display none!important
         margin-left: 0;
 
-        .personal-info-wrapper {
+        .personal-info-wrapper
           display: none;
-        }
-      }
-    }
-  }
-}
 </style>

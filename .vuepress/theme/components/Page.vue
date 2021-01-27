@@ -72,7 +72,7 @@
         </p>
       </div>
     </ModuleTransition>
-
+    <div class="page-edit"><small>Všechny komentáře jsou veřeně viditelné 👀. Pokud chcete něco říct v soukromí, <router-link to="/docs/contact.html">můžete tady.</router-link></small></div>
     <ModuleTransition delay="0.32">
       <Comments v-if="recoShowModule" :isShowComments="shouldShowComments"/>
     </ModuleTransition>
@@ -344,10 +344,6 @@ function flatten (items, res) {
         color #aaa
   .comments-wrapper
     @extend $wrapper
-  .v[data-class=v]
-    .vinput, .veditor, p
-      color: var(--text-color)
-      font-size .95rem
   img
     &[src^="/images"], &.round
       display block

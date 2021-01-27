@@ -1,13 +1,47 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"type": "npm",
-			"script": "dev",
-			"problemMatcher": [],
-			"label": "Dev Server",
-			"detail": "vuepress dev . --open --host \"localhost\"",
-			"group": "build"
-		}
-	]
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": [],
+      "label": "Dev Server",
+      "detail": "vuepress dev . --open --host \"localhost\"",
+      "group": "build"
+    },
+    {
+      "label": "Print all tags and categories",
+      "type": "shell",
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": true,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "command": "powershell",
+      "args": [
+        "-Command",
+        "dir public\\categories -exclude index.html -name; echo ==TAGS===; dir public\\tag -exclude index.html -name"
+      ]
+    },
+    {
+      "label": "Append tags and categories to current file",
+      "type": "shell",
+      "presentation": {
+        "echo": false,
+        "reveal": "silent",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "command": "pwsh-preview",
+      "args": [
+        "-Command",
+        "(dir public\\categories -exclude index.html -name) | Out-File \\\"${file}\\\" -Append; (echo ==TAGS===) | Out-File \\\"${file}\\\" -Append; (dir public\\tag -exclude index.html -name) | Out-File \\\"${file}\\\" -Append"
+      ]
+    }
+  ]
 }

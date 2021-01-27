@@ -160,7 +160,7 @@ module.exports = {
       avatar: 'robohash',
       lang: 'cs',
       langMode: require("./comments-cs"),
-      placeholder: 'Ňáký komentář, grammar nazi připomínky...?'
+      placeholder: 'Ňáký veřejný komentář, grammar nazi připomínky...?'
     }
   },
   markdown: {

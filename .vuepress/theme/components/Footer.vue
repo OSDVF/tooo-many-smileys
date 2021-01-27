@@ -21,7 +21,6 @@
       <reco-icon icon="reco-eye" />
       <AccessNumber idVal="/" />
     </span>
-    <Comments :isShowComments="false"/>
   </div>
 </template>
 
