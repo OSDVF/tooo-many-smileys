@@ -122,7 +122,7 @@ module.exports = {
       },
       {
         "title": "Budiž ještě více smajlů!",
-        "desc": "Pokud se najde někdo tak moc šílený, že by chtěl 🤚➕ přiložit tuku k dílu... určitě jo! 😀",
+        "desc": "Pokud se najde nějaký moc šílený programátor, že by chtěl 🤚➕ přiložit tuku k dílu... určitě jo! 😀",
         "link": "https://github.com/OSDVF/tooo-many-smileys",
         "logo": "https://github.githubassets.com/favicons/favicon.png"
       },

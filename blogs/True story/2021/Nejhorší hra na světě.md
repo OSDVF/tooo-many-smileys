@@ -54,6 +54,7 @@ Byl to [nepotismus](https://cs.wikipedia.org/wiki/Nepotismus) na seriálové úr
 
 ## Místo činu
 Moje práce teda spočívala v tom, že jsem sedl na místo činu a zjišťoval, co by měl vlastně ten převodník reálně měla převádět.  
+![Vzácný snímek interiéru místa činu. Tím kolečkem se otevírá hlaveň](/images/interiér.jpg)
 🤓 věrně čekal opodál v hale a přesvědčoval papaláše, že to stihnu do pátku, kdy si pro to měl přijít zákazník. Naštěstí to neměl být úplný deadline **velké zakázky** ale jen průběžná předváděčka. Zákazníkovi do toho naštěstí v pátek něco vlezlo, takže měl přijet až v úterý, což nám zachránilo krk (někomu i více, než to - Kontakt 😎 popisoval jeho aktuální situaci jako "koule ve svěráku").   
 Problémy, které jsem řešil, byly klíčové. Můj nejbližší spoluprogramátor - Kontakt 😎 - čaasto nevěděl, jak se na papíře vyjádřit, takže jsem mu často musel ukazovat seznam jedniček a nul a ptát se ho "když tam pošlou tohle, tak co mám do prkna poslat tobě"? Často, když jsem mu předváděl výsledek mé opravy, řekl za pět minut, že to chce jinak, a že mi to tak vlastně celou dobu říkal.
 ### Konec dne
@@ -166,4 +167,4 @@ No a ještě to neskončilo.
 ## Zrada #2
 "Slováci" si řekli, že chtějí další 🔳. A měli na mě moc pěkný požadavek. Aby to mělo IP adresu `10.10.53.255`. Síťaři už tuší, že to tak úplně nevyšlo. 🔳 teda pořád na síti existuje a přeposílá to, co má, ale přes SSH už se na něj nepřipojím. Možná jste jedním z těch šťastlivců, kterých jsem se ptal, jestli náhodou nemají USB➡RS232 kabel. Ten se totiž dá použít jako zadní vrátka.
 
-Ještě to teda neskončilo, je 25.1. a na místo činu jedu znova kvůli testování.
+Ještě to teda neskončilo, je 25.1. a na místo činu jedu znova kvůli testování. Pokračování 26.1.: tak jsem jim řekl, že já mám bohužel všechno dobře a oni mají něco špatně. Toš jsme si s 🤓 dali oběd 🧀 a jeli domů 😂.

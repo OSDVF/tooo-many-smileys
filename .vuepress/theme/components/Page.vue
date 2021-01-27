@@ -350,6 +350,8 @@ function flatten (items, res) {
       font-size .95rem
   img
     &[src^="/images"], &.round
+      display block
+      margin 0 auto
       margin-top 1rem
       border-radius: 4px
       box-shadow: 1px 1px 2px #00000050, 0 0 25px #00000020

@@ -10,8 +10,9 @@ categories:
 
 To jsem tak jednou šel ze zubní hygieny a po krátkém motivačním hovoru jsem se rozhodl, že si koupím čokoládu v Tescu.
 <!-- more -->
-Pak jsem chtěl jít na pojišťovnu, aby mi tu hyenu proplatili.
-Po cestě jsem viděl nějakého chlapa ležet na takové travnatém placu u autobusového stanoviště ☘️. Z dálky nevypadal, nějak hrůzostrašně. Sedl jsem si na lavičku a čekal, jestli se třeba pohne, abych věděl, že žije. Po minutě se pohnul, tak jsem si říkal, že je prostě unavený. Jo a… bylo to v prosinci ❄️.
+Pak jsem chtěl jít na pojišťovnu, aby mi tu hyenu proplatili.  
+Po cestě jsem viděl nějakého chlapa ležet na takové travnatém placu u autobusového stanoviště ☘️. Z dálky nevypadal, nějak hrůzostrašně. Sedl jsem si na lavičku a čekal, jestli se třeba pohne, abych věděl, že žije. Po minutě se pohnul, tak jsem si říkal, že je prostě unavený.
+![Jo a… bylo to v prosinci ❄️](/images/listy.jpg)
 
 V pojišťovně měli zavřeno 🚪. Tak jsem se vrátil a zase si sedl na lavičku. Co by to s ním asi udělalo, kdybych mu dal tu čokoládu? Přemáhal jsem se, to půjde.  
 Tak jsem se zvedl, a odpočítával jsem kroky, které k němu ještě budu muset udělat 👟. Nasadil jsem veselý výraz 😊 a řekl jsem:
