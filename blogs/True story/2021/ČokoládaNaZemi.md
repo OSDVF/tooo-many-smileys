@@ -37,7 +37,7 @@ Chá, řekl jsem si, takže pomáhat by se mělo jenom takovým těm **hodným s
 Když zjistili, že je z Třince, tak ho prostě poslali do Třince 🏭. Squělá práce, bývorně. Sedli si do auta a vyčkávali, co se bude dít. Chlápek se rozmluvil.
 > Kdybych chtěl, tak já bych jim tak ukázal!
 
-"Áha. A proč 😬?" byla moje odpověď. "Já jsem byl voják!" pokračoval nesouvisle. No jo. Zelený mozek, řekl jsem si.  
+"Áha. A proč 😬?" byla moje odpověď. "Já jsem byl voják!" pokračoval. No jo. Zelený mozek, řekl jsem si.  
 "Hele, čekají," všiml si.  
 "Myslíš, že čekají na tebe?"  
 "No čekají."  

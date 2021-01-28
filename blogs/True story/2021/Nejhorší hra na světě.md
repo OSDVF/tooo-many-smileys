@@ -81,7 +81,7 @@ Pak jsem si sedl s notebookem na místo činu a vedle mě seděl tam asi o 10 cm
 > <p>No to je škoda. Protože to se dělá takhle <span class="text-muted">(otočil se na mě)</span>:
 > Bude to fungovat?</p>
 
-Má odpověď "Samozřejmě," ho překvapila. "Fakt jo?" "Ano." Byl jsem si jistější, než že žiju. Pak se na mě snažil dělat ramena. "No a víš co stačí udělat?" "No ukažte," řekl jsem s výrazem někoho, kdo pozoruje malé dítě, jak se mu snaží polít hrad z písku vodou. Zmáčkl na mém notebooku 3 klávesy, takže napsal do mého `ssh root@20.20.53.200` terminálu 💻 něco jako <kbd>FGŘ</kbd>.
+Má odpověď "Samozřejmě," ho překvapila. "Fakt jo?" "Ano." Byl jsem si jistější, než že žiju. Pak se na mě snažil dělat ramena. "No a víš co stačí udělat?" "No ukažte," řekl jsem s výrazem někoho, kdo pozoruje malé dítě, jak se mu snaží polít hrad z písku vodou. Zmáčkl na mém notebooku 3 klávesy, takže napsal do mého `ssh root@20.20.53.200` terminálu 💻 něco jako [[FGŘ]].
 
 > <footer>Statný</footer>
 > A teď jseš v prdeli.
@@ -156,7 +156,7 @@ Už nevím, co odpověděl. Na chvíli bylo ticho ⌛.
 "No věřím, že existuje věčný život, nebo jakoby trochu něco jiného, než druhý život. To by jinak byla spíš reinkarnace. Dává mi to logicky smysl. Proč by Bůh chtěl, abychom se skoro donekonečna rodili znova a někdy do docela špatných životů? To by se s náma nemohl nikdy věčně radovat. Nedávalo by mi to logiku."  
 "Aha… jasně." Vypadalo to, že to byl jeho první takový rozhovor v životě.
 
-Mám okno, přesně si nepamatuju, co se dál odehrávalo, ale víc jsme toho už neřekli.
+Mám okno, přesně si nepamatuju, co se dál odehrávalo, ale víc jsme toho už neřekli. Kdyby tohle celé měl být dobrý příběh, tak by to ještě chtělo nějaký konec, nebo aspoň vyvrcholení. Realita se ale zrovna rozhodla nesouhlasit.
 
 Kvůli tomuhle člověku se vyplatilo to všechno přežít. Nechtěl bych mu vzít možnost dozvědět se věci, které ho zajímají i když jsou třeba nevšední.
 

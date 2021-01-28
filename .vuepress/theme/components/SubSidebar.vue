@@ -67,10 +67,14 @@ export default defineComponent({
       a
        color $accentColor
     &.level-1
-      padding-left .4rem
+      padding-left .5rem
     &.level-2
       padding-left .9rem
     &.level-3
-      padding-left 1.5rem
+      padding-left 1.4rem
+    &.level-4
+      padding-left 1.9rem
+    &.level-5
+      padding-left 2.3rem
 </style>
 

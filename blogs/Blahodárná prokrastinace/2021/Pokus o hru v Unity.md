@@ -5,11 +5,12 @@ tags:
  - Unity
  - C#
  - Programování
+ - Naprosto zbytečné
 categories:
  - Blahodárná prokrastinace
 ---
 
-Mělo se to jmenovat <kbd>BackToSpace</kbd> a úplně to nevyšlo.
+Mělo se to jmenovat _BackToSpace_ a úplně to nevyšlo.
 <!-- more -->
 
 Když jsem byl na střední škole, tak mě začalo bavit Unity. Kromě jedné znělky, kterou můžete vidět v různých videích, [hlavně dorostových](https://archiv.dorostmladez.cz/trio-de-blb/videa/), jsem v tom nic použitelného nevyrobil. Mnohem lepší v tom jsou v současnosti [moji kémoši](/docs/mlatice-do-klavesnice/Sdílené.html). Každopádně za touhle hrou měl být takový říběh, že ztroskotáte na planetě 🚀🔥, opravíte raketu a vrátíte se back to space. Jednoduché.

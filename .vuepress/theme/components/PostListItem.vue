@@ -7,7 +7,7 @@
       <reco-icon v-if="item.frontmatter.keys" icon="reco-lock" />
       <router-link :to="item.path">{{item.title}}</router-link>
     </div>
-    <div class="abstract" v-html="item.excerpt"></div>
+    <div class="abstract" v-html="excerpt"></div>
     <PageInfo
       :pageInfo="item"
       :currentTag="currentTag">
@@ -20,7 +20,16 @@ import { RecoIcon } from '@vuepress-reco/core/lib/components'
 import PageInfo from './PageInfo'
 export default {
   components: { PageInfo, RecoIcon },
-  props: ['item', 'currentPage', 'currentTag']
+  props: ['item', 'currentPage', 'currentTag'],
+  computed: {
+    excerpt()
+    {
+      const fromFrontMatter = this.item.frontmatter.excerpt;
+      if(fromFrontMatter)
+        return `<p>${fromFrontMatter}</p>`;
+      return this.item.excerpt;
+    }
+  }
 }
 </script>
 
