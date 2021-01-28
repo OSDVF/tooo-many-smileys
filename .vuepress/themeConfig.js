@@ -9,20 +9,16 @@ module.exports = {
     editLinkTitle: 'Otevře vám místo, kde budete mít naprostou kontrolu nad těmito stránkami, muhahahahaha',
     nav: [
       {
-        "text": "Všecky srandy",
-        "link": "/",
-      },
-      {
         "text": "😎👉📈 Časová osa",
         "link": "/timeline/",
       },
       {
-        "text": "🤦‍♂️ Kdo to tu splácal",
-        "link": "/docs/about"
-      },
-      {
         "text": "📦 Skladiště",
         "link": "/docs/"
+      },
+      {
+        "text": "🤦‍♂️ Kdo to tu splácal",
+        "link": "/docs/about"
       },
       {
         "text": "💡 Kontakt",
