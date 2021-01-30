@@ -2,8 +2,8 @@
 title: S radostí sdílené projekty
 date: 2021-01-27
 sidebar: 
-  - ["../", "⤴️ Skladiště 📦"]
-  - ["", "⤴️ Mlátice do klávesnice 👨‍💻🔨"]
+  - ../
+  - ""
   - Sdílené
   - Divnosti
 ---

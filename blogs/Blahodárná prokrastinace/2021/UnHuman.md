@@ -5,6 +5,7 @@ tags:
  - 🗣️💬🤩👉🌐/📰
 categories:
  - Blahodárná prokrastinace
+ - Naprosto zbytečné
 ---
 
 Sláva, tohle je další příběh od Dominika, pokud jste nečetli ten první, [určitě to zkuste](Pheonix.md "Jmenuje se Pheonix"), stojí to za to!

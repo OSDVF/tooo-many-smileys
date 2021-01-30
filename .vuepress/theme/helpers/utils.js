@@ -60,10 +60,13 @@ export function resolvePage (pages, rawPath, base) {
   const path = normalize(rawPath)
   for (let i = 0; i < pages.length; i++) {
     if (normalize(pages[i].regularPath) === path) {
-      return Object.assign({}, pages[i], {
+      var pageOptionsModifier = {
         type: 'page',
         path: ensureExt(pages[i].path)
-      })
+      }
+      if(rawPath.length < base.length) //The link leads to a page higher in the hierarchy
+        pageOptionsModifier.title = '⤴️ ' + pages[i].title
+      return Object.assign({}, pages[i], pageOptionsModifier)
     }
   }
   console.error(`[vuepress] No matching page found for sidebar item "${rawPath}"`)
