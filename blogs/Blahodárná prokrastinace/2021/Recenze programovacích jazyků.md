@@ -244,7 +244,7 @@ Někteří lidi se Céčko smaží "vylepšit" pomocí naprosto čitelných `#de
 
 A pak jsou tu definice ukazatelů na funkce, které vypadají asi jako `int (*funkce)()` - jako když říkáte, že "jste si mysleli, že jsem si myslel, že jste si mysleli, úplně víte o čem mluvím". Ale existuje i překladač z [C-hatmatilkovštiny do angličtiny](https://cdecl.org/?q=int+%28*%28*foo%29%28void+%29%29%5B3%5D).
 
-Pokud chcete něco extrémně rychlého (než to napíšete, trvá to samozřejmě dlouho 😌), nebo chcete provádět kouzelnické triky s pamětí, tak tohle je jasná volba.
+Pokud chcete něco extrémně rychlého (než to napíšete, trvá to samozřejmě dlouho 🥱), nebo chcete provádět kouzelnické triky s pamětí, tak tohle je jasná volba.
 
 ```c
 #include <stdio.h>
@@ -496,20 +496,95 @@ Takový program vypíše [[Hello World!]]
 - Složitost 💔💔💔
 - Možnosti 🤓🤓🤓
 :::
-Není to úplně programovací jezyk. Použvá se u FPGA, což jsou vývojové desky, které na sobě nemají mikroprocesor, ale programovatelné pole logických obvodů 🧇, což je něco na ještě nižší úrovni, než procesor. Pokud chcete vyvíjet procesory, grafické a síťové karty, nebo převodníky z HDMI na výfuk od auta, tak to je jasná volba.
+```vhdl
+entity HelloWorldSimulation is
+end entity;
+ 
+architecture sim of HelloWorldSimulation is
+begin
+ 
+    process is
+    begin
+ 
+        report "Hello World!";
+        wait;
+ 
+    end process;
+ 
+end architecture;
+```
+Není to úplně programovací język. Použvá se u FPGA, což jsou vývojové desky, které na sobě nemají mikroprocesor, ale programovatelné pole logických obvodů 🧇, což je něco na ještě nižší úrovni, než procesor. Pokud chcete vyvíjet procesory, grafické a síťové karty, nebo převodníky z HDMI na výfuk od auta, tak to je jasná volba. Ale jinak mi přijde, že je z té kategorie starých jazyků (© US Department of Defense 1980), které byly vymyšleny špatně a časem nějak aktualizovány, lepeny 🖋️, ale úplně to nevyšlo. Někdy je prostě lepší začít od žačátku.
 
 ### NASM
 ::: tip Hodnocení
 - Složitost 💔💔💔
 - Možnosti 🤓
 :::
+```nasm
+    global  _main
+    extern  _printf
+section .data
+    message db  'Hello, World', 10, 0
 
-## Web - pokračování příště
+section .text
+_main:
+    push    message
+    call    _printf
+    add     esp, 4
+    ret
+```
+Škola vás donutí k různým zvrhlostem. Assembler budete potřebovat, pokud se budete snažit udělat něco fakt zvrhlého, co vám C nebo C++ nedovolí. [Třeba tohle](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html), ale škoda, že to funguje jen na malé skupině procesorů. Taky ho budete muset znát, pokud budete někdy chtít cracknout nějakou hru napsanou v jazyce, který se do assembleru kompiluje (C nebo C++). Určitě se vám bude hodit i když se budete snažit cracknout něco v Javě nebo C#, protože ty používají **mezikód**, který je assemblerům dost podobný.
+
+
+## Web
+U programování webových stránek je největší problém to, že každý prohlížeč si dělá, co chce.  
+![Podíl prohlížečů na trhu](https://global-uploads.webflow.com/5d71c5b5ed21579fe7c3535a/5f124031906545e61df0e1d4_web-browser-market-share-p-800.png)  
+Ze začátku si s tím ale nelamte hlavu.
+
+### HTML
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓
+:::
+HTML naštěstí podporují všechny prohlížeče skoro stejně. Byl původně vyvinut k formátování textových dokumentů a ne úplně tak barvitých stránek, jak vidíte dneska. To se na něm dost podepsalo, takže se nedivte divnostem. Je to prostě jazyk, ve kterém si stránku rozdělíte do značek/tagů a ty potom v jiných jazycích dále používáte. Určitě je to taky jazyk, který by měl umět aspoň trochu každý programátor. Nejlepší tutoriály najdete na [w3schools](https://www.w3schools.com/html/default.asp) nebo česky na [Jak psát web](https://www.jakpsatweb.cz/jak-udelat.html), který je zdlouhavější ale veselejší 😎. Ve chvíli, kdy se vám bude zdát, že by to chtělo nějakou hlavičku nebo menu, které bude na více HTML stránkách stejné, ano je čas přejít na PHP ⏳.
+
+Když už mu trochu porozumíte, je pak sranda otevírat na různých stránkách Dev Tools a prolamovat jejich "zabezpečení" 🙃.  
+<video controls preload="none" title="Třeba smazání otravného okna o tom, že se musíte přihlásit k Facebooku, když se dívate na Facebook">
+    <source type="video/mp4" src="/images/hack.mp4">
+</video>
+
+### CSS
+<!-- {h3:class="glitch no-tooltip" title="CSS"} -->
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓
+:::
+<style lang="stylus">
+@require '../../../.vuepress/styles/glitch.css'
+</style>
+
+```css
+span.site-name {
+    font-family: 'Staatliches', Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Droid Sans, sans;
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: blue;
+    position: relative;
+    vertical-align: middle
+}
+```
+Mám ho rád ne, proto, že by byl dobře vymyšlený, ale proto, že v něm děláte design, [animace věcí na stránce](https://codepen.io/pgalor/pen/OeRWJQ) (výkonnější, než JS), a protože jsou na něj hromady tutoriálů. Moje oblíbené jsou CSS Tricks.
+
+Pokud máte rádi myšlení mimo krabici 🖾, tady vám házím 🙌 [odkaz na stránku, která je celá jen jeden HTML a jeden CSS soubor](https://john-doe.neocities.org/). I bez PHP a JavaScriptu jdou dělat opravdu kchúl věci 🥰.
+
+Když ale napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm vyznat. Natož v těch, které psali jiné lidi. Proto byly vymyšleny _preprocesory pro CSS_, které se do něj "transpilují". Třeba Sass, Less, nebo Stylus.
+
 ### JavaScript
 ::: tip Hodnocení
 - Složitost 💔💔
 - Možnosti 🤓🤓
 :::
+
 
 ### PHP
 ::: tip Hodnocení
@@ -517,17 +592,6 @@ Není to úplně programovací jezyk. Použvá se u FPGA, což jsou vývojové d
 - Možnosti 🤓🤓🤓
 :::
 
-### HTML
-::: tip Hodnocení
-- Složitost 💔
-- Možnosti 🤓
-:::
-
-### CSS
-::: tip Hodnocení
-- Složitost 💔
-- Možnosti 🤓
-:::
 
 ### SASS
 ::: tip Hodnocení

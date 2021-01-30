@@ -21,3 +21,5 @@ Nee, mě život moc baví a i když jsem si ho ničím nezasloužil, tak bych *O
 
 ### Jaxem naprogramoval ty stránki
 Použil jsem VuePress, šablonu Reco remixovanou k nepoznání (kdybyste ji chtěli, tak napište), Medium Zoom plugin, tippy.js, Valine na komentáře, Leancloud, klávesnici a myš a věci v tom stylu, je v tom guláš 🥣.
+
+![Když jsem zjsitil, že jsem včera začal psát tyhle stránky a že se mi můj včerejší mozek docela zamlouvá](/images/wat.jpeg)

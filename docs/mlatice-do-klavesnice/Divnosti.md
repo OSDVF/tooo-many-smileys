@@ -26,3 +26,5 @@ sidebar:
 ## Ztráta času
 - [PEAK Eth Can Config](https://github.com/OSDVF/PCanEthConfig)
     - [Dokumentace](https://github.com/OSDVF/PCanEthWiki)
+
+![Pravda](/images/voltmetr.jpg)

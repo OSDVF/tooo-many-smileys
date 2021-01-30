@@ -1,7 +1,7 @@
 <template>
   <section class="theme-container">
     <article class="content">
-      <h1>Nenale<span class="text-success">zeleno</span></h1>
+      <h1 class="glitch" title="Nenalezeleno">Nenale<span class="text-success">zeleno</span></h1>
       <p>Tuto stránku vám smajlíky (PrAvDěpOdOBnĚ) neposkytnou 🙄. Pokud chcete prozkoumat, co jiného umí, podívejte se na <router-link to='/'>🏠 hlavní stránku</router-link>
         V některých vesmírech 🌠 mají tyto chyby různé zajímavé stavové kódy. Naštěstí zde máme zařízení 😺⌨ které vám pomůže zjsitit, co znamenají.
       </p>
@@ -24,7 +24,10 @@ export default {
 };
 </script>
 
-<style src="../styles/theme.styl" lang="stylus"></style>
+<style lang="stylus">
+@require '../styles/theme'
+@require '../../styles/glitch.css'
+</style>
 <style lang="stylus">
 .content
   margin 4rem auto 0

@@ -99,7 +99,7 @@ export default {
   },
   updated()
   {
-    tippy('.page [title],.page [alt]', {
+    tippy('.page [title]:not(.no-tooltip),.page [alt]', {
       content(reference) {
         const title = reference.getAttribute('title') || reference.getAttribute('alt');
         reference.removeAttribute('title')

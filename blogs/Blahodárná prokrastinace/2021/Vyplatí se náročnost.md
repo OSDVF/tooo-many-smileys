@@ -79,8 +79,12 @@ Budete muset přežít i otravný Microsoft Access. Weird, but ok, nějaké tě�
 
 ## Příručka pro přežití na SPŠE Havířov
 Takže naučí vás ta škola programovat?  
-<img alt="Ano, totiž vlastně ne" src="https://i.kym-cdn.com/entries/icons/facebook/000/028/596/dsmGaKWMeHXe9QuJtq_ys30PNfTGnMsRuHuo_MUzGCg.jpg" class="round center"/>
-Ne. Tyhle znalosti budete muset minimálně zdesetinásobit, než budete použitelní. Nebo půjdete na výšku, kde vás to taky nenaučí, ale zdesetinásobit vás to donutí.
+![Ano, totiž vlastně ne](https://i.kym-cdn.com/entries/icons/facebook/000/028/596/dsmGaKWMeHXe9QuJtq_ys30PNfTGnMsRuHuo_MUzGCg.jpg) <!-- {.round} -->
+Ne. Tyhle znalosti budete muset minimálně zdesetinásobit, než budete použitelní. Nebo půjdete na výšku, kde vás to taky nenaučí, ale zdesetinásobit vás to donutí.  
+Naučíte se stavět počítače?  
+![Jo, ale až ve čtvrťáku](https://media.discordapp.net/attachments/610451563298816001/805179874326478898/Screenshot_20210125-104902.png?width=484&height=631) <!-- {.round} -->
+Přetaktovat procesory?  
+![Ne 🙊](https://media.discordapp.net/attachments/610451563298816001/805178788731813958/Screenshot_2021-01-30-06-24-47-1.png?width=553&height=630) <!-- {.round} -->
 
 ## Praktické aspekty 🍲🚌
 ![I am speed - České Dráhy](/images/cug.jpg)
@@ -128,7 +132,11 @@ Lidi, kteří dneska chodí do autoškoly 🚗 nechtějí vědět, jak funguje m
 <img src="https://media.discordapp.net/attachments/535484205061111811/567787842147975170/unknown.png?width=1009&height=630" class="round center" alt="Společné volnočasové aktivity byly důležitou součástí výuky i domácích úkolů"/>
 <img src="https://media.discordapp.net/attachments/535484205061111811/567789792029442059/unknown.png?width=1009&height=630" class="round center"/>
 
+![Po dvouhodinovce programování](https://media.discordapp.net/attachments/532655156488175636/587865649464868865/f5f4696.jpg?width=574&height=631) <!-- {.round} -->
+
 ## Zdroje
 [Obrázky do memu z banneru](https://www.google.com/search?q=sp%C5%A1e+hav%C3%AD%C5%99ov&source=lnms&tbm=isch&sa=X&ved=2ahUKEwidkLmL77vuAhXPAGMBHQO4AucQ_AUoAXoECAcQAw&biw=1920&bih=969#imgrc=KqISyb0Q-yl_UM)
 
 Toš snad to bylo věrné osobní svědectví a zárovneň jsem se smažil, aby bylo dost objektivní na to, abych ho mohl považovat za "Survival guide" 😁.
+
+![Pěkný článek z Feministky.com](https://cdn.discordapp.com/attachments/532655156488175636/582839821056212993/unknown.png)
