@@ -31,7 +31,7 @@ Microsh$šproft se ho snaží (společně s Visual Basicem, který je takový J�
 
 Je u něj na výběr z několika knihoven pro okenní aplikace, z nichž momentálně se nejvíce používá WPF, které má krásný klikací editor
 
-![XAML Editor](https://www.tutorialspoint.com/wpf/images/toolbox.jpg)
+![XAML Editor](https://www.tutorialspoint.com/wpf/images/toolbox.jpg)  
 Ale pokročilejší věci musíte psát v jazyce XAML (který vám ten editor na vždycky na pozadí generuje):
 ```xml
 <Window x:Class = "HelloWorld.MainWindow" 
@@ -180,7 +180,7 @@ size(400, 400);
 ellipse(200, 200, 50, 50);
 ```
 Je to taková grafická hračka založená na Javě nebo JavaScriptu. Jede na 🖥️, 📱 i 🌍. Hodí se, pokud se nudíte a chcete si namalovat něco jako
-<iframe src="/embeds/p5js/sketch.html" width="500" height="500" class="center" frameBorder="0"></iframe>
+<iframe src="https://editor.p5js.org/O.S.DV.F/embed/OleaIy4LN" width="500" height="500" class="center" frameBorder="0"></iframe>
 
 [Celá obrazovka](https://editor.p5js.org/p5user1/full/gplOph6pQ) [Zdroj](https://editor.p5js.org/p5user1/sketches/gplOph6pQ)  
 Nebo se taky hodí, pokud chcete někoho (i sebe) naučit některé základní programovací prinicpy snadno a rychle. Je totiž neskutečně jednoduchý a zábavný díky barvičkám 😜. [Začít můžete třeba tady ▶](https://editor.p5js.org/O.S.DV.F/sketches/6pb34gleT)  
@@ -497,6 +497,12 @@ Takový program vypíše [[Hello World!]]
 - Možnosti 🤓🤓🤓
 :::
 Není to úplně programovací jezyk. Použvá se u FPGA, což jsou vývojové desky, které na sobě nemají mikroprocesor, ale programovatelné pole logických obvodů 🧇, což je něco na ještě nižší úrovni, než procesor. Pokud chcete vyvíjet procesory, grafické a síťové karty, nebo převodníky z HDMI na výfuk od auta, tak to je jasná volba.
+
+### NASM
+::: tip Hodnocení
+- Složitost 💔💔💔
+- Možnosti 🤓
+:::
 
 ## Web - pokračování příště
 ### JavaScript

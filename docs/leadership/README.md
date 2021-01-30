@@ -10,7 +10,7 @@ Tato stránka je hlavně pro ty, kteří jsou taky zapojení na různých setká
 
 ## Jaq to začlo
 Teda úplný začátek to není, o tom jindy.  
-Ve 13 letech jsem konfirmoval, což znamená setkávat se s lidma v podobném věku, učit se o tom, čemu vlastně věříte nebo nevěřite a nakonec prohlásit
+Ve 13 letech jsem konfirmoval, což znamená setkávat se s lidma v podobném věku, učit se o tom, čemu vlastně věříte nebo nevěříte a nakonec prohlásit
 > Díky rodiče, že jste mě dali pokřtít, protože bych to stejně asi teďka udělal sám.
 
 Křest se v naší rodině ale bral vždycky jako osobní věc - jako prohlášení, že se rozohoduju počítat v životě s Bohem, takže nás pokřtít jako malé nedali. Tak jsem to udělal sám, asi 30 sekund před tím prohlášením výše 😁. Hello there, dlouho jsme se neviděli.
@@ -36,7 +36,7 @@ Hele ty nápady nebyly úplně špatné, a snad se tomu i někdo zasmál, ale ne
 #### Pozvání číslo 1️⃣
 Dostali jsme jednou (dva z dorostu) pozvání na rozdávání cédéček s filmem Ježíš zdarma. Dopředu řeknu, že to samotné rozdávání jsem později odsoudil jako nepřirozenou věc. Lidi, kteří tam s náma rozdávali, byli ale zvláštní. Byli to totiž lidi, kteří ho běžně rozdávali mezi uprchlíky na Balkáně a určitě i jinde. A to ještě před tím, než byla uprchlická krize cool. Je totiž [přeložený do hromady jazyků](https://en.wikipedia.org/wiki/Jesus_(1979_film)#Foreign-language_versions).
 
-Tihle lidi měli totiž ve mně probudili zvláštní zájem o všechni lidi na světě 😀, protože ho sami měli. Vždykcy přemýšleli nad tím, co s tím filmem asi udělají a jestli jim to třeba nějak pomůže, a vždycky se za ně zpětně modlili.
+Tihle lidi měli totiž ve mně probudili zvláštní zájem o všichni lidi na světě 😀, protože ho sami měli. Vždycky přemýšleli nad tím, co s tím filmem asi udělají a jestli jim to třeba nějak pomůže, a vždycky se za ně zpětně modlili.
 
 #### Pozvání číslo 2️⃣
 _SCEAV_ <!-- {title="Slezská evangelická církev"} --> dělal takový vzdělávací kurz Louč, který trval 3 víkendy a zjistili jsme
@@ -53,12 +53,12 @@ _SCEAV_ <!-- {title="Slezská evangelická církev"} --> dělal takový vzdělá
     - Jak sdílet info o tom, komu věříme
     - Jak se to sdílení může stát součástí našeho života
 
-Podobné kurzy dělá i _CB_ <!-- {title="Církev bratrská"} -->, o tom se možná ještě dozvíte. Určitě je teda dělá více církví, jenom o nich zatím neívm.
+Podobné kurzy dělá i _CB_ <!-- {title="Církev bratrská"} -->, o tom se možná ještě dozvíte. Určitě je teda dělá více církví, jenom o nich zatím nevím.
 
 Pak jsme teda dostali barevný certifikát, o půl roku později jsme se na [XcamPu](http://www.xcamp.cz/) (který doporučuju, pokud jste schopní si oblíbit polské písničky a modlitební místnost v garáži 7×7 metrů s lidma voňavýma po celém dni, kteří zpívají tak nahlas, že to s váma celé duní, a sdílejí se se svými true stories, ve kterých často Bůh dělá zázračné věci) modlili za to, aby se náš dorost někam posunul a skončilo to tak, že nás pozvali do jeho vedení 😎.
 
 ### První chvíle
 První 3 roky s námi byli i starší vedoucí, kteří nás ve všem vedli 😄. Před naším příchodem se dorost (13-17) a mládež (18+) rozdělily, což bylo super, protože jinak bychom to asi jako noví vedoucí nezvládli (vybírat témata a hry pro tak široké věkové rozmezí). Ve vedení se za tu dobu vystřídalo asi 7 lidí, ale my dva, kteří jsme měli Louč, jsme zůstali (taky tomu napomáhal náš věk a životní snadnostní okolnosti). 
 
-Za tu dobu jsme se zvolna učili, co to vlastně znamená být vedoucím, a připadá mi, že to vlastně ještě pořád neumím. Nejde totiž primárně o organizaci, která je sice nejvíce vidět, ale o vaše rozhovory a činnosti ve chvílích, kdy pár lidem věnujete svoji plnou pozornost. Při organizovaném programu člověk totiž často přepne do **analytického režimu** a jeho mysl není schopná vnímat vás jako člověka, ale spíše jako takový vzdálený předmět, který žije v jiném světě, než oni. _(Btw. takhle si asi někdy připadá i Bůh, protože přesně takový přístup jsem měl i k němu)_
+Za tu dobu jsme se zvolna učili, co to vlastně znamená být vedoucím, a připadá mi, že to vlastně ještě pořád neumím. Nejde totiž primárně o organizaci, která je sice nejvíce vidět, ale o vaše rozhovory a činnosti ve chvílích, kdy pár lidem věnujete svoji plnou pozornost. Při organizovaném programu člověk totiž často přepne do **analytického režimu** a jeho mysl není schopná vnímat vás jako člověka, ale spíše jako takový vzdálený předmět, který žije v jiném světě než oni. _(Btw. takhle si asi někdy připadá i Bůh, protože přesně takový přístup jsem měl i k němu)_
 
