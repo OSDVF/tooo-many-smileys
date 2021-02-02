@@ -53,6 +53,9 @@ _SCEAV_ <!-- {title="Slezská evangelická církev"} --> dělal takový vzdělá
     - Jak sdílet info o tom, komu věříme
     - Jak se to sdílení může stát součástí našeho života
 
+Nadšený jsem byl hlavně z 3. víkendu, protože ten byl o vydávání vlastního svědectví o Bohu. Lidi se na něj ptají, ale já jsem většinou neuměl říct souvislou větu, a tak jsem spolu s mnoha křesťany dělal Bohu docela špatnou vizitku. Tohohle trendu si všiml i Gándhí při své návštěvě Anglie:
+> Velice obdivuji Krista křesťanů, ale nemohu ho svým lidem doporučit, protože většina jeho učedníků se mu zdaleka nepodobá.
+
 Podobné kurzy dělá i _CB_ <!-- {title="Církev bratrská"} -->, o tom se možná ještě dozvíte. Určitě je teda dělá více církví, jenom o nich zatím nevím.
 
 Pak jsme teda dostali barevný certifikát, o půl roku později jsme se na [XcamPu](http://www.xcamp.cz/) (který doporučuju, pokud jste schopní si oblíbit polské písničky a modlitební místnost v garáži 7×7 metrů s lidma voňavýma po celém dni, kteří zpívají tak nahlas, že to s váma celé duní, a sdílejí se se svými true stories, ve kterých často Bůh dělá zázračné věci) modlili za to, aby se náš dorost někam posunul a skončilo to tak, že nás pozvali do jeho vedení 😎.
@@ -62,3 +65,4 @@ První 3 roky s námi byli i starší vedoucí, kteří nás ve všem vedli 😄
 
 Za tu dobu jsme se zvolna učili, co to vlastně znamená být vedoucím, a připadá mi, že to vlastně ještě pořád neumím. Nejde totiž primárně o organizaci, která je sice nejvíce vidět, ale o vaše rozhovory a činnosti ve chvílích, kdy pár lidem věnujete svoji plnou pozornost. Při organizovaném programu člověk totiž často přepne do **analytického režimu** a jeho mysl není schopná vnímat vás jako člověka, ale spíše jako takový vzdálený předmět, který žije v jiném světě než oni. _(Btw. takhle si asi někdy připadá i Bůh, protože přesně takový přístup jsem měl i k němu)_
 
+Pokračování někdy příště...

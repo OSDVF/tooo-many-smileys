@@ -546,12 +546,69 @@ Ze začátku si s tím ale nelamte hlavu.
 - Složitost 💔
 - Možnosti 🤓
 :::
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Example</title>
+    </head>
+    <body>
+        <p>This is an example of a simple HTML page with one paragraph.</p>
+    </body>
+</html>
+```
 HTML naštěstí podporují všechny prohlížeče skoro stejně. Byl původně vyvinut k formátování textových dokumentů a ne úplně tak barvitých stránek, jak vidíte dneska. To se na něm dost podepsalo, takže se nedivte divnostem. Je to prostě jazyk, ve kterém si stránku rozdělíte do značek/tagů a ty potom v jiných jazycích dále používáte. Určitě je to taky jazyk, který by měl umět aspoň trochu každý programátor. Nejlepší tutoriály najdete na [w3schools](https://www.w3schools.com/html/default.asp) nebo česky na [Jak psát web](https://www.jakpsatweb.cz/jak-udelat.html), který je zdlouhavější ale veselejší 😎. Ve chvíli, kdy se vám bude zdát, že by to chtělo nějakou hlavičku nebo menu, které bude na více HTML stránkách stejné, ano je čas přejít na PHP ⏳.
 
 Když už mu trochu porozumíte, je pak sranda otevírat na různých stránkách Dev Tools a prolamovat jejich "zabezpečení" 🙃.  
 <video controls preload="none" title="Třeba smazání otravného okna o tom, že se musíte přihlásit k Facebooku, když se dívate na Facebook">
     <source type="video/mp4" src="/images/hack.mp4">
 </video>
+
+### PHP
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓🤓🤓
+:::
+```php
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+    <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
+```
+_PHP Hypertext Preprocessor_, lidi si s rekurzivními zkratkami prostě nedají pokoj 😅. Je to jazyk, který se spouští na straně serveru, a server po vás plive jen výsledné HTML stránky, takže se nemusíte bát v něm psát podmínky jako:
+```php
+<?php
+$heslo = $_GET['heslo'];
+if(isset($heslo))
+{
+    if($heslo == 'Ahoj1234')
+    {
+        echo "Moje super tajná admin stránka";
+    }
+    else
+    {
+        echo 'Přístup odepřen';
+    }
+}
+?>
+```
+
+Což je ze začátku super, pokud si chcete udělat jednoduché stránky s nějakým dynamickým obsahem. Na PHP jede většina světového internetu. Možná je to taky tím, že polovina internetu používá redakční systém Wordpress, který je v PHP napsaný. Jeho novější verze už jsou objektově orientované, takže tam máte slovíčka jako `class` a `public`. Pokud chcete ale nějaký větší projekt (třeba velikosti Zpěvníkátoru), tak už se na to PHP zase nehodí a je nutné sáhnout po nějakém frameworku, třeba [Nette](https://nette.org/cs/).
+
+### Wordpress
+::: tip Hodnocení
+- Složitost 💔💔
+- Možnosti 🤓🤓
+:::
+
+Prvních pár měsíců se mi s ním dělalo dobře. Ale jak vám začnou vznikat kolize mezi pluginy, nebo zjistíte, že jste si koupili šablonu za tisícovku, kterou váš levný hosting nerozjede rychleji, než:
+![Dokonce freehostingy jako Endora nebo WebZdarma jsou rychlejší, než placený Wedos](/images/speed.jpg) <!-- {.p-1} -->  
+tak vás to přestane bavit. Bohužel nedokážu doporučit žádnou rovnocennou alternativu, protože jsem ten projekt vzdal 😛.
 
 ### CSS
 <!-- {h3:class="glitch no-tooltip" title="CSS"} -->
@@ -573,49 +630,204 @@ span.site-name {
     vertical-align: middle
 }
 ```
-Mám ho rád ne, proto, že by byl dobře vymyšlený, ale proto, že v něm děláte design, [animace věcí na stránce](https://codepen.io/pgalor/pen/OeRWJQ) (výkonnější, než JS), a protože jsou na něj hromady tutoriálů. Moje oblíbené jsou CSS Tricks.
+Mám ho rád ne, proto, že by byl dobře vymyšlený, ale proto, že v něm děláte design, [animace věcí na stránce](https://codepen.io/pgalor/pen/OeRWJQ) (výkonnější, než JS), a protože jsou na něj hromady tutoriálů. Moje oblíbené jsou CSS Tricks, kde najdete [základy](https://css-tricks.com/almanac/properties/t/text-shadow/) i [kchúl věci, které vás hned tak nenapadnou](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/). Nejhorší je na CSS asi pozicování. Existuje totiž několik pozicovacích režimů [(static, relative, absolute, fixed, sticky)](https://developer.mozilla.org/en-US/docs/Web/CSS/position) a pak několik kontejnerů, které používají úplně vlastní pozicování (flexbox, grid). Ale když pochopíte pozicování, pochopili jste CSS. Kdybyste chtěli, klidně o tom napíšu článek.
 
 Pokud máte rádi myšlení mimo krabici 🖾, tady vám házím 🙌 [odkaz na stránku, která je celá jen jeden HTML a jeden CSS soubor](https://john-doe.neocities.org/). I bez PHP a JavaScriptu jdou dělat opravdu kchúl věci 🥰.
 
-Když ale napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm vyznat. Natož v těch, které psali jiné lidi. Proto byly vymyšleny _preprocesory pro CSS_, které se do něj "transpilují". Třeba Sass, Less, nebo Stylus.
+Když napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm vyznat. Natož v těch, které psali jiné lidi. Proto byly vymyšleny _preprocesory pro CSS_, které se do něj "transpilují". Třeba Sass, Less, nebo Stylus.
 
 ### JavaScript
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓🤓
+:::
+```js
+<!DOCTYPE HTML>
+<html>
+    <body>
+
+    <p>Before the script...</p>
+
+    <script>
+        var pi = 22/7;
+        alert(`Hello, world! ${pi}`);
+    </script>
+
+    <p>...After the script.</p>
+
+    </body>
+</html>
+```
+
+Běží v prohlížeči, takže pokud budete chtít použít nějaké přemodernělé věci jako třeba Push Notikifikace nebo [monitorovat stav baterky](https://whatwebcando.today/battery-status.html), tak se nejdřív podívejte na [CanIUse](https://caniuse.com/), protože pak jsem se vždycky divil, že něco nefujnguje 🙃.
+
+Někdy ale existuje tzv. [polyfill](https://jecas.cz/polyfill), který vám do některých prohlížečů ty nepodporované věci přidá.  
+Dynamické typování považuju u jazyka tohohle účelu za dobrý nápad, i když to znamená, že poběží pomaleji 🐌🏃‍♂️. Stejně jako pro všechny prohlíčeové jazyky, i pro JS vycházejí [pořád nové standardy](https://cs.wikipedia.org/wiki/ECMAScript "Jmenují se ECMAScript a JavaScript je v podstatě jen jejich konkrétní implementací"). Ty novější už jsou celkem fajn, takže si můžete program přehledně rozdělit do modulů 🛅, nebo používat jednodušší `fetch` místo složitého `XMLHttpRequest`.
+
+### jQuery
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓🤓
+:::
+```js
+$( "button.continue" ).html( "Next Step..." )
+```
+Je to JavaScriptová knihovna. Má výhodu v tom, že vám zkrátí psaní (_write less, do more_). Nevýhoda je v tom, že je pomalá a když ji používáte hodně, tak je potom těžké se v kódu vyznat. HTML totiž funguje tak, že když změníte nějakou proměnnou, která ovlivní vzhled stránky, tak se začne přepočítávat **layout**, abyste měli v JavaScriptu dostupné aktuální hodnoty rozmístění a velikosti všech _elementů_ na stránce. Říká se tomu **layout thrashing**. Pokud ale provedete více změn za sebou, tak se layout phase provede až za poslední z nich. Tomu se pak říká **layout batching** a pomáhají s tím kniovny jako je třeba [fastdom](https://github.com/wilsonpage/fastdom). Vidíte? Abyste si ulehčili práci, tak potřebujete hromadu knihoven a hlavička vaší stránky se rychle a jistě prodlužuje, jako třeba u současné verze Dorostomládežového Zpěvníkátoru:
+```html
+<script src="https://browser.sentry-cdn.com/5.7.1/bundle.min.js" integrity="sha384-KMv6bBTABABhv0NI+rVWly6PIRvdippFEgjpKyxUcpEmDWZTkDOiueL5xW+cztZZ" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.0/js.cookie.min.js" crossorigin="anonymous"></script>
+<script src="js/chordEditor.js" defer></script>
+<script src="js/support.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" crossorigin="anonymous" defer></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.12/css/bootstrap-select.min.css" crossorigin="anonymous">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.12/js/bootstrap-select.min.js" crossorigin="anonymous" defer></script>
+<script src="js/material.min.js" defer async></script>
+<script src="js/swup.min.js"></script>
+<script src="js/profile-things.js" defer></script>
+<script src="js/songProcessing.js" defer></script>
+<script src="js/pwa-things.js" defer></script>
+<script src="js/bootstrap-input-spinner.js" async></script>
+<script src="js/third-party/PSON.js" defer></script>
+<script src="js/third-party/resizable.js" defer></script>
+<link rel="stylesheet" href="css/loader.css">
+<script src="js/NoSleep.js"></script>
+<script src="api/settings.js"></script>
+```
+
+A proto přišel...
+
+### Webpack
 ::: tip Hodnocení
 - Složitost 💔💔
 - Možnosti 🤓🤓
 :::
 
+Je to _module bundler_, což znamená, že vezme všechny vaše 📜 skripty, všechny 🎨 styly, všechny 📟 htmlka, prostě všechno. Navíc umí transpilovat různé JavaScriptové a CSSkové preprocesory, většinou pomocí nějakého pluginu.  
+Funguje tak, že ke každé stránce si najde všechny její závislosti. Všechny skripty vrazí do jednoho skriptu, všechny styly do jednoho stylu, chápeme se. 
+![Velkolepé schéma Webpacku](https://www.vzhurudolu.cz/prirucka-content/dist/images/medium/webpack-scheme.png)
 
-### PHP
+Nevyplatí se ho ale používat samotný. Většinou je spíš součástí nějakých větších vývojových balíčků, jako je React, Vue.js, nebo Angular.
+
+### Sass, Stylus
 ::: tip Hodnocení
 - Složitost 💔
 - Možnosti 🤓🤓🤓
 :::
+```sass
+// Sass
+   This comment won't be included in the CSS.
+   This is also commented out.
+/* But this comment will, except in compressed mode.
+/*! This comment will be included even in compressed mode.
 
+$version: "7.8";
+/* Framework version for the generated CSS is #{$version}.
 
-### SASS
-::: tip Hodnocení
-- Složitost 💔
-- Možnosti 🤓🤓🤓
-:::
+@function pow($base, $exponent)
+  $result: 1
+  @for $_ from 1 through $exponent
+    $result: $result * $base
+  @return $result /* inline comments must be closed */
 
-### Stylus
-::: tip Hodnocení
-- Složitost 💔
-- Možnosti 🤓🤓🤓
-:::
+.sidebar
+  float: left
+  margin-left: pow(4, 3) * 1px
+
+```
+```stylus
+// Stylus
+/*
+ * Function to return border-radius rule also with its prefixed variants
+ */
+/*!
+* Output this comment regardless of compression
+*/
+border-radius()
+  -webkit-border-radius: arguments
+  -moz-border-radius: arguments
+  border-radius: arguments
+
+body
+  font 12px Helvetica, Arial, sans-serif
+
+a.button
+  border-radius(5px)
+```
+Jsou to preprocesory pro CSS. Přidávají proměnné, podmínky, funkce a závislosti, takže si můžete lépe svůj kód rozvrhnout mezi více souborů a nemusíte psát stejnou věc vícekrát (*DRY* <!-- {title="Don't Repeat Yourself"} --> 📜🚮). Doporučuju.
+
+Sass má dvě verze syntaxe. Jedné se říká *indented syntax*, protože místo `{}` používá jen odsazení. V této syntaxi je příklad výše. Druhá je "normální", nebo se jí taky říká SCSS a mimo jiné nepodporuje třeba neukončené komentáře `/*`.
 
 ### Vue.js
 ::: tip Hodnocení
 - Složitost 💔💔
 - Možnosti 🤓🤓🤓
 :::
-Vuepress, Nuxt.js
+Je to jediný JavaScriptí framework, který jsem zkoušel, takže ho bohužel nemůžu s ničím porovnat. Vybíral jsem totiž podle nějakého postu na StackOverflow, podle kterého byl tehdy Vue nejrychlejší ⚡. [Teď za dva roky už je tomu jinak](https://geekflare.com/best-javascript-frameworks/) ⛈️. No minimálně je rychlejší, než čistý JS, protože používá Virtual DOM (skutečný DOM je pomalý).
+
+Má takzvané reaktivní proměnné, což prostě Data Binding. Změníte proměnnou a ona se změní i v HTMLku.
+```html
+<template>
+   <div>
+     <h2> {{ name }} </h2>
+     <input 
+      type='text' 
+      placeholder='Text Box' 
+      v-model='query'
+    />
+    {{ query }}
+   </div>
+</template>
+<script>
+```
+```js
+    export default {
+        name: 'HelloWorld',
+        data() {
+            return {
+            query: ""
+            }
+        }
+    }
+```
+```html
+</script>
+```
+PS: Tento kód je v jednom souboru, např HelloWorld.vue
+
+Vue zavádí systém komponent, které můžete na stránce znovupoužívat. Pak stavový systém Vuex, který až tak kladně nehodnotím. Ale docela dobré je třeba to, že každá komponenta může mít svůj CSS/preprocesovanéCSS blok, který nebude nijak ovlivňovat stylování zbytku stránky.
+
+No a pak jsem zjistil, že generovat celý web v JavaScriptu je docela "práce pro prohlížeč navíc". Přesně takhle to totiž všechny JS frameworky dělají. Prohlížeče jsou i bez nich dost pomalé, že.  
+![A některé i pomalejší.](https://i.imgflip.com/snj85.jpg)
+
+Navíc vaše kreativní texty nejsou viditelné pro vyhledávače. Proto vynalezli Server-Side Rendering a Static Generation, které jsou ale docela složité na setup. A tento problém řeší **další framework, uíííí!**
+
+Jmenuje se **Nuxt.js** a zkoušel jsem si ho asi 5 minut, když jsem chtěl naprogramovat tenhle web, ale pak jsem zjistil, že existuje **VuePress**, který je zaměřený jen na psaní statických stránek ve Vue a Markdownu. Nuxt by to zvládl moc dobře, ale byl by to overkill 😋.
 
 ### VuePress
 ::: tip Hodnocení
 - Složitost 💔
 - Možnosti 🤓🤓
 :::
+Hodí se pro psaní polo-interaktivních stránek s převahou hromady statického obsahu.
 
-Jsou v tom napsány tyhle stránky. Je to takové Vue.js ale optimalizované pro lidi, kteří chtěli spíše hromadový obsah, než složitoou webovou aplikaci.
+<small>(není tady ukázka kódu, protože VuePress nepřináší žádný nový jazyk)</small>
+
+### Markdown
+::: tip Hodnocení
+- Složitost 💔
+- Možnosti 🤓
+:::
+```markdown
+# Nadpis
+## Nižší nadpis
+Různé formátovací srandy *kurzíva* **tučné**, a tohle jste viděli nahoře:
+`Windows 🚪 `, [[[Linux 🐧]], **_MacOS_** 🍎, _Web_ 🌏, **Cloud** 🌩️ [Titulek odkazu](https://dotnet.microsoft.com/ "Já jsem si prostě musel pohrát s barvičkama")
+![Titulek obrázku](https://i.imgflip.com/snj85.jpg)
+```
+Je to formátovací jazyk. Líbí se mi a používá se všude možně 😉.
+
+Pokračování někdy...
