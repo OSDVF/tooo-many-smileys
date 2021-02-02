@@ -828,6 +828,6 @@ Různé formátovací srandy *kurzíva* **tučné**, a tohle jste viděli nahoř
 `Windows 🚪 `, [[[Linux 🐧]], **_MacOS_** 🍎, _Web_ 🌏, **Cloud** 🌩️ [Titulek odkazu](https://dotnet.microsoft.com/ "Já jsem si prostě musel pohrát s barvičkama")
 ![Titulek obrázku](https://i.imgflip.com/snj85.jpg)
 ```
-Je to formátovací jazyk. Líbí se mi a používá se všude možně 😉.
+Je to formátovací jazyk. Líbí se mi a používá se všude možně 😉. Můžete uvnitř něj psát i HTML. To bude tím, že se většinou kompiluje do HTML.
 
 Pokračování někdy...
