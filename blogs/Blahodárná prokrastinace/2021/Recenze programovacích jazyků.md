@@ -9,7 +9,7 @@ categories:
 
 S programováním jsem začal někdy v 6. třídě díky kroužku na základce. Chtěl jsem jít na gympl, ale byl jsem od-přesvědčen okolím, což se nakonec vyplatilo 👍️.
 <!-- more -->
-Říkal jsem si, že se lidi často ptají na to, s jakým jazykem začít, nebo pokud už programují, jestli má smysl se nějaký jazyk učit. Tak tady je moje odpověď. Recenze jazyků z pohledu praktičnosti (🕑 = 💰 a 🕑 = 🤯 + 💔)
+Říkal jsem si, že se lidi často ptají na to, s jakým jazykem začít, nebo pokud už programují, jestli má smysl se další jazyk učit (protože kolik jazyků umíš, tolikrát jsi programátorem). Tak tady je moje zdlouhavá odpověď. Recenze jazyků z pohledu praktičnosti (🕑 = 💰 a 🕑 = 🤯 + 💔)
 ## Desktop, Mobil
 ### C#
 ::: tip Hodnocení
@@ -29,10 +29,10 @@ namespace HelloWorld
 ```
 Microsh$šproft se ho snaží (společně s Visual Basicem, který je takový Jákob) používat fakt na všechno. `Windows 🚪 `, [[[Linux 🐧]], **_MacOS_** 🍎, _Web_ 🌏, **Cloud** 🌩️](https://dotnet.microsoft.com/ "Já jsem si prostě musel pohrát s barvičkama"), [`Android 🤖`, [[iOS 🍏]]](https://dotnet.microsoft.com/apps/xamarin), i [mikroprocesory](https://netmf.github.io/) i když tam vypadá hodně čudně, [stejně jako stránky](http://informatix.miloush.net/microframework/Home.aspx) lidí, kteří ho propagují 🙃.
 
-Je u něj na výběr z několika knihoven pro okenní aplikace, z nichž momentálně se nejvíce používá WPF, které má krásný klikací editor
+Je u něj na výběr z několika knihoven pro okenní aplikace, z nichž se momentálně nejvíce používá WPF, které má krásný klikací editor
 
 ![XAML Editor](https://www.tutorialspoint.com/wpf/images/toolbox.jpg)  
-Ale pokročilejší věci musíte psát v jazyce XAML (který vám ten editor na vždycky na pozadí generuje):
+Ale pokročilejší věci musíte psát v jazyce XAML (který vám ten editor vždycky na pozadí generuje):
 ```xml
 <Window x:Class = "HelloWorld.MainWindow" 
    xmlns = "http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
@@ -46,7 +46,7 @@ Ale pokročilejší věci musíte psát v jazyce XAML (který vám ten editor na
 </Window> 
 ```
 
-Má automatickou správu paměti, takže když nějakou věc uložíte do RAMky a pak ji přestanete používat, nemusíte ji manuálně vyhazovat, Garbage Collector to udělá za vás. Samozřejmě to ale nesmíte přehánět a načítat obrovksé soubory a ještě je deserializovat na jednom řádku kódu jako já.
+Má automatickou správu paměti, takže když nějakou věc uložíte do RAMky a pak ji přestanete používat, nemusíte ji manuálně vyhazovat, Garbage Collector 🐊 to udělá za vás. Samozřejmě to ale nesmíte přehánět a načítat obrovksé soubory 🤪 a ještě je deserializovat na jednom řádku kódu jako já.
 ![Spoluprací s Garbage Collectorem mu zároveň upíšete veškerý svůj výkon, který vám bude brát po lžičkách v pravidelných intervalech 🥄](/images/garbage.jpg)
 
 Ale obecně platí, že napsat něco v C# mi **trvalo tak desetinu času**, než když jsem to psal v něčem jiném.
@@ -65,9 +65,9 @@ Nově existuje [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor
 - Možnosti 🤓🤓🤓
 :::
 
-Pořád C#. Kdysi to používalo jakýsi UnityScript, nebo Boo, ale ty najdete jen v historických balíčcích 🗄️. S Unity [jsem si užil](Pokus%20o%20hru%20v%20Unity.html), ale už jsem si nestihl užít ty 2019+ věci, které jsou tak super, že se k tomu, asi ještě někdy vrátím 😋. Každopádně, určitě to není jen jednoduchý klikací editor. Dostanete se klidně až pod povrch vykreslovací pipeliny a možnosti jsou fakt suprové. A kchúl věc: C# je v něm o něco rychlejší (kdyžtak se zeptejte v komentářích, proč).
+Pořád C#. Kdysi to používalo jakýsi UnityScript, nebo Boo, ale ty najdete jen v historických balíčcích 🗄️. S Unity [jsem si užil](Pokus%20o%20hru%20v%20Unity.html), ale už jsem si nestihl užít ty 2019+ věci, které jsou tak super, že se k tomu asi ještě někdy vrátím 😋. Každopádně, určitě to není jen jednoduchý klikací editor. Dostanete se klidně až pod povrch vykreslovací pipeliny a možnosti jsou fakt suprové. A kchúl věc: C# je v něm o něco rychlejší (kdyžtak se zeptejte v komentářích, proč). Ale prosím nedělejte v tom jiné věci, než hry - když je vidím, tak dostávám alergii a kapesníky docházejí 🤧 a pak musím používat 🧻, který je eh.. drsný.
 
-::: details Jo a... Unity podporuje snad všechny živé i mrtvé platformy, na kterých se od roku, co jsem se narodil daly kdy hrát nějaké hry 😍. 
+::: details Jo a... Unity podporuje snad všechny živé i mrtvé platformy, na kterých se od roku, co jsem se narodil, daly kdy hrát nějaké hry 😍. 
 [Podle wikipedie:](https://en.wikipedia.org/wiki/Unity_(game_engine)#Supported_platforms)  
 - iOS
 - Android
@@ -106,7 +106,7 @@ Pořád C#. Kdysi to používalo jakýsi UnityScript, nebo Boo, ale ty najdete j
 - Možnosti 🤓🤓🤓
 :::
 
-Jede taky na .NETu, takže C#. Určitě to je lepší, než začínat s nějakým surovým DirectX nebo OpenGL. Někdy si to lidi vybírají místo Unity, kvůli tomu, aby to mohli lépe optimalizovat. Od té doby je nikdo neviděl, protože už 3 roky sedí zavření ve sklepě s internetem. Sami to prostě nezvládnou. Jedinou hru, o kterou jsme se s kémošem v MonoGame pokusili, jsme nedodělali, takže nemůžu mluvit o tom, jak se s tím dělá, když už jste ve vývoji dál. Učili jsme se asi hlavně teamworku.
+Jede taky na .NETu, takže C#. Určitě to je lepší, než začínat s nějakým surovým DirectX nebo OpenGL. Někdy si to lidi vybírají místo Unity, kvůli tomu, aby mohli lépe optimalizovat svůj herní píseček. Od té doby je nikdo neviděl, protože už 3 roky sedí zavření ve sklepě s internetem. Sami to prostě nezvládnou. Jedinou hru, o kterou jsme se s kémošem v MonoGame pokusili, jsme nedodělali, takže nemůžu mluvit o tom, jak se s tím dělá, když už jste ve vývoji dál. Učili jsme se asi hlavně teamworku.
 
 ::: details Hello World
 ```csharp
@@ -168,7 +168,7 @@ class HelloWorld {
 }
 ```
 
-Je o to asi nejstarší objektový jazyk, jaký se ještě používá. Taky je více cest (více zmatenosti), jak dát dohromady IDE, které ho používá. Zkoušel jsem NetBeans a pak mnohem lepší IntelliJ IDEA. V žádném z nich se mi ale ani po roce nepodařilo rozběhnou okkení knihovnu JavaFX, protože v Javě se přidávají knihovny docela divnými způsoby. Nakonec jsem se na to vykašlal.
+Je o to asi nejstarší objektový jazyk, jaký se ještě používá. Taky je více cest (více zmatenosti), jak dát dohromady vývojové prostředí (IDE), které ho používá. Zkoušel jsem NetBeans a pak mnohem lepší IntelliJ IDEA. V žádném z nich se mi ale ani po roce nepodařilo rozběhnou okkení knihovnu JavaFX, protože v Javě se přidávají knihovny docela divnými způsoby. Nakonec jsem se na to vykašlal. Kdyby mi někdo na druhou stranu dal na výběr mezi napsáním projektu v Javě anebo Visual Basicu, nebo C (třeba ve škole), tak bych bral Javu ☕.
 
 ### Processing
 ::: tip Hodnocení
@@ -179,12 +179,14 @@ Je o to asi nejstarší objektový jazyk, jaký se ještě používá. Taky je v
 size(400, 400);
 ellipse(200, 200, 50, 50);
 ```
-Je to taková grafická hračka založená na Javě nebo JavaScriptu. Jede na 🖥️, 📱 i 🌍. Hodí se, pokud se nudíte a chcete si namalovat něco jako
+Je to taková grafická zabawka založená na Javě nebo JavaScriptu. Jede na 🖥️, 📱 i 🌍. Hodí se, pokud se nudíte a chcete si namalovat něco jako
 <iframe src="https://editor.p5js.org/O.S.DV.F/embed/OleaIy4LN" width="500" height="500" class="center" frameBorder="0"></iframe>
 
 [Celá obrazovka](https://editor.p5js.org/p5user1/full/gplOph6pQ) [Zdroj](https://editor.p5js.org/p5user1/sketches/gplOph6pQ)  
 Nebo se taky hodí, pokud chcete někoho (i sebe) naučit některé základní programovací prinicpy snadno a rychle. Je totiž neskutečně jednoduchý a zábavný díky barvičkám 😜. [Začít můžete třeba tady ▶](https://editor.p5js.org/O.S.DV.F/sketches/6pb34gleT)  
 Hlavně se v tom nepokoušejte dělat hry, jako já.
+
+Na Androidu je na to appka _APDE_, která absolutně zruinuje váš časový harmonogram a duchapřítomnost při přednáškách (nebo přestávkách samozřejmě), protože programovat na mobilu pak můžete fakt kdykoliv. Svůj program (alias _Sketch_) můžete exportovat i jako živou tapetu, nebo na Android Wear, což je ještě horší 🦛, protože ji pak budete chtít neustále vylepšovat.
 
 ### Flutter
 ::: tip Hodnocení
@@ -213,7 +215,7 @@ class MyApp extends StatelessWidget {
   }
 }
 ```
-Google mě pro jednou mile překvapil. Flutter používá jazyk Dart, který je rychlejší, než <em title="Protože je kompilovaný. Java a C# jsou jazyky s virtuálním strojem.">Java nebo C#</em>. Jede na Androidu i 🍏 (za pár let už bude i na 🖥️ a 🕸). Dělá se v něm neskutečně rychle, to musím uznat i když jsem nezkoušel třeba takový Kotlin, což je nějaká vylepšená Java, taky od Googlu. **Dart** má syntaktický cukr podobný tomu, co už jsem znal. Je navržený tak, aby v něm šlo psát přehledně UI i logika. Jediná nevýhoda je asi to, že když chcete udělat nějaké bleskurychlé vykreslování vlastních prapodivných tvarů, tak je to docela těžká věc. Má mnohem lepší systém knihoven, než klasické Android SDK.
+Google mě pro jednou mile překvapil. Flutter používá jazyk Dart, který je rychlejší, než <em title="Protože je kompilovaný. Java a C# jsou jazyky s virtuálním strojem.">Java nebo C#</em>. Jede na Androidu i 🍏 (za pár let už bude i na 🖥️ a 🕸). Dělá se v něm neskutečně rychle, to musím uznat i když jsem nezkoušel třeba takový Kotlin, což je nějaká vylepšená Java, taky od Googlu. **Dart** má syntaktický cukr podobný tomu, co už jsem znal. Je navržený tak, aby v něm šlo psát přehledně UI i logika. Takže žádné XML jako v Android SDK, nebo XAML jako v C#. Jediná nevýhoda je asi to, že když chcete udělat nějaké bleskurychlé vykreslování vlastních prapodivných tvarů, tak je to docela těžká a špatně zdokumentovaná věc. Má mnohem lepší systém knihoven, než klasické Android SDK. Bohužel je podobný *npm*.
 
 🤓 Má compile-time genericitu, která se dá kombinovat s dynamickými typy, což je... no neuděláte v tom všechno, třeba se nedá vytvořit instance generického typu. Pak taky nemá vlákna, jen jakési `isolate`, které mezi sebou můžou posílat zprávy, ale ne sdílet paměť. K zpracování souborů a pozadí jsem to ale už použil 😌.
 
@@ -224,9 +226,9 @@ Zdálo se vám to strašné? Teď přijde ta horší část, muhahahaha.
 - Složitost 💔💔💔
 - Možnosti 🤓🤓🤓
 :::
-Naučíte se ho pravděpodobně na střední. Existuje milion způsobů, jak dát dohromady prostředí, ve kterém s ním děláte, každopádně já jsem zkoušel Visual Studio, VSCode a Dev-C++. Když s ním chcete začít, doporučuju podívat se na nějaké tutoriáln přímo k tomu vývojovému IDE, které používáte, protože jinak moc guláše 😵.
+Naučíte se ho pravděpodobně [na střední](Vyplatí%20se%20náročnost.html). Existuje milion způsobů, jak dát dohromady prostředí, ve kterém s ním děláte (nevýhoda), každopádně já jsem zkoušel Visual Studio, VSCode a Dev-C++. Když s ním chcete začít, doporučuju podívat se na nějaké tutoriály přímo k tomu IDE, které používáte, protože jinak moc guláše 😵.
 
-To, co v něm programujete je přesně to, co stroj vykonává. Když něco chcete skopírovat, tak prostě vezmete kus paměti a kopnete ho jinam 🦶. No a když to bude na místo, kde už předtím něco bylo, tak bude sranda 😛. Jazyk neposkytuje vůbec žádné věci typu "tohle existuje, abyste nemuseli psát zdlouhavě tohle". V jeho dokumentaci je těžké se vyznat, ale zato je hodně přesná a kompletní. Názvy proměnných a funkcí bývají zkratkové a chaotické už i ve standartních knihovnách, takže když uvidíte na první pohled `strrchr(str, ch)` tak nevíte, že to znamená nalezení posledního znaku `ch` v řetězci `str`. Btw řetězce jsou tam null-terminated, což vám trochu zhorší práci s nima. Nesmíte při svém hackování stringů zapomenout dát na konec `\0`.  
+To, co v něm programujete je přesně to, co stroj vykonává. Když něco chcete zkopírovat, tak prostě vezmete kus paměti a kopnete ho jinam 🦶. No a když ho dáte na místo, kde už předtím něco bylo, tak tam bude sranda 😛. Jazyk neposkytuje vůbec žádné věci typu "tohle existuje, abyste nemuseli psát zdlouhavě tohle". V jeho dokumentaci je těžké se vyznat, ale zato je hodně přesná a kompletní. Názvy proměnných a funkcí bývají zkratkové a chaotické už i ve standartních knihovnách, takže když uvidíte na první pohled `strrchr(str, ch)` tak nevíte, že to znamená nalezení posledního znaku `ch` v řetězci `str`. Btw řetězce jsou tam null-terminated, což vám trochu zhorší práci s nima. Nesmíte při svém hackování stringů zapomenout dát na konec `\0`.  
 Někteří lidi se Céčko smaží "vylepšit" pomocí naprosto čitelných `#define`. No... eh... jak bych to jen popsal...
 
 > <footer><a href="https://stackoverflow.com/questions/400951/does-c-have-a-foreach-loop-construct">StackOverflow</a></footer>
@@ -268,7 +270,7 @@ int main() {
     return 0;
 }
 ```
-Řeší všechny věci, které vás štvaly na C. Než se ale naučíte používat jeho nejnovější verzi (C++20), tak vás budou štvát jiné věci 🙃. Třeba to, že genericita je jen compile-time <small class="text-primary" title="Vždycky musíte znát přesně datový typ toho, s čím pracujete. Nebo použijete slova jako 'auto' nebo 'decltype', které umí typ vydedukovat za vás. Ale musí ho mít jak vydedukovat. Taky je celkem o ničem to, že všechny deklarace templates musíte psát do hlavičkových souborů, které se nedají referencovat cyklicky, takže se pak divíte, když najdete direktivu #include uprostřed něčího souboru.">[?]</small> a pak mají datové typy název jako `std::array<std::char_traits<char>::int_type`. Nebo dokonce
+Řeší všechny věci, které vás štvaly na C. Než se ale naučíte používat jeho nejnovější verzi (C++20), tak vás budou štvát jiné věci 🙃. Třeba to, že genericita je jen compile-time <small class="text-primary" title="Vždycky musíte znát přesně datový typ toho, s čím pracujete. Nebo použijete slova jako 'auto' nebo 'decltype', které ho umí vydedukovat za vás. Ale musí ho mít z čeho vydedukovat. Taky je celkem o ničem to, že všechny deklarace &lt;templates&gt; musíte psát do hlavičkových souborů, které se nedají referencovat cyklicky, takže se pak divíte, když najdete direktivu #include uprostřed něčího souboru.">[?]</small> a pak mají datové typy název jako `std::array<std::char_traits<char>::int_type`. Nebo dokonce
 
 > <footer><a href="https://stackoverflow.com/questions/49219685/c-templates-dealing-with-long-class-names/49219742">StackOverflow</a></footer>
 > <p>Whaat is the manner in which the following <em>header template declaration</em> should be rendered readable?</p>
@@ -300,25 +302,27 @@ threads.push_back(std::move(std::thread([&] {
 - Možnosti 🤓🤓
 :::
 Je to malé, levné, a když to koupíte v Číně (a tam nejlépe potom i všechny další elektrosrandy), tak ještě 10x levnější. Stonks 💹  
-Arduino používá C++ s nějakýma extra věcma navíc, které způsobí, že se o některé věci nemusíte starat ale způsobí to taky extrémní zpomalení.
+Arduino používá C++, do kterého vždycky přidá vlastní knihovnu, která způsobí, že se o některé věci nemusíte starat ale taky extrémní zpomalení.
 ::: details Technické PROČ
-V C a C++ totiž každý objekt, který vytvoříte pomocí `malloc()` nebo `new` musíte pak smazat pomocí `free()` nebo `delete`. Alokace paměti je procesorově náročná. Proto většina lidí nepoužívá typ `String`, která svou paměť neustále **maže a vytváří znova při každé změně**, ale raději Céčkovský `char *`.
+V C a C++ totiž každý objekt, který vytvoříte pomocí `malloc()` nebo `new` musíte pak smazat pomocí `free()` nebo `delete`. Alokace paměti je procesorově náročná. Proto většina lidí nepoužívá Arduinovsko-knihovní typ `String`, který svou paměť neustále **maže a vytváří znova při každé změně**, ale raději Céčkovský `char *`.
+
+Pak by se taky dalo mluvit o nevýkonu funkcí `digitalWrite` a `digitalRead` a Sériové lince.
 :::
 
-Ladění je horší 🦛. Ale existují [různé placené rozšíření](https://www.visualmicro.com/) pro Visual Studio, které vám dovolí _nějak vytvářet breakpointy_ a tak.  
-Na Arduinu jsem dokonce [dělal i školní projekt](/docs/mlatice-do-klavesnice/Divnosti.html#skulni-projekty "Hledejte MultiChannelVoltmeter") nebo běhací hru na dorost. Měla bohužel i neběhací část, ve které jste měli projít nepozorovaně kolem pohybového čidla a to ostatní už tak moc nebavilo 😅.
+Ladění je horší 🦛, standartně nemožné. Ale existují [různé placené rozšíření](https://www.visualmicro.com/) pro Visual Studio, které vám dovolí _nějak vytvářet breakpointy_ a tak.  
+Na Arduinu jsem dokonce [dělal i školní projekt](/docs/mlatice-do-klavesnice/Divnosti.html#skulni-projekty "Hledejte MultiChannelVoltmeter") nebo běhací hru na dorost. Měla bohužel i neběhací část, ve které jste měli projít nepozorovaně kolem pohybového čidla 👁️ a to ostatní už tak moc nebavilo 😅.
 
 #### ESP32
 ::: tip Hodnocení
 - Složitost 💔💔
 - Možnosti 🤓🤓🤓
 :::
-Číňani z firmy Espressif byli schopní vyvinout neskutečně levný a výkonný WiFi mikroprocesor. Je 32 bitový na rozdíl od Arduina a má paměť v řádech MB, takže už můžete i streamovat 🎦. Já jsem si bohužel koupil verzi s integrovaným vysílačem pro dlouhý dosah, který prodává nějaká sama-doma-kutil společnost. Takže ne, že by to bylo zrovna praktické. Když chcete zmáčknout reset tlačítko ⏺️, tak si při tom ohnete WiFi anténu. Takže **kupovat jen oficiální verzi**, navíc je nejlevnější.
+Číňani z firmy Espressif byli schopní vyvinout neskutečně levný a výkonný WiFi/BT mikroprocesor. Je 32 bitový na rozdíl od Arduina a má paměť v řádech MB, takže už můžete i streamovat 🎦. Já jsem si bohužel koupil verzi s integrovaným vysílačem pro dlouhý dosah, který prodává nějaká sama-doma-kutil společnost. Takže ne, že by to bylo zrovna praktické. Když chcete zmáčknout reset tlačítko ⏺️, tak si při tom ohnete WiFi anténu. Takže **kupovat jen oficiální verzi**. Navíc je nejlevnější.
 
 ![Oficiální verze](https://cz.mouser.com/images/marketingid/2020/img/138258631.png?v=120720.0227) <!-- {width=40%} -->
-![Šunt nekupto verze, která navíc nestačí normální 3.3V baterka](https://www.cnx-software.com/wp-content/uploads/2017/10/TTGO-ESP32-Battery.jpg) <!-- {width=40%} -->
+![Šunt nekupto verze, které navíc nestačí normální 3.3V baterka](https://www.cnx-software.com/wp-content/uploads/2017/10/TTGO-ESP32-Battery.jpg) <!-- {width=40%} -->
 
-Můžete ji programovat buď jako Arduino, když [si stáhnete plugin](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) nebo budete _machři_, jak říkál náš učitel Hardwaru, a budete 3 dny stahovat a nastavovat [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/ "Prý Espressif IoT Development Framework"), které vám ale dovolí dělat "super věci" (třeba znefunkčnit WiFi, jako v mojem případě. Někdy na to určitě napíšu tutoriál 🖱️). V obou případech budete mít na placu C++11.
+Můžete ji programovat buď jako Arduino, když [si stáhnete plugin](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/) nebo budete _machři_, jak říkal náš učitel Hardwaru, a budete 3 dny stahovat a nastavovat [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/ "Prý Espressif IoT Development Framework"), které vám ale dovolí dělat "super věci" (třeba znefunkčnit WiFi, jako v mojem případě. Někdy na to určitě napíšu tutoriál 🖱️). V obou případech budete mít na placu C++11.
 
 #### Python
 ::: tip Hodnocení
@@ -331,7 +335,7 @@ if x == 1:
     # vnitřní bloky musí být odsazené 4 mezerama
     print("x is 1.")
 ```
-Je to moc pěkný jazyk na pochopení, ale je _dynamicky typovaný_, to znamená, že když zavoláte funkci `jakeJeDnesPocasi()` tak nevíte, jestli vám vrátí číslo, nebo třeba text, pokud si k té funkci nepřečtete návod. Psal jsem v něm [Rouškový Filtr](/docs/mlatice-do-klavesnice/Divnosti.html) a generovat grafy umí fakt pěkně a snadno. Možná ho budete mít rádi, pokud jste spíše matematici, než programátoři.  
+Je to moc pěkný jazyk na pochopení, ale je _dynamicky typovaný_, to znamená, že když zavoláte funkci `jakeJeDnesPocasi()` tak nevíte, jestli vám vrátí číslo, nebo třeba text, pokud si k té funkci nepřečtete návod. TODO: Ikea návod. Psal jsem v něm [Rouškový Filtr](/docs/mlatice-do-klavesnice/Divnosti.html) a generovat grafy umí fakt pěkně a snadno. Možná ho budete mít rádi, pokud jste spíše matematici, než programátoři.  
 Třeba na naší škole se hodně používal ke zpracování zvuku ([zdroj](https://nbviewer.jupyter.org/github/zmolikova/ISS_project_study_phase/blob/master/Zvuk_spektra_filtrace.ipynb))
 ![Jupyter notebook je takový nástroj, ve kterém můžete psát pěkné texty a zároveň kusy kódu, jejichž výstup vidíte hned pod nima, takže je to dost vhodné pro výuku](/images/jupyter.jpg)
 
@@ -349,7 +353,7 @@ var="Hello World"
 echo "$var"
 ```
 
-V podstatě na každém řádku (neberte mě za slovo) spustíte už nějaký existující program s nějakými parametry. Takže psát v bashi je jako lepit programy dohromady. **Jeho syntaxe je...**, třeba tohle je if:
+V podstatě na každém řádku (neberte mě za slovo) spustíte nějaký už existující program s nějakými parametry. Takže psát v bashi je jako lepit programy dohromady 🧻. **Jeho syntaxe je... 🤮🌄**, třeba tohle je if:
 
 ```shell
 #!/bin/bash
@@ -372,8 +376,7 @@ a když chcete třeba vypsat všechny uživatele v systému, tak se to dá uděl
 eval getent passwd {$(awk '/^UID_MIN/ {print $2}' /etc/login.defs)..$(awk '/^UID_MAX/ {print $2}' /etc/login.defs)} | cut -d: -f1
 ```
 
-Když tohle vidíte, tak nemáte ponětí o tom, co to dělá.
-
+Když vidíte tohle, jó, tak přesně víte, co to dělá. Ale jasně, programátoři by měli umět psát komentáře.  
 
 ### Qt
 ::: tip Hodnocení
@@ -397,7 +400,7 @@ int main( int argc, char **argv )
     return a.exec();
 }
 ```
-Qt je multiplatformí C++ GUI knihovna, která má být cute a mělo by se s ní rychle pracovat. Dokonce vydali i Qt Quick, které kombinuje jazyky C++ a nějaké QML, které by mělo být ještě snadnější ⚡
+Qt je multiplatformí C++ GUI knihovna, která má být cute 🐱 a mělo by se s ní rychle pracovat. Dokonce vydali i Qt Quick, které kombinuje jazyky C++ a nějaké QML, které by mělo být ještě snadnější ⚡
 
 ```qml
 import QtQuick 2.0
@@ -437,8 +440,8 @@ public:
     player(QObject* parent = nullptr);
     ~player();
 
-    int get_audio_pos_from_start() { return audio_pos_from_start; }
-    void set_audio_pos_from_start(int id) { audio_pos_from_start = id; }
+    int get_audio_pos_from_start();
+    void set_audio_pos_from_start(int id);
 signals:
     void set_pos_ms(int pos_ms);
     void done();
@@ -463,9 +466,9 @@ Je tam hromada preprocesorových maker, jako třeba `Q_SALÁT`. Když se dostane
 ### Brainf*ck
 ::: tip Hodnocení
 - Složitost 💔💔💔
-- Možnosti 🤓
+- Možnosti 0️⃣
 :::
-Naše škola nemohla mít lepší nápad, než nás donutit udělat _interpret_ <!-- {title="Převádí jazyk na instrukce pro procesor až za běhu programu"} --> pro Brainf*ck ve VHDL.
+Náš učitel Návrhu procesorových systémů nemohl mít lepší nápad, než nás donutit udělat _interpret_ <!-- {title="Převádí jazyk na instrukce pro procesor až za běhu programu"} --> pro Brainf*ck ve VHDL.
 ```brainfuck
 ++++++++++
 [
@@ -513,7 +516,7 @@ begin
  
 end architecture;
 ```
-Není to úplně programovací język. Použvá se u FPGA, což jsou vývojové desky, které na sobě nemají mikroprocesor, ale programovatelné pole logických obvodů 🧇, což je něco na ještě nižší úrovni, než procesor. Pokud chcete vyvíjet procesory, grafické a síťové karty, nebo převodníky z HDMI na výfuk od auta, tak to je jasná volba. Ale jinak mi přijde, že je z té kategorie starých jazyků (© US Department of Defense 1980), které byly vymyšleny špatně a časem nějak aktualizovány, lepeny 🖋️, ale úplně to nevyšlo. Někdy je prostě lepší začít od žačátku.
+Není to úplně programovací język. Použvá se u FPGA, což jsou vývojové desky, které na sobě nemají mikroprocesor, ale programovatelné pole logických obvodů 🧇, což je něco na ještě nižší úrovni, než procesor. Pokud chcete vyvíjet procesory, grafické a síťové karty, nebo převodníky z HDMI na výfuk od auta, tak to je jasná volba. Ale jinak mi přijde, že je z té kategorie starých jazyků (© 🇺🇸 Department of Defense 1980), které byly vymyšleny špatně a časem nějak aktualizovány, lepeny 🖋️, ale úplně to nevyšlo. Někdy je prostě lepší začít _"znovu čistý list"_.
 
 ### NASM
 ::: tip Hodnocení
@@ -533,13 +536,13 @@ _main:
     add     esp, 4
     ret
 ```
-Škola vás donutí k různým zvrhlostem. Assembler budete potřebovat, pokud se budete snažit udělat něco fakt zvrhlého, co vám C nebo C++ nedovolí. [Třeba tohle](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html), ale škoda, že to funguje jen na malé skupině procesorů. Taky ho budete muset znát, pokud budete někdy chtít cracknout nějakou hru napsanou v jazyce, který se do assembleru kompiluje (C nebo C++). Určitě se vám bude hodit i když se budete snažit cracknout něco v Javě nebo C#, protože ty používají **mezikód**, který je assemblerům dost podobný.
+Škola vás donutí k různým zvrhlostem (🍕 v mikrovlnce je slabé kafe). Assembler budete potřebovat, pokud se budete snažit udělat něco fakt zvrhlého, co vám C nebo C++ nedovolí. [Třeba získat root práva](https://www.tomshardware.com/news/x86-hidden-god-mode,37582.html), ale škoda, že to funguje jen na malé skupině procesorů. Taky ho budete muset znát, pokud budete někdy chtít cracknout nějakou hru napsanou v jazyce, který se do assembleru kompiluje (C nebo C++). Určitě se vám bude hodit i když se budete snažit cracknout něco v Javě nebo C#, protože ty používají **mezikód**, který je assemblerům dost podobný.
 
 
 ## Web
 U programování webových stránek je největší problém to, že každý prohlížeč si dělá, co chce.  
 ![Podíl prohlížečů na trhu](https://global-uploads.webflow.com/5d71c5b5ed21579fe7c3535a/5f124031906545e61df0e1d4_web-browser-market-share-p-800.png)  
-Ze začátku si s tím ale nelamte hlavu.
+Ze začátku si s tím ale nelamte hlavu 😶.
 
 ### HTML
 ::: tip Hodnocení
@@ -557,7 +560,7 @@ Ze začátku si s tím ale nelamte hlavu.
     </body>
 </html>
 ```
-HTML naštěstí podporují všechny prohlížeče skoro stejně. Byl původně vyvinut k formátování textových dokumentů a ne úplně tak barvitých stránek, jak vidíte dneska. To se na něm dost podepsalo, takže se nedivte divnostem. Je to prostě jazyk, ve kterém si stránku rozdělíte do značek/tagů a ty potom v jiných jazycích dále používáte. Určitě je to taky jazyk, který by měl umět aspoň trochu každý programátor. Nejlepší tutoriály najdete na [w3schools](https://www.w3schools.com/html/default.asp) nebo česky na [Jak psát web](https://www.jakpsatweb.cz/jak-udelat.html), který je zdlouhavější ale veselejší 😎. Ve chvíli, kdy se vám bude zdát, že by to chtělo nějakou hlavičku nebo menu, které bude na více HTML stránkách stejné, ano je čas přejít na PHP ⏳.
+HTML naštěstí podporují všechny prohlížeče skoro stejně. Byl původně vyvinut k formátování textových dokumentů a ne úplně tak barvitých stránek, jak vidíte dneska. To se na něm dost podepsalo, takže se nedivte divnostem. Je to prostě jazyk, ve kterém si stránku rozdělíte do značek/tagů a ty potom v jiných jazycích dále používáte. Určitě je to taky jazyk, který by měl umět aspoň trochu každý programátor. Nejlepší beginner tutoriály najdete na [w3schools](https://www.w3schools.com/html/default.asp) nebo česky na [Jak psát web](https://www.jakpsatweb.cz/jak-udelat.html), který je zdlouhavější ale veselejší 😎. Ve chvíli, kdy se vám bude zdát, že by to chtělo nějakou hlavičku nebo menu, které bude na více HTML stránkách stejná, ano je čas přejít na PHP ⏳.
 
 Když už mu trochu porozumíte, je pak sranda otevírat na různých stránkách Dev Tools a prolamovat jejich "zabezpečení" 🙃.  
 <video controls preload="none" title="Třeba smazání otravného okna o tom, že se musíte přihlásit k Facebooku, když se dívate na Facebook">
@@ -598,7 +601,7 @@ if(isset($heslo))
 ?>
 ```
 
-Což je ze začátku super, pokud si chcete udělat jednoduché stránky s nějakým dynamickým obsahem. Na PHP jede většina světového internetu. Možná je to taky tím, že polovina internetu používá redakční systém Wordpress, který je v PHP napsaný. Jeho novější verze už jsou objektově orientované, takže tam máte slovíčka jako `class` a `public`. Pokud chcete ale nějaký větší projekt (třeba velikosti Zpěvníkátoru), tak už se na to PHP zase nehodí a je nutné sáhnout po nějakém frameworku, třeba [Nette](https://nette.org/cs/).
+Což je ze začátku super, pokud si chcete udělat jednoduché stránky s nějakým dynamickým obsahem. Na PHP jede většina světového internetu. Možná je to taky tím, že polovina internetu používá redakční systém Wordpress, který je v PHP napsaný. Novější PHP už jsou objektově orientované, takže tam máte slovíčka jako `class` a `public`. Pokud ale děláte nějaký větší projekt (třeba velikosti Zpěvníkátoru), tak už se na to PHP zase nehodí a je nutné sáhnout po nějakém frameworku 🤚, třeba [Nette](https://nette.org/cs/).
 
 ### Wordpress
 ::: tip Hodnocení
@@ -621,6 +624,8 @@ tak vás to přestane bavit. Bohužel nedokážu doporučit žádnou rovnocennou
 </style>
 
 ```css
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
 span.site-name {
     font-family: 'Staatliches', Ubuntu, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Droid Sans, sans;
     font-size: 1.6rem;
@@ -630,11 +635,11 @@ span.site-name {
     vertical-align: middle
 }
 ```
-Mám ho rád ne, proto, že by byl dobře vymyšlený, ale proto, že v něm děláte design, [animace věcí na stránce](https://codepen.io/pgalor/pen/OeRWJQ) (výkonnější, než JS), a protože jsou na něj hromady tutoriálů. Moje oblíbené jsou CSS Tricks, kde najdete [základy](https://css-tricks.com/almanac/properties/t/text-shadow/) i [kchúl věci, které vás hned tak nenapadnou](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/). Nejhorší je na CSS asi pozicování. Existuje totiž několik pozicovacích režimů [(static, relative, absolute, fixed, sticky)](https://developer.mozilla.org/en-US/docs/Web/CSS/position) a pak několik kontejnerů, které používají úplně vlastní pozicování (flexbox, grid). Ale když pochopíte pozicování, pochopili jste CSS. Kdybyste chtěli, klidně o tom napíšu článek.
+Mám ho rád ne, proto, že by byl dobře vymyšlený, ale proto, že v něm děláte design, [animace věcí na stránce](https://codepen.io/pgalor/pen/OeRWJQ) (výkonnější, než JS), a protože jsou na něj hromady tutoriálů. Moje oblíbené jsou CSS Tricks, kde najdete [základy](https://css-tricks.com/almanac/properties/t/text-shadow/) i [kchúl věci, které vás hned tak nenapadnou](https://css-tricks.com/while-you-werent-looking-css-gradients-got-better/). Nejhorší je na CSS asi pozicování. Existuje totiž několik pozicovacích režimů [(static, relative, absolute, fixed, sticky)](https://developer.mozilla.org/en-US/docs/Web/CSS/position) a pak několik kontejnerů, které používají úplně vlastní pozicování (flexbox, grid - Jsou mnohem lepší ve všech směrech, i výkonově). Ale když pochopíte pozicování, pochopili jste CSS. Kdybyste chtěli, klidně o tom napíšu článek.
 
 Pokud máte rádi myšlení mimo krabici 🖾, tady vám házím 🙌 [odkaz na stránku, která je celá jen jeden HTML a jeden CSS soubor](https://john-doe.neocities.org/). I bez PHP a JavaScriptu jdou dělat opravdu kchúl věci 🥰.
 
-Když napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm vyznat. Natož v těch, které psali jiné lidi. Proto byly vymyšleny _preprocesory pro CSS_, které se do něj "transpilují". Třeba Sass, Less, nebo Stylus.
+Když napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm vyznat. Natož pak v těch, které psali jiní lidi. Proto byly vymyšleny _preprocesory pro CSS_, které se do něj "transpilují". Třeba Sass, Less, nebo Stylus.
 
 ### JavaScript
 ::: tip Hodnocení
@@ -659,10 +664,10 @@ Když napíšete nějaký delší CSS soubor, tak je hodně těžké se v něm v
 </html>
 ```
 
-Běží v prohlížeči, takže pokud budete chtít použít nějaké přemodernělé věci jako třeba Push Notikifikace nebo [monitorovat stav baterky](https://whatwebcando.today/battery-status.html), tak se nejdřív podívejte na [CanIUse](https://caniuse.com/), protože pak jsem se vždycky divil, že něco nefujnguje 🙃.
+Běží v prohlížeči, takže pokud budete chtít použít nějaké přemodernělé věci jako třeba Push Notikifikace nebo [monitorování stavu baterky](https://whatwebcando.today/battery-status.html), tak se nejdřív podívejte na [CanIUse](https://caniuse.com/), protože pak jsem se vždycky divil, že něco nefujnguje 🙃.
 
 Někdy ale existuje tzv. [polyfill](https://jecas.cz/polyfill), který vám do některých prohlížečů ty nepodporované věci přidá.  
-Dynamické typování považuju u jazyka tohohle účelu za dobrý nápad, i když to znamená, že poběží pomaleji 🐌🏃‍♂️. Stejně jako pro všechny prohlíčeové jazyky, i pro JS vycházejí [pořád nové standardy](https://cs.wikipedia.org/wiki/ECMAScript "Jmenují se ECMAScript a JavaScript je v podstatě jen jejich konkrétní implementací"). Ty novější už jsou celkem fajn, takže si můžete program přehledně rozdělit do modulů 🛅, nebo používat jednodušší `fetch` místo složitého `XMLHttpRequest`.
+Dynamické typování považuju u jazyka tohohle účelu za dobrý nápad, i když to znamená, že poběží pomaleji 🐌🏃‍♂️. Stejně jako pro všechny prohlíčové jazyky, i pro JS vycházejí [pořád nové standardy](https://cs.wikipedia.org/wiki/ECMAScript "Jmenují se ECMAScript a JavaScript je v podstatě jen jejich konkrétní implementací"). Ty novější už jsou celkem fajn, takže si můžete program přehledně rozdělit do modulů 🛅, nebo používat jednodušší `fetch` místo složitého `XMLHttpRequest`.
 
 ### jQuery
 ::: tip Hodnocení
@@ -672,7 +677,7 @@ Dynamické typování považuju u jazyka tohohle účelu za dobrý nápad, i kdy
 ```js
 $( "button.continue" ).html( "Next Step..." )
 ```
-Je to JavaScriptová knihovna. Má výhodu v tom, že vám zkrátí psaní (_write less, do more_). Nevýhoda je v tom, že je pomalá a když ji používáte hodně, tak je potom těžké se v kódu vyznat. HTML totiž funguje tak, že když změníte nějakou proměnnou, která ovlivní vzhled stránky, tak se začne přepočítávat **layout**, abyste měli v JavaScriptu dostupné aktuální hodnoty rozmístění a velikosti všech _elementů_ na stránce. Říká se tomu **layout thrashing**. Pokud ale provedete více změn za sebou, tak se layout phase provede až za poslední z nich. Tomu se pak říká **layout batching** a pomáhají s tím kniovny jako je třeba [fastdom](https://github.com/wilsonpage/fastdom). Vidíte? Abyste si ulehčili práci, tak potřebujete hromadu knihoven a hlavička vaší stránky se rychle a jistě prodlužuje, jako třeba u současné verze Dorostomládežového Zpěvníkátoru:
+Je to JavaScriptová knihovna. Má výhodu v tom, že vám zkrátí psaní (_write less, do more_). Nevýhoda je v tom, že je pomalá a když ji používáte hodně, tak je potom těžké se v kódu vyznat. HTML totiž funguje tak, že když změníte nějakou proměnnou, která ovlivní vzhled stránky, tak se začne přepočítávat **layout**, abyste měli v JavaScriptu dostupné aktuální hodnoty rozmístění a velikosti všech _elementů_ na stránce. Říká se tomu **layout thrashing**. Pokud ale provedete více změn za sebou, tak se layout phase provede až za poslední z nich. Tomu se pak říká **layout batching** a pomáhají s tím kniovny jako je třeba [fastdom](https://github.com/wilsonpage/fastdom). Vidíte? Abyste si ulehčili práci, tak potřebujete hromadu knihoven a hlavička vaší stránky se rychle a jistě prodlužuje, jako třeba u současné 'stabilní' verze Dorostomládežového Zpěvníkátoru:
 ```html
 <script src="https://browser.sentry-cdn.com/5.7.1/bundle.min.js" integrity="sha384-KMv6bBTABABhv0NI+rVWly6PIRvdippFEgjpKyxUcpEmDWZTkDOiueL5xW+cztZZ" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
@@ -706,7 +711,7 @@ A proto přišel...
 - Možnosti 🤓🤓
 :::
 
-Je to _module bundler_, což znamená, že vezme všechny vaše 📜 skripty, všechny 🎨 styly, všechny 📟 htmlka, prostě všechno. Navíc umí transpilovat různé JavaScriptové a CSSkové preprocesory, většinou pomocí nějakého pluginu.  
+Je to _module bundler_, což znamená, že zválcuje všechny vaše 📜 skripty, všechny 🎨 styly, všechny 📟 htmlka, prostě všechno. Navíc umí transpilovat různé JavaScriptové a CSSkové preprocesory, většinou pomocí nějakého pluginu.  
 Funguje tak, že ke každé stránce si najde všechny její závislosti. Všechny skripty vrazí do jednoho skriptu, všechny styly do jednoho stylu, chápeme se. 
 ![Velkolepé schéma Webpacku](https://www.vzhurudolu.cz/prirucka-content/dist/images/medium/webpack-scheme.png)
 
@@ -768,7 +773,7 @@ Sass má dvě verze syntaxe. Jedné se říká *indented syntax*, protože míst
 :::
 Je to jediný JavaScriptí framework, který jsem zkoušel, takže ho bohužel nemůžu s ničím porovnat. Vybíral jsem totiž podle nějakého postu na StackOverflow, podle kterého byl tehdy Vue nejrychlejší ⚡. [Teď za dva roky už je tomu jinak](https://geekflare.com/best-javascript-frameworks/) ⛈️. No minimálně je rychlejší, než čistý JS, protože používá Virtual DOM (skutečný DOM je pomalý).
 
-Má takzvané reaktivní proměnné, což prostě Data Binding. Změníte proměnnou a ona se změní i v HTMLku.
+Přidává takzvané reaktivní proměnné, což je prostě Data Binding. Změníte proměnnou a ona se změní i v HTMLku.
 ```html
 <template>
    <div>
@@ -778,17 +783,23 @@ Má takzvané reaktivní proměnné, což prostě Data Binding. Změníte promě
       placeholder='Text Box' 
       v-model='query'
     />
-    {{ query }}
+    {{ something }}
    </div>
 </template>
 <script>
 ```
 ```js
     export default {
-        name: 'HelloWorld',
         data() {
             return {
-            query: ""
+                name: 'HelloWorld',
+                query: ""
+            }
+        },
+        computed: {
+            something()
+            {
+                return this.name + this.query;
             }
         }
     }
@@ -796,11 +807,11 @@ Má takzvané reaktivní proměnné, což prostě Data Binding. Změníte promě
 ```html
 </script>
 ```
-PS: Tento kód je v jednom souboru, např HelloWorld.vue
+PS: Tento kód je jen v jednom souboru, např HelloWorld.vue
 
 Vue zavádí systém komponent, které můžete na stránce znovupoužívat. Pak stavový systém Vuex, který až tak kladně nehodnotím. Ale docela dobré je třeba to, že každá komponenta může mít svůj CSS/preprocesovanéCSS blok, který nebude nijak ovlivňovat stylování zbytku stránky.
 
-No a pak jsem zjistil, že generovat celý web v JavaScriptu je docela "práce pro prohlížeč navíc". Přesně takhle to totiž všechny JS frameworky dělají. Prohlížeče jsou i bez nich dost pomalé, že.  
+No a pak jsem zjistil, že generovat celý web v JavaScriptu je docela "práce pro prohlížeč navíc". Přesně takhle to totiž všechny JS frameworky dělají. Jako by prohlížeče nebyly i bez nich dost pomalé, že.  
 ![A některé i pomalejší.](https://i.imgflip.com/snj85.jpg)
 
 Navíc vaše kreativní texty nejsou viditelné pro vyhledávače. Proto vynalezli Server-Side Rendering a Static Generation, které jsou ale docela složité na setup. A tento problém řeší **další framework, uíííí!**
@@ -828,6 +839,9 @@ Různé formátovací srandy *kurzíva* **tučné**, a tohle jste viděli nahoř
 `Windows 🚪 `, [[[Linux 🐧]], **_MacOS_** 🍎, _Web_ 🌏, **Cloud** 🌩️ [Titulek odkazu](https://dotnet.microsoft.com/ "Já jsem si prostě musel pohrát s barvičkama")
 ![Titulek obrázku](https://i.imgflip.com/snj85.jpg)
 ```
-Je to formátovací jazyk. Líbí se mi a používá se všude možně 😉. Můžete uvnitř něj psát i HTML. To bude tím, že se většinou kompiluje do HTML.
+Je to formátovací jazyk. Líbí se mi a používá se všude možně 😉. Můžete uvnitř něj psát i HTML (to bude tím, že se většinou kompiluje do HTML. Ale existují na něj parsery i např. pro Flutter).
 
-Pokračování někdy...
+## Co bych vybral když
+Pro desktopovou aplikaci bych bral C#, pro mobilní Flutter, pro webovou Nuxt.js. Za týden bych vám sice řekl něco jiného, protože se svět zase kousek posune, ale to nevadí. Tráva roste dál, voda teče, a Elon Musk odpaluje další rakety 😉.
+
+Vy jste to dočetli až sem? No gratuluju, tak se těším na nějaké zprávy o tom, jak se vám s těmahle "radama" daří, nebo nedaří 😁!
