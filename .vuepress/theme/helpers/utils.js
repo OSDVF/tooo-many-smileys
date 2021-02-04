@@ -64,7 +64,10 @@ export function resolvePage (pages, rawPath, base) {
         type: 'page',
         path: ensureExt(pages[i].path)
       }
-      if(rawPath.length < base.length) //The link leads to a page higher in the hierarchy
+      base = decodeURI(base)
+      var rawPathDepth = rawPath.lastIndexOf('/')
+      var baseDepth = base.lastIndexOf('/')
+      if(rawPathDepth < baseDepth ||(rawPathDepth == baseDepth && rawPath != base && rawPath.endsWith('/'))) //The link leads to a page higher in the hierarchy
         pageOptionsModifier.title = '⤴️ ' + pages[i].title
       return Object.assign({}, pages[i], pageOptionsModifier)
     }
