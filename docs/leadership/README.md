@@ -65,4 +65,20 @@ První 3 roky s námi byli i starší vedoucí, kteří nás ve všem vedli 😄
 
 Za tu dobu jsme se zvolna učili, co to vlastně znamená být vedoucím, a připadá mi, že to vlastně ještě pořád neumím. Nejde totiž primárně o organizaci, která je sice nejvíce vidět, ale o vaše rozhovory a činnosti ve chvílích, kdy pár lidem věnujete svoji plnou pozornost. Při organizovaném programu člověk totiž často přepne do **analytického režimu** a jeho mysl není schopná vnímat vás jako člověka, ale spíše jako takový vzdálený předmět, který žije v jiném světě než oni. _(Btw. takhle si asi někdy připadá i Bůh, protože přesně takový přístup jsem měl i k němu)_
 
+Dělal jsem strašně moc chyb a lidi se v mojí přítomnosti necítili úplně uvolněně. Já jsem se někdy taky necítil úplně dobře, třeba když jsem v některých chvílích měl vedle sebe vedoucí, kteří na sebe byli hrdí a pyšní a dávali najevo, že je ostatní musí brát vážně. To by bylo jako vojna, ne setkání přátel. 
+
+Byl jsem extrémně vděčný za jednoho staršího vedoucího (taky Iťák), který mě pozýval na návštěvy, neustále mi zachraňoval krk, a byl mi opravdovým kémošem, ne jen vedoucím. Myslím, že je super mít vzor v někom, kdo je vám blízký, ne jen třeba v nějakém dobrém řečníkovi, kterého vidíte na velkých festivalech. I když mívá svědectví a historky z vedení jejich mládeže. I v tom byla Louč super, její součástí bylo i to koučování, což jsou v podstatě takové osobní rozhovory. S koučem jsme si sedli (taky Iťák z VUT), což je prostě taky takové to Boží vedení 😉. S tím musíte počítat.
+
+Zkoušel jsem mít i nějaké zamyšlení, ale dopadlo to vždycky moc špatně, protože mě to nikdy nikdo neučil.
+
+## Nezapomenutelné zkušenosti
+### Izrael
+V roce 2017 jsem měl možnost jet do Izraele, o tom snad taky někdy bude článek. Z hlediska vedení dorostu to bylo přínosné hlavně proto, že jsem poznal jiné přemýšlení lidí a viděl různé produkty Boží práce, které mi trochu odhalily na co se zaměřit při přemýšlení o budoucnosti dorostu. Třeba jsme tam viděli _mesianský sbor_ <!-- {title="Mesiánští Židé věří v Ježíše Krista, na rozdíl od těch tradiččních"} -->, ve kterém byli z 90% lidi posbíraní z ulice. Bezdomovci, imigranti, dorogově závislí a tak. Pochopitelně všichni se z toho už dostali. Text, který se tam promítal na plátně byl ve 3 jazycích, protože ti lidé byli z mnoha národností. Práce lidí, kteří ten sbor zakládali nespočívala ve vyhledávání léčebných zařízení, ale modlili se za ně s důvěrou, že Ježíš nejlíp ví, jak jim pomoct.
+
+### Simply the Story
+Bible je složitá, a má smysl, aby byla složitá. Jednou jsem byl pozván na kurz, kde jsme se učili číst a vykládat příběhy z Bible tak, aby byly živé. Moc mi to pomohlo hlavně v tom, jak teď přemýšlím o lidech v Bibli. Jako o skutečných osobách, kterým se hlavou honily různé myšlenky a dojmy, každý z nich byl zrovna na jiné žvotní cestě a každý z nich se sám v průběhu těch příběhů třeba něco jiného naučil. Pokud byste chtěli o STS zjistit víc, udělal jsem k tomu i [takovou krátkou inforstránku pro kémoše](http://pojdtenasts.dorostmladez.cz) (kvůli tomu, že [oficiální stránky](http://wycliffe.cz/sts/) neobsahují všechny ty povzbuzující informace). Nejlepší je ale samozřejmě osobní pozvání. 
+
+## Průtok
+Když se ohlédnu zpět, do našeho dorstu přišlo za 5 let asi 60 lidí. Z toho zhruba 20 z nich bylo z věřících rodin a dalších 20 mají třeba věřící babičku, která je přihlásila na konfirmaci. Zbylých 20 jsou zhruba kamarádi dorosťáků. Z toho všecho se nás v době korony schází online **průměrně asi 10**. Naživo by možná přišlo průměrně 15 lidí a to teď máme docela silný ročník sourozenců už starších dorosťáků.
+
 Pokračování někdy příště...
