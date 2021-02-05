@@ -280,7 +280,9 @@ function flatten (items, res) {
     margin: .25rem 0 1rem
     padding: 2rem 1.4rem 1.4rem
     position relative
-    & > footer, & > em
+    & > footer
+    & > p > em > strong
+      font-style normal
       font-size: 0.8rem;
       font-weight: 400;
       letter-spacing: 0;

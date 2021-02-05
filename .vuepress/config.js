@@ -89,6 +89,7 @@ module.exports = {
     extendMarkdown: (md) => {
       md.use(require('markdown-it-kbd'))
       md.use(require('markdown-it-decorate'))
+      md.use(require('markdown-it-sub-alt'))
     }
   },
   plugins: {
