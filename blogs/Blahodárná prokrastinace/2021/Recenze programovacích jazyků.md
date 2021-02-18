@@ -827,6 +827,8 @@ Hodí se pro psaní polo-interaktivních stránek s převahou hromady statickéh
 
 <small>(není tady ukázka kódu, protože VuePress nepřináší žádný nový jazyk)</small>
 
+![Jak vypadá tradiční struktura projektu](/images/makingoof1.png)[Po použití pár takových frameworků se vám stane, že váš projekt trošku naroste.](/blogs/Blahodárná%20prokrastinace/2021/Průměrný%20projekt.html)
+
 ### Markdown
 ::: tip Hodnocení
 - Složitost 💔

@@ -3,9 +3,9 @@ title: "UnHuman"
 date: '2021-01-28 14:19'
 tags:
  - 🗣️💬🤩👉🌐/📰
+ - Naprosto zbytečné
 categories:
  - Blahodárná prokrastinace
- - Naprosto zbytečné
 ---
 
 Sláva, tohle je další příběh od Dominika, pokud jste nečetli ten první, [určitě to zkuste](Pheonix.md "Jmenuje se Pheonix"), stojí to za to!
