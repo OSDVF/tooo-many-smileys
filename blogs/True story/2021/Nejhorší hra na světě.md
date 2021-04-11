@@ -37,7 +37,7 @@ Toš jsem si nainstaloval [WSL](https://cs.wikipedia.org/wiki/Windows_Subsystem_
 Viděl jsem, že mám před sebou tolik práce, že to budu muset dělat přes prázdniny i na táboře přes noc. Ale jo, vyšlo to. Skoro.
 
 ## Retrospektiva
-Prázdniny už nejsou. Je neděle 20.9.2020. Zítra jdu do školy. Včera jsem zapomněl, že termín přihlašování na předměty začíná 16:30, myslel jsem že je až 19:něco, takže rozvrh nevyšel úplně ideálně. Navíc jsem byl dost uňavoučký 🥱 takže jsem se omylem přihlásil na jiné cvičení, než jsem chtěl (tlačítka byly moc blizko sebe). Vděčím ale jednomu duhovnímu kamarádovi za jeho mobilní internet, jinak by se přihlášení nekonalo.
+Prázdniny už nejsou. Je neděle 20.9.2020. Zítra jdu do školy. Včera jsem zapomněl, že termín přihlašování na předměty začíná 16:30, myslel jsem že je až 19:něco, takže rozvrh nevyšel úplně ideálně. Navíc jsem byl dost uňavoučký 🥱 takže jsem se omylem přihlásil na jiné cvičení, než jsem chtěl (tlačítka byly moc blízko sebe). Vděčím ale jednomu duhovnímu kamarádovi za jeho mobilní internet, jinak by se přihlášení nekonalo.
 
 **Středa-pátek** minulého týdne byly pro mě nejhorší dny v roce. Nevím, možná je i dnešní neděle horší než ony.
 Myslel jsem, že ve středu a čtvrtek budu mít na práci přesně: nic. Jen zkoušku kapely ve čtvrtek večer. V pátek taky nic, až dorost, který zrovna byl spojený se sejšnem _Bible není SPAM_.
