@@ -99,9 +99,9 @@ module.exports = {
         background: "#000"
       }
     },
-    'sitemap': {
+    'sitemap': process.env.NODE_ENV === 'production' ? {
       hostname: 'http://prilismnohosmajliku.wz.cz'
-    },
+    } : false,
   },
   chainWebpack(config)
   {

@@ -13,11 +13,11 @@ Teda úplný začátek to není, o tom jindy.
 Ve 13 letech jsem konfirmoval, což znamená setkávat se s lidma v podobném věku, učit se o tom, čemu vlastně věříte nebo nevěříte a nakonec prohlásit
 > Díky rodiče, že jste mě dali pokřtít, protože bych to stejně asi teďka udělal sám.
 
-Křest se v naší rodině ale bral vždycky jako osobní věc - jako prohlášení, že se rozohoduju počítat v životě s Bohem, takže nás pokřtít jako malé nedali. Tak jsem to udělal sám, asi 30 sekund před tím prohlášením výše 😁. Hello there, dlouho jsme se neviděli.
+Křest se v naší rodině ale bral vždycky jako osobní věc - jako prohlášení, že se rozhoduju počítat v životě s Bohem, takže nás pokřtít jako malé nedali. Tak jsem to udělal sám, asi 30 sekund před tím prohlášením výše 😁. Hello there, dlouho jsme se neviděli.
 
 Pak jsem byl mile pozván do dorostu - s těmito lidmi jsem jel na první můj hardcořejší tábor, který jsem si neskutečně užil.
 ![Snad nikomu z nich nebude vadit, že je tady vystavený 😅](/images/spalov2014.jpg)  
-V dorostu jsem dorostl až do fáze, kdy jsem si říkal, že je to všechno fajn, ale možná bych k tomu měl nějak přispět. No tak jsem začal dělat různé užitečné věci, které mi teda fakt jako šly 🙃. **Focení** (bugdet na foťák 300,- takže fotky byly moc kvalitní).
+V dorostu jsem dorostl až do fáze, kdy jsem si říkal, že je to všechno fajn, ale možná bych k tomu měl nějak přispět. No tak jsem začal dělat různé užitečné věci, které mi teda fakt jako šly 🙃. **Focení** (budget na foťák 300,- takže fotky byly moc kvalitní).
 ![No dobře, tohle jsem zrovna nefotil já 😶 ale kvalita je stejná](/images/dorostQuality.jpg)  
 **Vymýšlení her** 🤦‍♂️. Složité byly dost, ale zábava... byla spíš je vymýšlet. Dělání prezentací o dorostových akcích, na kterých stejně všichni byli, takže se nemusely prezentovat. Ale užil jsem si PowerPoint 2003. Tvorba webových stránek, o kterých lidi včetně dorosťáků zapomněli, že existují, jen co jsem jim o nich řekl.
 
@@ -27,20 +27,25 @@ Lidi totiž fungovali hlavně na sociálních sítích, které jsem tehdy zavrho
 
 #### Příprava občerstvení 🍿
 Jednu dobu jsme mívali na občerstvení rozpisy a já jsem omylem jeden rozpis publikoval na stránky celého sboru místo dorostu 😪, prý to pak troošku zavázelo.  
-Ať už rozpisy máte, nebo ne, je to jedno. Většinou je práce potřebná k tomu, aby ho někdo fakt přinesl, stejná. Rozpisy mají ale tu nevýhodu, že už měsíc dobředu víte, že máte připravovat občerstvení s někým, koho úplně neznáte, a uděláte si psychický blok. Když se to sdělí ústně, tak vás úsměv a podpora ze strany ostatních lidí lépe motivuje. Občerstvení je super nástroj, jak naučit lidi _komunikovat s těmi, kteří třeba přemýšlí_ trochu inak 🤩.
+Ať už rozpisy máte, nebo ne, je to jedno. Většinou je práce potřebná k tomu, aby ho někdo fakt přinesl, stejná. Rozpisy mají ale tu nevýhodu, že už měsíc dopředu víte, že máte připravovat občerstvení s někým, koho úplně neznáte, a uděláte si psychický blok. Když se to sdělí ústně, tak vás úsměv a podpora ze strany ostatních lidí lépe motivuje. Občerstvení je super nástroj, jak naučit lidi _komunikovat s těmi, kteří třeba přemýšlí_ trochu inak 🤩.
 
 #### Videa
 Hele ty nápady nebyly úplně špatné, a snad se tomu i někdo zasmál, ale není to dobrá prezentace, je to spíš taková šílenost pro ty, kteří to pochopí. Záleží, co zrovna více potřebujete. [Všechno najdete na našich stránkách](https://archiv.dorostmladez.cz/videa/).
 
 ### Mobilizace
 #### Pozvání číslo 1️⃣
-Dostali jsme jednou (dva z dorostu) pozvání na rozdávání cédéček s filmem Ježíš zdarma. Dopředu řeknu, že to samotné rozdávání jsem později odsoudil jako nepřirozenou věc. Lidi, kteří tam s náma rozdávali, byli ale zvláštní. Byli to totiž lidi, kteří ho běžně rozdávali mezi uprchlíky na Balkáně a určitě i jinde. A to ještě před tím, než byla uprchlická krize cool. Je totiž [přeložený do hromady jazyků](https://en.wikipedia.org/wiki/Jesus_(1979_film)#Foreign-language_versions).
+Dostali jsme jednou (dva z dorostu) pozvání na rozdávání cédéček s filmem Ježíš zdarma. Dopředu řeknu, že to samotné rozdávání jsem později odsoudil jako nepřirozenou věc. Lidi, kteří tam s náma rozdávali, byli ale zvláštní. Byli to totiž lidi, kteří je běžně rozdávali mezi uprchlíky na Balkáně a určitě i jinde. A to ještě před tím, než byla uprchlická krize cool. 
+Je totiž [přeložený do hromady jazyků](https://en.wikipedia.org/wiki/Jesus_(1979_film)#Foreign-language_versions).
+::: details Abych byl přesný, nebyla cool nikdy.
+`Before it was cool` [je idiom](https://en.wiktionary.org/wiki/before_it_was_cool). Není dobré ho používat, ale když ho někdo použije, je dobré vědět, že tím nemyslí nic negativního.
+Chtěl jsem tím vyzdvihnout to, že si uprchlíků všímali ještě před krizí.
+:::
 
 Tihle lidi měli totiž ve mně probudili zvláštní zájem o všichni lidi na světě 😀, protože ho sami měli. Vždycky přemýšleli nad tím, co s tím filmem asi udělají a jestli jim to třeba nějak pomůže, a vždycky se za ně zpětně modlili.
 
 #### Pozvání číslo 2️⃣
 _SCEAV_ <!-- {title="Slezská evangelická církev"} --> dělal takový vzdělávací kurz Louč, který trval 3 víkendy a zjistili jsme
-- Na první víkednovce v Malenovicích
+- Na první víkendovce v Malenovicích
     - Jak na tom jsme, co pro nás vlastně Bůh znamená
     - Jaké nám dává možnosti k
     - Aktivnímu životu s ním
@@ -67,26 +72,26 @@ Za tu dobu jsme se zvolna učili, co to vlastně znamená být vedoucím, a při
 
 Dělal jsem strašně moc chyb a lidi se v mojí přítomnosti necítili úplně uvolněně. Já jsem se někdy taky necítil úplně dobře, třeba když jsem v některých chvílích měl vedle sebe vedoucí, kteří na sebe byli hrdí a pyšní a dávali najevo, že je ostatní musí brát vážně. To by bylo jako vojna, ne setkání přátel. 
 
-Byl jsem extrémně vděčný za jednoho staršího vedoucího (taky Iťák), který mě pozýval na návštěvy, neustále mi zachraňoval krk, a byl mi opravdovým kémošem, ne jen vedoucím. Myslím, že je super mít vzor v někom, kdo je vám blízký, ne jen třeba v nějakém dobrém řečníkovi, kterého vidíte na velkých festivalech. I když mívá svědectví a historky z vedení jejich mládeže. I v tom byla Louč super, její součástí bylo i to koučování, což jsou v podstatě takové osobní rozhovory. S koučem jsme si sedli (taky Iťák z VUT), což je prostě taky takové to Boží vedení 😉. S tím musíte počítat.
+Byl jsem extrémně vděčný za jednoho staršího vedoucího (taky Iťák), který mě pozíval na návštěvy, neustále mi zachraňoval krk, a byl mi opravdovým kémošem, ne jen vedoucím. Myslím, že je super mít vzor v někom, kdo je vám blízký, ne jen třeba v nějakém dobrém řečníkovi, kterého vidíte na velkých festivalech. I když mívá svědectví a historky z vedení jejich mládeže. I v tom byla Louč super, její součástí bylo i to koučování, což jsou v podstatě takové osobní rozhovory. S koučem jsme si sedli (taky Iťák z VUT), což je prostě taky takové to Boží vedení 😉. S tím musíte počítat.
 
 Zkoušel jsem mít i nějaké zamyšlení, ale dopadlo to vždycky moc špatně, protože mě to nikdy nikdo neučil.
 
 ## Nezapomenutelné zkušenosti
 ### Izrael
-V roce 2017 jsem měl možnost jet do Izraele, o tom snad taky někdy bude článek. Z hlediska vedení dorostu to bylo přínosné hlavně proto, že jsem poznal jiné přemýšlení lidí a viděl různé produkty Boží práce, které mi trochu odhalily na co se zaměřit při přemýšlení o budoucnosti dorostu. Třeba jsme tam viděli _mesianský sbor_ <!-- {title="Mesiánští Židé věří v Ježíše Krista, na rozdíl od těch tradičních"} -->, ve kterém byli z 90% lidi posbíraní z ulice. Bezdomovci, imigranti, dorogově závislí a tak. Pochopitelně všichni se z toho už dostali. Text, který se tam promítal na plátně byl ve 3 jazycích, protože ti lidé byli z mnoha národností. Práce lidí, kteří ten sbor zakládali nespočívala ve vyhledávání léčebných zařízení, ale modlili se za ně s důvěrou, že Ježíš nejlíp ví, jak jim pomoct.
+V roce 2017 jsem měl možnost jet do Izraele, o tom snad taky někdy bude článek. Z hlediska vedení dorostu to bylo přínosné hlavně proto, že jsem poznal jiné přemýšlení lidí a viděl různé produkty Boží práce, které mi trochu odhalily na co se zaměřit při přemýšlení o budoucnosti dorostu. Třeba jsme tam viděli _mesiánský sbor_ <!-- {title="Mesiánští Židé věří v Ježíše Krista, na rozdíl od těch tradičních"} -->, ve kterém byli z 90% lidi posbíraní z ulice. Bezdomovci, imigranti, drogově závislí a tak. Pochopitelně všichni se z toho už dostali. Text, který se tam promítal na plátně byl ve 3 jazycích, protože ti lidé byli z mnoha národností. Práce lidí, kteří ten sbor zakládali nespočívala ve vyhledávání léčebných zařízení, ale modlili se za ně s důvěrou, že Ježíš nejlíp ví, jak jim pomoct.
 
 ### Simply the Story
-Bible je složitá, a má smysl, aby byla složitá. Jednou jsem byl pozván na kurz, kde jsme se učili číst a vykládat příběhy z Bible tak, aby byly živé. Moc mi to pomohlo hlavně v tom, jak teď přemýšlím o lidech v Bibli. Jako o skutečných osobách, kterým se hlavou honily různé myšlenky a dojmy, každý z nich byl zrovna na jiné žvotní cestě a každý z nich se sám v průběhu těch příběhů třeba něco jiného naučil. Pokud byste chtěli o STS zjistit víc, udělal jsem k tomu i [takovou krátkou inforstránku pro kémoše](http://pojdtenasts.dorostmladez.cz) (kvůli tomu, že [oficiální stránky](http://wycliffe.cz/sts/) neobsahují všechny ty povzbuzující informace). Nejlepší je ale samozřejmě osobní pozvání. 
+Bible je složitá, a má smysl, aby byla složitá. Jednou jsem byl pozván na kurz, kde jsme se učili číst a vykládat příběhy z Bible tak, aby byly živé. Moc mi to pomohlo hlavně v tom, jak teď přemýšlím o lidech v Bibli. Jako o skutečných osobách, kterým se hlavou honily různé myšlenky a dojmy, každý z nich byl zrovna na jiné životní cestě a každý z nich se sám v průběhu těch příběhů třeba něco jiného naučil. Pokud byste chtěli o STS zjistit víc, udělal jsem k tomu i [takovou krátkou inforstránku pro kémoše](http://pojdtenasts.dorostmladez.cz) (kvůli tomu, že [oficiální stránky](http://wycliffe.cz/sts/) neobsahují všechny ty povzbuzující informace). Nejlepší je ale samozřejmě osobní pozvání. 
 
 ### Ohňostroj
 Pokud jste ji zažili, určitě patříte k nejšťastnějším lidem na světě. Ta chvíle, kdy člověk, kterého znáte, uvěří v Boha. Nemyslím tím, že začne věřit, že existuje - spíš jako když o někom jen slyšel a pak se s ním konečně setkal. Tehdy to je úplný ohňostroj 🎇. Máte chuť skákat a běhat po lesích 🌲. A nejste sami, kdo se raduje - v Lukášovi 15:17 to samé dělá "celé nebe".  Většinou je k tomu potřeba jen, aby se člověk zbavil stereotypů o Bohu 👓, které zná, a aby se dozvěděl, jaký je ve skutečnosti. Chtěl jsem, aby se to stalo mým životním cílem. Zbavit nás stereotypů. Ať už bude zrovna lepší mluvit nebo mlčet, použiju to k tomu, aby lidé slyšeli/viděli, jaký je Bůh doopravdy.
 
 ## Průtok
-Když se ohlédnu zpět, do našeho dorstu přišlo za 5 let asi 60 lidí. Z toho zhruba 20 z nich bylo z věřících rodin a dalších 20 mají třeba věřící babičku, která je přihlásila na konfirmaci. Zbylých 20 jsou zhruba kamarádi dorosťáků. Z toho všecho se nás v době korony schází online **průměrně asi 10**. Naživo by možná přišlo průměrně 15 lidí a to teď máme docela silný ročník sourozenců už starších dorosťáků.
+Když se ohlédnu zpět, do našeho dorostu přišlo za 5 let asi 60 lidí. Z toho zhruba 20 z nich bylo z věřících rodin a dalších 20 mají třeba věřící babičku, která je přihlásila na konfirmaci. Zbylých 20 jsou zhruba kamarádi dorosťáků. Z toho všechno se nás v době korony schází online **průměrně asi 10**. Naživo by možná přišlo průměrně 15 lidí a to teď máme docela silný ročník sourozenců už starších dorosťáků.
 
-Říkám si, že v příštím dorosťě bych chtěl zksuit jiný komunitní model. Být více přáteli, než dorostem, protože tak to dělal Ježíš s učedníky, sdílel s nimi svůj život. I tak sice existoval Jidáš, ale za 3 roky tu bylo 11 lidí, kteří dělali to samé, co ježíš. Za další 3 roky tu mohlo být díky každému z nich třeba 11×11 dalších.
+Říkám si, že v příštím dorosťě bych chtěl zkusit jiný komunitní model. Být více přáteli, než dorostem, protože tak to dělal Ježíš s učedníky, sdílel s nimi svůj život. I tak sice existoval Jidáš, ale za 3 roky tu bylo 11 lidí, kteří dělali to samé, co ježíš. Za další 3 roky tu mohlo být díky každému z nich třeba 11×11 dalších.
 
 ## Tábory
-S tábory mám nejlepší zkušenosti. na těch dětských jsem si vždycky představoval, jaké by to asi bylo připravovat je. Pak se mi ten sen splnil na mém druhém dorostovém táboře na Spálově v roce 2017. Stal se dokonce zázrak, přihlásilo se asi 5 lidí, které jsem do té doby vůbec neznal. Neexistuje asi lepší plac, kde může člověk zapadnout do kolektivu, než na táboře. Většinou právě ony jsou tím místem, které bylo klíčové zrovna pro lidi, kteří v dorostu a mládeži věrně zůstali. Jsou taky blahodárné k osvoboení z letargie a prokrastinace 😁 - vždycky, když se mi něco nechce dělat, tak si vzpomenu na to, jak jsme stihli za jeden den postavit celé tábořiště pro 30 lidí.
+S tábory mám nejlepší zkušenosti. na těch dětských jsem si vždycky představoval, jaké by to asi bylo připravovat je. Pak se mi ten sen splnil na mém druhém dorostovém táboře na Spálově v roce 2017. Stal se dokonce zázrak, přihlásilo se asi 5 lidí, které jsem do té doby vůbec neznal. Neexistuje asi lepší plac, kde může člověk zapadnout do kolektivu, než na táboře. Většinou právě ony jsou tím místem, které bylo klíčové zrovna pro lidi, kteří v dorostu a mládeži věrně zůstali. Jsou taky blahodárné k osvobození z letargie a prokrastinace 😁 - vždycky, když se mi něco nechce dělat, tak si vzpomenu na to, jak jsme stihli za jeden den postavit celé tábořiště pro 30 lidí.
 
 Pokračování někdy příště...

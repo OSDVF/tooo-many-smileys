@@ -39,4 +39,4 @@ Nebo to taky mají na Spotify 😉
 
 <iframe src="https://open.spotify.com/embed/track/3e7YyQrJiExANa5W2uyvo4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Říkáte si, že se vlastně nic nestalo a máte pravdu. Z geologického hlediska se dokonce za celou existenci lidstva nic moc nestalo. Proto je dobré mít vždycky po ruce nějakou hudbici, která vám to připomene. Nebo někoho jistějšího a stálejšího, než jsem já.
+Říkáte si, že se vlastně nic nestalo a máte pravdu. Z materialistického hlediska se dokonce za celou existenci lidstva nic moc nestalo. Jsme jen malá tečka ve vesmíru. Proto je dobré mít vždycky po ruce nějakou hudbici, která vám připomene obojí. Že se nic nestalo. Zároveň, každý den je moc důležitý a nejste jen kus matroše ve vesmíru. Nebo mít po ruce někoho jistějšího a stálejšího, než jsem já.
