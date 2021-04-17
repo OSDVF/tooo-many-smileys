@@ -3,7 +3,6 @@ title: "Pheonix"
 date: "2021-01-28 13:18"
 tags:
   - 🗣️💬🤩👉🌐/📰
-  - Naprosto zbytečné
 categories:
   - Blahodárná prokrastinace
 excerpt: The legend says his high intelligence gives him power to read other people’s minds, making him able to manipulate others like it’s nothing.

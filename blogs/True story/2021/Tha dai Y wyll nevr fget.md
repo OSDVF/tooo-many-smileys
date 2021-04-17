@@ -4,7 +4,6 @@ date: '2021-02-02 21:13'
 tags:
  - 🗣️💬🤩👉🌐/📰
  - Generátor náhodných setkání
- - Naprosto zbytečné
  - Škůla
 categories:
  - True story 😑
