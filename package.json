@@ -5,7 +5,7 @@
   "author": "O.S.DV.F",
   "repository": "https://github.com/OSDVF/tooo-many-smileys",
   "scripts": {
-    "dev": "vuepress dev . --open --host \"localhost\"",
+    "dev": "vuepress dev . --open --host 0.0.0.0",
     "build": "vuepress build .",
     "clean": "del .\\public /Q /S",
     "upload": "uploadSmileys.bat",

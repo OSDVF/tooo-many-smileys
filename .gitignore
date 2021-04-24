@@ -4,3 +4,4 @@ yarn.error
 /public/
 uploadSmileys.bat
 debug.log
+blogs/True story/2021/*.ignore.md
