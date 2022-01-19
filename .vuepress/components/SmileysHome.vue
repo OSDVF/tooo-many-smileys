@@ -61,7 +61,7 @@
       <ModuleTransition delay="0.24">
         <Content v-show="recoShowModule" class="home-center" custom />
       </ModuleTransition>
-      <div class="comments-wrapper"><small>Všechny komentáře jsou veřeně viditelné 👀. Pokud chcete něco říct v soukromí, <router-link to="/docs/contact.html">můžete tady.</router-link></small></div>
+      <div class="comments-wrapper"><small>Všechny komentáře jsou veřejně viditelné 👀. Pokud chcete něco říct v soukromí, <router-link to="/docs/contact.html">můžete tady.</router-link></small></div>
       <ModuleTransition delay="0.32">
         <Comments :isShowComments="true" />
       </ModuleTransition>
