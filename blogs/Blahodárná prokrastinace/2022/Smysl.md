@@ -83,7 +83,7 @@ Poznámka: slovo "náboženství" používám ve smyslu "náboženská víra". N
 ## Jak ověřit objektivitu
 Začnu obecnou rovinou.
 Když v [[matematice]] dojdeš k výsledku, potvrdí ti ho kamarádi a učitelka, samotná [[matika]] ti neřekne "je to správně" protože neumí mluvit. I kdyby měla pusu a řekla ti to, jak by sis mohl být 100% jistý tím, co jsi slyšel? Jak víš, že zrovna teď nemáš halucinace?  
-Jaká autorita může říct, že je nějaký výsledek objektivně správný? 😀
+Jaká autorita může říct, že je nějaký výsledek objektivně správný? 😀 Vždycky uděláš drobný "leap of faith".
 
 ::: details IMS Vsuvka
 Máme aparáty, jako je tranzistor, které s velkou přesností aproximují logické chování - dokážeme je použít k vyhodnocení logických výrazů, které jsou značně jednoduché.  
@@ -100,18 +100,29 @@ To, že nedokážu smysl zjistit analyticky nic nemění na tom, že smysl můž
 :::
 
 ### Ověření na osobní rovině
-Člověk vyhodnocuje některé pocity jako žádoucí a jiné jako nežádoucí. Některé činy emocionálně přijímáme (když nám někdo pomáhá), jiné odmítáme (když nám někdo ubližuje). Dá se podle naší emocionality orientovat? Přemýšlím o smyslu vesmíru jako o entitě, která existuje na více rovinách. Když si vezmu, že když se hmota vyvíjí do dalších úrovní složitosti a nakonec spěje k bytostem, které mají osobnosti a emoce, nasvědčuje to vlastně tomu, že sám původ vesmíru je té samé povahy. Existuje na více rovinách, od malých konceptů až po osobnost.
+Člověk vyhodnocuje některé pocity jako žádoucí a jiné jako nežádoucí. Některé činy emocionálně přijímáme (když nám někdo pomáhá), jiné odmítáme (když nám někdo ubližuje). _Dá se podle naší emocionality orientovat?_ Přemýšlím o smyslu vesmíru jako o entitě, která existuje na více rovinách. Když si vezmu, že když se hmota vyvíjí do dalších "úrovní složitosti" a nakonec spěje k bytostem, které mají osobnosti a emoce, nasvědčuje to vlastně tomu, že sám původ vesmíru je té samé povahy. Existuje na více rovinách, od malých konceptů až po osobnost.
 
 ![Úrovně složitosti](/images/slozitosti.svg)
 Pokud je dobro a milující osoba Bůh v samotném smyslu vesmíru, tak je logické, že tento vesmír bude produkovat osoby, které budou na dobro a lásku zákonitě reagovat. Stejně jako elektrony zákonitě reagují na protony.
 
+- Odvodil jsem matematiku z dobra. Neporušuju odvozovací pravidla?
+    - Zabývá se tím [Matematika a dobro](https://www.databazeknih.cz/knihy/matematika-a-dobro-a-jine-eseje-116305), kterou jsem nečetl 😅
+    - Diskrétní simulace <sup>(viz IMS Vsuvku)</sup>: Absolutní dobro (obecně i pro konkrétní situaci) se nedá nikdy 100% zjistit. Proto mi zapadá na **úroveň pyramidy 0**, a jsme ho schopní jen aproximovat logikou
 - Stejně jako závěr výroku v [[matematice]] je odvoditelný jen z předpokladu, který jeho odvození umožňuje, tak bytosti s potřebou smyslu se mohly vyvinout jedině ve vesmíru, který k tomu prostě někdy mohl dospět.  
     - Tenhle jev si pak dovolujeme označit jako "Bůh to tak chtěl", nebo "antropický princip".
     To říká i Bible zde:
     > _**Kazatel 3:11 - mimochodem tohle je kniha i o nihilismu**_
     > On všechno učinil krásně a v pravý čas, lidem dal do srdce i touhu po věčnosti <sup class="text-primary" title="Ta se určitě prolíná i s touhou po smyslu">[?]</sup>, jenže člověk nevystihne začátek ani konec díla, jež Bůh koná.
 
-Výsledek by snad mohl být objektivní tehdy, když nejobjektivnější zdroj, jaký máš, potvrdí jeho objektivitu. 
+**Shrnutí:** _Výsledek by snad mohl být objektivní tehdy, když nejobjektivnější zdroj, jaký máš, potvrdí jeho objektivitu._
+
+#### Absolutní pravda
+Je všechno relativní (pravda, láska)?  
+Na křesťanech mám rád to, že prohlašují, že nemají absolutní pravdu typu 10~600 přikázání (i když to tak navenek možná vypadá a vypadalo), ale že přesto absolutní pravda existuje. Ježíš vypadá, že relativizuje všechny a všechno. Ale ve skutečnosti to dělá naopak. On absolutizuje. Přiřazuje ke každému činu situaci, ve které je ho třeba učinit. A protož nevidím "**pravdu pochopitelnou**" jako množinu výroků, ale množinu uspořádáních dvojic
+```json
+Pravda = {(výrok, situace_kdy_ho_použít), ...}
+```
+Ježíš zvyšuje eh... granularitu pravdy? 😜
 
 ## Jaký nejobjektivnější zdroj jsem našel
 Pro někoho je to právě jeho emocionalita, pro mě ne. Omlouvám se, že nedokážu dát příklady k něčemu jinému než Bibli a křesťanství, ale jsem všemu otevřený a rád někdy změním názor. Vždycky zaujímám ten, který nejvíc odpovídá mému vědění.  
@@ -153,7 +164,7 @@ Jejich počet samozřejmě nic neříká o jejich pravdivosti - ta se zkoumá po
 Neberu Bibli jako "kroniku" ale jako vyznání. Vyznat lásku můžeš: básní, životopisem, alegorií, popisem pracovního postupu, to všechno v Bibli je.
 :::
 
-Druhá polovina je diskrétní simulace (viz IMS Vsuvka) a osobní zkušenosti s Bohem. Když něco ochutnáš, tak je to dokonce i ve vědě považováno za objektivní pozorování 😋.
+Druhá polovina je diskrétní simulace a osobní zkušenosti s Bohem. Když něco ochutnáš, tak je to dokonce i ve vědě považováno za objektivní pozorování 😋.
 
 ### Co říká Bible o smyslu?
 Říká, že Bůh chtěl, ať existujeme, protože nás miluje. Nezištně. Trochu reverzní předpoklad a závěr, že?  
@@ -246,14 +257,6 @@ Láska, která by jednou skončila by byla k ničemu. Proto Bůh říká, že je
 > Hle, příbytek Boží uprostřed lidí, Bůh bude přebývat mezi nimi a oni budou jeho lid;  
 > on sám, jejich Bůh, bude s nimi, a setře jim každou slzu z očí. A smrti již nebude,  
 > ani žalu ani nářku ani bolesti už nebude – neboť co bylo, pominulo“
-
-## Absolutní pravda
-Je všechno relativní (pravda, láska)?  
-Na křesťanech mám rád to, že prohlašují, že nemají absolutní pravdu typu 10~600 přikázání (i když to tak navenek možná vypadá a vypadalo), a že přesto absolutní pravda existuje. Ježíš vypadá, že relativizuje všechny a všechno. Ale ve skutečnosti to dělá naopak. On absolutizuje. Přiřazuje ke každému činu situaci, ve které je ho třeba učinit. A protož nevidím pravdu jako množinu výroků, ale množinu uspořádáních dvojic
-```json
-Pravda = {(výrok, situace_kdy_ho_použít), ...}
-```
-Ježíš zvyšuje eh... granularitu pravdy? 😜
 
 ::: details Náhodná vsuvka
 Smysl by nebyl smyslem, kdyby existovalo ještě něco důležitějšího a většího, než on sám. (Proto nedává smysl otázka "kdo stvořil Boha")
