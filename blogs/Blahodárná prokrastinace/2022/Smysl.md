@@ -56,7 +56,7 @@ Víš, proč chtěl znát jeho jméno? Protože tehdy bylo všude praxí, že ab
 :::
 
 ### Kam jsem došel
-Ano, můj koncept je pořád, že smyslem existence vesmíru je logičnost, po pár implikacích dobro, v konečném důsledku láska. Na praktické rovině, aby každý člověk zažíval dobro. Na první pohled žádný rozdíl oproti existencialismu ani humanistickému principu, ale vzpomeň si na obrázek s rybou.
+Ano, můj koncept je pořád, že smyslem existence vesmíru je dobro, po pár implikacích logičnost, v konečném důsledku láska. Na praktické rovině, aby každý člověk zažíval dobro. Na první pohled žádný rozdíl oproti existencialismu ani humanistickému principu, ale vzpomeň si na obrázek s rybou.
 
 ::: details Rozdílů je ve skutečnosti dost
 Vzhledem k tomu, že Bůh k nám mluví z pozice principu, který přesahuje naše poznatky o fyzice a smrti, dává nám i náznaky odpovědí na otázky, které bychom jinak hodili do koše, kdyby všichni nakonec prostě umřeli a vesmír se jednou stal neobyvatelným.
@@ -96,7 +96,7 @@ V případě ověřování smyslu vesmíru je naším aparátem celý vesmír. N
     - Všechny kontradikce
     - Reinkarnace nezapadá k neustále se zvyšující populací lidstva
 
-To, že nedokážu smysl zjistit analyticky nic nemění na tom, že smysl může existovat. Z mého pohledu by vlastně nebylo logické, kdyby neexistoval.
+To, že nedokážu smysl zjistit analyticky, ale jen v průmětech, mi vlastně potvrzuje jeho existenci. Engine sám nemůže být součástí vesmíru, nebyl by pak složitější, než celý vesmír. Přívětivější programovací jazyky jedou na těch složitějších... y'know.
 :::
 
 ### Ověření na osobní rovině
@@ -137,11 +137,13 @@ Nejblíže tomuto 💎 modelu se mi zdá Bible. Není to dokument ve smyslu "dek
 Nejpřesněji se Bůh zjevil, když se narodil jako Ježíš (a položili ho do žlabu se žrádlem pro krávy). Objektivního výsledku rovnice se nezbavíš. Zůstane objektivním. Tak i Boha se nezbavíme. Stal se součástí naší historie.
 Často se mě lidi ptají, proč se Bůh všem lidem neukáže, aby v něj uvěřili. No hele on přišel, mluvil s nima a oni mu stejně nevěřili <small>(kvůli svobodné vůli)</small> a pak ho pověsili na kříž.
 
-Geniální je, že Ježíš sám žádnou knihu nenapsal. Matematické výrazy musí mít jednotný zápis po celém světě (nebo aspoň více ekvivalentních). Jak by mohl Bůh napsat knihu, která by řekla všem lidem přesně to samé? Navíc o vícerozměrných konceptech jako je on? Takový jazyk neexistuje (I když si umíme vícerozměrné prostory představit a popsat je. Je to jen přirovnání). Stejně by to v naších očích nezvýšilo důvěryhodnost a úplně všichni bychom tomu nevěřili. Tak se rozhodl, že se každému zjeví individuálně. Aby nám to trochu zjednodušil, vymyslel geniální plán. Postupně se nám do fyzického prostoru promítne ze všech stran a lidé z vesmíru, který jede na jeho enginu mají tendenci své zkušenosti shromažďovat. Poznatky, které jsou "mimo", přirozeně příliš dlouho na světě nezůstanou (jako špatná hudba), ale na těch správných se začnou později stavět další. Vzhledem k tomu, že chtěl oslovit i lidi, kteří ještě neznali DVD přehrávače, tak si jeho lidé vybrali psaní textů. Jiní je pak shromažďovali. A tak nám vykrystalizovala Bible. Říkáme, že je "Bohem inspirovaná", autoři a shromažďovátoři měli různé zdroje a pohnutky, ale stejný "zdroj inspirace", jedou na stejném enginu. Jo a tomu enginu říkají Duch Svatý.
+Geniální je, že Ježíš sám žádnou knihu nenapsal. Matematické výrazy mají jednotný zápis (nebo aspoň více ekvivalentních). Mohl by Bůh napsat knihu, která by řekla všem (včetně negramotných, hluchoněmých) přesně to samé? Navíc o vícerozměrných konceptech jako je on? Takový jazyk... neexistuje (I když si umíme vícerozměrné prostory představit a popsat je. Je to jen přirovnání). Stejně by to v naších očích nezvýšilo důvěryhodnost a úplně všichni bychom tomu nevěřili. Tak se rozhodl, že se každému zjeví individuálně. Aby nám to trochu zjednodušil, vymyslel geniální plán. Postupně se nám do fyzického prostoru promítne ze všech stran a lidé z vesmíru, který jede na jeho enginu, budou mít tendenci své zkušenosti shromažďovat. Poznatky, které jsou "mimo", přirozeně příliš dlouho na světě nezůstanou (jako špatná hudba), ale na těch správných se začnou později stavět další. Vzhledem k tomu, že chtěl oslovit i lidi, kteří ještě neznali DVD přehrávače, tak si jeho lidé vybrali psaní textů. Jiní je pak shromažďovali. A tak nám vykrystalizovala Bible. Říkáme, že je "Bohem inspirovaná", autoři a shromažďovátoři měli různé zdroje a pohnutky, ale stejný "zdroj inspirace", jedou na stejném enginu. Jo a tomu enginu říkají Duch Svatý.
+
+Druhý pohled je, že tou nej-knihou je celý vesmír.
 
 Bůh se nám (v Bibli možná z 90%) zjevuje jako osoba (protože je to pro nás pochopitelná forma)
 ::: details Formová vsuvka
-Náboženství, které o našem smyslu nemluví jako o osobě (e.g. taoismus) bývají značně kryptická, špatně pochopitelná. Jen osobu dokážeme milovat, že jo.
+Náboženství, které o našem smyslu nemluví jako o osobě (e.g. taoismus) bývají značně kryptická, špatně pochopitelná, i když třeba vidí to samé. Na druhou stranu, jen osobu dokážeme milovat, že jo.
 :::
 Když o něm mluvíme jako o osobě, používáme antropomorfismy. Bůh "miluje, nenávidí, řekl, svou mocnou pravicí ustanovil nebesa...". Už tímto ho docela omezujeme. Vznikají pak představy zákeřného starce na mráčku.
 
@@ -156,7 +158,7 @@ Proto tyto důvody považuji Bibli za polovinu svého nejobjektivnějšího zdro
 Rukopisy, jejichž obsah dneska najdeme i v Bibli, se našly v tolika exemplářích, že v podstatě neexistuje historicky věrnější zdroj. Jsou to stovky tisíců.  
 [Nekompletní seznam rukopisů s částmi starého zákona](https://en.wikipedia.org/wiki/List_of_Hebrew_Bible_manuscripts)  
 [Nekompletní seznam rukopisů s částmi nového zákona](https://en.wikipedia.org/wiki/Lists_of_New_Testament_manuscripts)  
-Druhý historicky nejvěrnější text je Homérova Illias. K tomuto je na Quoře [ftipná diskuze](https://qr.ae/pGB71Y).
+Třetí historicky nejvěrnější text je Homérova Illias. K tomuto je na Quoře [ftipná odpověď](https://qr.ae/pGB71Y).
 
 Jejich počet samozřejmě nic neříká o jejich pravdivosti - ta se zkoumá pomocí diskrétní simulace v mojí hlavě, viz "IMS Vsuvka" výše.
 Říká ale něco o jejich věrohodnosti - je to věrné tomu, co chtěli původní pisatelé předat.
@@ -196,7 +198,7 @@ Dá se to asi říct i tak, že na nízké úrovni je smyslem částic jen něja
 
 Ježíš s touhle láskou [agapé](https://cs.wikipedia.org/wiki/Agap%C3%A9) (řečtina má 4 slova pro lásku, agapé je vlastně její drobná redefinice) přišel ne k lidem, ale k člověku. Individuálně.
 
-::: details Příklady Ježíšovy lásky
+::: details Květnaté příklady Ježíšovy lásky
 > _**Evangelium podle Jana 8**_
 > <small>~1~Ježíš však odešel na Olivovou horu.
 > ~2~Na úsvitě přišel opět do chrámu a všechen lid se k němu shromažďoval. On se posadil a učil je.</small>  
