@@ -163,28 +163,32 @@ Představ si, že jseš nekonečno-rozměrná entita (pravda/dobro/logika/existe
 
 Jede na tobě, jeho enginem jsi ty (logika/pravda/existence/ a dobro už není tak znatelné ale taky jsem ho tam našel - na vyšší vrstvě).
 Zároveň jednou z tvých vrstev je **osoba**. Co dělá ta **osoba**?
-Z diskrétní simulace zjišťuju, že miluje sebe a raduje se. Pokud existuješ, Smysle, a znáš sám sebe, (smyslem smyslu může být jen on sám, logicky), máš z toho radost, miluješ sebe. Hele, támhle existují bytosti, které jsou ti docela podobné. Skoro tak, že dokážou být samy sobě smyslem. Ale jen skoro. A tak přirozeně chceš, aby našly tebe.
+Z diskrétní simulace zjišťuju, že miluje sebe a raduje se. Pokud existuješ, osobo Smysle, a znáš sám sebe, (smyslem smyslu může být jen on sám, logicky), máš z toho radost, miluješ sebe. Hele, támhle existují osoby, které jsou ti docela podobné. Skoro tak, že dokážou být samy sobě smyslem. Ale jen skoro. A tak přirozeně chceš, aby našly tebe.
 
 > _**Evangelium <small>(dobrá zpráva)</small> podle Marka 12:31**_
 > Druhé je toto: ‚Miluj svého bližního jako sám sebe!‘ Většího přikázání nad tato dvě není.“
 
 Lidsky řečeno: Bůh stvořil lidi, protože Bůh je láska. Z podstaty lásky vyplývá, že chce více lásky. Dobro je dobrem, když se rozlévá. Bůh chtěl, aby existovalo více entit jako je on, které znají lásku a ví, jaké to je, když je někdo opravdu miluje.
-Lidé opravdu chtějí dobro, pravdu, lásku, logiku, smysl. I ti, kteří dělají špatné věci, je dělají se záměrem, že potřebují naplnit nějaký svůj nedostatek, něco se tím "zlepší", něco získají, pro něco to **dobré** bude, faktžejo. Lidé i zvířata chtějí "nějaké dobro nějak". Chtějí, aby realita fungovala tak, byla taková, podle **toho, k čemu je v jejich hlavě svět určen.**  
+Lidé opravdu chtějí dobro, pravdu, lásku, logiku, smysl. I ti, kteří dělají špatné věci, je dělají se záměrem, že potřebují naplnit nějaký svůj nedostatek, něco se tím "zlepší", něco získají, pro něco to **dobré** bude, faktžejo. Lidé i zvířata chtějí "nějaké dobro nějak". Chtějí, aby realita fungovala tak, byla taková, podle **toho, k čemu je v jejich hlavě svět určen.** Konflikt sil na jakékoliv vrstvě složitosti se projeví nějakým "přetahováním" - u nás nepříjemnými pocity.  
 
-- Na nižší vrstvě: kladně nabité částice fungují tak, jsou určeny k tomu, aby přitahovaly ty opačně nabité. Fungují logicky. Když jim v tom něco brání, tak vznikne spor, síly se začnou přetahovat, vznikne konflikt. Částice spějí do cílového stavu, do kterého je vedou různé druhy sil.  
-- Na vyšší vrstvě: lidé fungují tak, jsou určeni k tomu, aby zažívali dobro. Zažívat dobro znamená fungovat logicky. Konflikt je v naší emocionalitě promítnut jako nežádoucí pocit. Osoby spějí k dobru.  
+- Básnicky: Pták doopravdy žije (je logický), když létá. Ryba žije, když plave.
+- Fyzicky: Částice se chovají logicky tím, že se řídí podle všech interakcí, které na ně působí.
+- Člověk jako osoba doopravdy žije, když žije v dobru, v lásce (to je něco jiného, než "mít lásku"). Smysl samotný je v mém pohledu na naší rovině Bůh i láska. 
+> _**1. List(dopis) Janův 4:16, 18-21**_
+> Také my jsme poznali lásku, kterou Bůh má k nám, a věříme v ni. Bůh _je_ láska, a kdo zůstává v lásce, v Bohu zůstává a Bůh v něm.  
+> Láska nezná strach; dokonalá láska strach zahání, vždyť strach působí muka, a kdo se bojí, nedošel dokonalosti v lásce.  
+> <small>My milujeme, protože Bůh napřed miloval nás.  
+> Řekne-li někdo: „Já miluji Boha,“ a přitom nenávidí svého bratra, je lhář. Kdo nemiluje svého bratra, kterého vidí, nemůže milovat Boha, kterého nevidí.  
+> A tak máme od něho toto přikázání: Kdo miluje Boha, ať miluje i svého bratra.</small>  
 
-Dá se to asi říct i tak, že smyslem a zákonem vesmíru je, aby byla v každé chvíli splněna kvantová teorie gravitace, všechno bylo v dokonalosti, ve správný čas na správném místě.
+Dá se to asi říct i tak, že na nízké úrovni je smyslem částic jen nějaký zákon. Aby byla v každé chvíli splněna kvantová teorie gravitace, všechno bylo v dokonalosti, ve správný čas na správném místě. Pak se to různě nabaluje a na osobnostní vrstvě je to láska.
 
-Je láska to nejdobřejší, co můžeš získat? Láskou myslím [agapé](https://cs.wikipedia.org/wiki/Agap%C3%A9) (řečtina má 4 slova pro lásku, agapé je vlastně její drobná redefinice).
-
-Lidsky řečeno: Nevím to jistě, ale došel jsem k tomu, že ano. Říkají to lidé napříč staletími. Říkají to všichni a všechno, i moje logika (Even when relativism kicks in).
-Ježíš s touhle láskou přišel ne k lidem, ale k člověku. Individuálně.
+Ježíš s touhle láskou [agapé](https://cs.wikipedia.org/wiki/Agap%C3%A9) (řečtina má 4 slova pro lásku, agapé je vlastně její drobná redefinice) přišel ne k lidem, ale k člověku. Individuálně.
 
 ::: details Příklady Ježíšovy lásky
 > _**Evangelium podle Jana 8**_
-> ~1~Ježíš však odešel na Olivovou horu.
-> ~2~Na úsvitě přišel opět do chrámu a všechen lid se k němu shromažďoval. On se posadil a učil je.  
+> <small>~1~Ježíš však odešel na Olivovou horu.
+> ~2~Na úsvitě přišel opět do chrámu a všechen lid se k němu shromažďoval. On se posadil a učil je.</small>  
 > ~3~Tu k němu zákoníci a farizeové přivedou ženu, přistiženou při cizoložství; postaví ji doprostřed
 > ~4~a řeknou mu: „Mistře, tato žena byla přistižena při činu jako cizoložnice.
 > ~5~V zákoně nám Mojžíš přikázal takové kamenovat. Co říkáš ty?“
@@ -203,11 +207,6 @@ Ježíš s touhle láskou přišel ne k lidem, ale k člověku. Individuálně.
 > I otevřel se mu sluch, uvolnilo se pouto jeho jazyka a mluvil správně.  
 
 Tento příběh si žádá rozsáhlejší výklad, ale důležité je, že Ježíš úplně odešel od zástupu - nepřemýšlí o lidech jako o nějaké skupině anonymů ale záleží mu na konkrétním **člověku**. Promlouvá k němu vždy jazykem, kterému rozumí - fyzický kontakt (je hluchoněmý, žejo). Rozvazuje člověka z věcí, které si nese od narození.
-
-> _**Zjevení Janovo 21:3-4**_
-> Hle, příbytek Boží uprostřed lidí, Bůh bude přebývat mezi nimi a oni budou jeho lid;  
-> on sám, jejich Bůh, bude s nimi, a setře jim každou slzu z očí. A smrti již nebude,  
-> ani žalu ani nářku ani bolesti už nebude – neboť co bylo, pominulo“
 
 > _**Parabible - parafráze Evangelia podle Jana 1:1-18**_
 > Na začátku byla Myšlenka
@@ -239,7 +238,14 @@ Tento příběh si žádá rozsáhlejší výklad, ale důležité je, že Jež�
 > Bůh. 
 :::
 
-Láska, která by jednou skončila by byla k ničemu. Proto Bůh říká, že jeho láska je věčná a že "svým dětem daruje život věčný" (Jan 3:16). To je další velká kapitola.
+Láska, která by jednou skončila by byla k ničemu. Proto Bůh říká, že jeho láska je věčná a že "svým dětem daruje život věčný". To je další velká kapitola.
+> _**Evangelium podle Jana 3:16**_
+> Neboť Bůh tak miloval svět, že dal svého jediného Syna, aby žádný, kdo v něho věří, nezahynul, ale měl život věčný.
+
+> _**Zjevení Janovo 21:3-4**_
+> Hle, příbytek Boží uprostřed lidí, Bůh bude přebývat mezi nimi a oni budou jeho lid;  
+> on sám, jejich Bůh, bude s nimi, a setře jim každou slzu z očí. A smrti již nebude,  
+> ani žalu ani nářku ani bolesti už nebude – neboť co bylo, pominulo“
 
 ## Absolutní pravda
 Je všechno relativní (pravda, láska)?  
