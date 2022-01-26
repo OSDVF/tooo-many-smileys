@@ -7,6 +7,7 @@ publish: false
 ---
 _Le subjektivní pohled de objektivní smysl. Aby byl aspoň tak objektivní, jako [[matematika]]._
 <!-- more -->
+![](/images/mouse.jpg)
 
 Účelem téhle eseje je můj malý brainstorming a taky, že nechci skrývat to, co vím, protože z toho mám radost.
 
@@ -17,17 +18,17 @@ Na některé věci musím jít trochu odzadu/pozpátku, snad poznáš kdy je to 
 Začnu tím, jak fungují
 
 ## Dějiny lidského objevování
-Když chceš něco objevit, zaprvé to musí existovat. Pak člověk pátrá. Výsledkem pátrání pak je nějaká vzpomínka, záznam, který člověk šíří do svého okolí, nebo si ho třeba vezme do hrobu.
+Člověk prostě pátrá. Výsledkem pátrání pak je nějaká vzpomínka, záznam, který člověk šíří do svého okolí, nebo si ho třeba vezme do hrobu.
 Člověk pátrající po smyslu, pokud se omezí na věci fyzické, tak (pokud ho neodradí relativismus) skončí třeba u dělání radosti lidem včetně sebe (humanistický princip). Ten, kdo jej hledá mimo ty věci fyzické, má možnost přijít na Boha.
 
 Ftipné na mém pohledu je, že pokud existuje Bůh, a je dobrý, tak na něj ten člověk narazil **v obou případech**.
 1. Akorát ho v prvním případě uvidí jako "Boha zjeveného v humanistickém principu".  
 Omezí se na jeden stín tohoto vícerozměrného Smyslu na naší třírozměrné realitě. Přirozeně 2D panáčci na papíře se taky nemůžou dotknout 3D koule a tak jim připadá nereálná. Můžou jen pozorovat její průměty, nebo třeba perspektivní projekce (jo, mám teď úplně druhé vánoce z vykreslovacích algoritmů). 
 ::: details Biblická vsuvka
-> _**List Jakubův 1:17**_
-> Všechno dobré a dokonalé je dar shůry od Otce světel. U něho není proměny ani střídání světla a stínu.
+> _**List Jakubův 1:17a**_
+> Všechno dobré a dokonalé je dar shůry od Otce světel.
 
-Proto křesťané respektují jiná náboženství, humanismus, i ateismus, protože se dívají hlavně na "ovoce".
+Proto křesťané respektují jiná náboženství, humanismus, i ateismus, protože se dívají hlavně na "ovoce" <small>(co to přináší)</small>.
 :::
 2. Druhý případ se liší tím,  
  že tento člověk vidí více těchto průmětů Boha zároveň (moudrost + láska + dokonalost + humanistický princip + historická osoba + zjevená neviditelná osoba) a uvěřil tomu, že jejich původce/zdroj je stejný.
@@ -96,7 +97,7 @@ V případě ověřování smyslu vesmíru je naším aparátem celý vesmír. N
     - Všechny kontradikce
     - Reinkarnace nezapadá k neustále se zvyšující populací lidstva
 
-To, že nedokážu smysl zjistit analyticky, ale jen v průmětech, mi vlastně potvrzuje jeho existenci. Engine sám nemůže být součástí vesmíru, nebyl by pak složitější, než celý vesmír. Přívětivější programovací jazyky jedou na těch složitějších... y'know.
+To, že nedokážu smysl zjistit analyticky, ale jen v průmětech, mi vlastně potvrzuje jeho existenci. Engine sám nemůže být součástí vesmíru, nebyl by pak složitější, než celý vesmír. Přívětivější programovací jazyky jedou na těch složitějších... u know.
 :::
 
 ### Ověření na osobní rovině
@@ -116,13 +117,13 @@ Pokud je dobro a milující osoba Bůh v samotném smyslu vesmíru, tak je logic
 
 **Shrnutí:** _Výsledek by snad mohl být objektivní tehdy, když nejobjektivnější zdroj, jaký máš, potvrdí jeho objektivitu._
 
-#### Absolutní pravda
+#### Absolutní dobro
 Je všechno relativní (pravda, láska)?  
-Na křesťanech mám rád to, že prohlašují, že nemají absolutní pravdu typu 10~600 přikázání (i když to tak navenek možná vypadá a vypadalo), ale že přesto absolutní pravda existuje. Ježíš vypadá, že relativizuje všechny a všechno. Ale ve skutečnosti to dělá naopak. On absolutizuje. Přiřazuje ke každému činu situaci, ve které je ho třeba učinit. A protož nevidím "**pravdu pochopitelnou**" jako množinu výroků, ale množinu uspořádáních dvojic
+Na křesťanech mám rád to, že prohlašují, že nemají absolutní pravdu typu 10~600 přikázání (i když to tak navenek možná vypadá a vypadalo), ale že přesto absolutní dobro existuje. Ježíš vypadá, že relativizuje všechny a všechno. Ale ve skutečnosti to dělá naopak. On absolutizuje. Přiřazuje ke každému činu situaci, ve které je ho třeba učinit. A protož nevidím "**pochopitelnou pravdu o tom, co je dobré**" jako množinu výroků, ale množinu uspořádáních dvojic
 ```json
-Pravda = {(výrok, situace_kdy_ho_použít), ...}
+Dobro = {(výrok, situace_kdy_ho_použít), ...}
 ```
-Ježíš zvyšuje eh... granularitu pravdy? 😜
+Ježíš zvyšuje eh... granularitu dobra? 😜
 
 ## Jaký nejobjektivnější zdroj jsem našel
 Pro někoho je to právě jeho emocionalita, pro mě ne. Omlouvám se, že nedokážu dát příklady k něčemu jinému než Bibli a křesťanství, ale jsem všemu otevřený a rád někdy změním názor. Vždycky zaujímám ten, který nejvíc odpovídá mému vědění.  
@@ -174,7 +175,7 @@ Asi to stoprocentně nikdy nepochopíme (stejně jako matiku, že jo, ze samotn�
 Když to řeknu jinak...  
 Představ si, že jseš nekonečno-rozměrná entita (pravda/dobro/logika/existence) a už z tvé podstaty prostě existuje vesmír. Jakoby jsi ho stvořil. <small>(=> asi chápeš, že výraz "stvořit svět" fakt chápu jinak, než když tvořím oběd).</small>
 
-Jede na tobě, jeho enginem jsi ty (logika/pravda/existence/ a dobro už není tak znatelné ale taky jsem ho tam našel - na vyšší vrstvě).
+Jede na tobě, jeho enginem jsi ty (pravda/dobro/logika/existence).
 Zároveň jednou z tvých vrstev je **osoba**. Co dělá ta **osoba**?
 Z diskrétní simulace zjišťuju, že miluje sebe a raduje se. Pokud existuješ, osobo Smysle, a znáš sám sebe, (smyslem smyslu může být jen on sám, logicky), máš z toho radost, miluješ sebe. Hele, támhle existují osoby, které jsou ti docela podobné. Skoro tak, že dokážou být samy sobě smyslem. Ale jen skoro. A tak přirozeně chceš, aby našly tebe.
 
@@ -266,3 +267,5 @@ Smysl by nebyl smyslem, kdyby existovalo ještě něco důležitějšího a vět
 
 ## A to je zatím vše
 Rád konfrontuji svoje poznatky se vším, co existuje. Pro mě ta esej účel snad splnila. Těším se, jaká bude odezva zase od tebe.
+
+![Sýr vypadá jinak ve 2D a ve 3D](/images/3d.png)
