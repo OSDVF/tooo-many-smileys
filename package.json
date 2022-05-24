@@ -12,7 +12,7 @@
     "server": "cd public && php -S localhost:8080"
   },
   "devDependencies": {
-    "@vue/composition-api": "^1.0.0-rc.1",
+    "@vue/composition-api": "^1.6.2",
     "@vuepress-reco/core": "^1.6.2",
     "@vuepress-reco/vuepress-plugin-back-to-top": "^1.6.0",
     "@vuepress-reco/vuepress-plugin-comments": "^1.6.0",
